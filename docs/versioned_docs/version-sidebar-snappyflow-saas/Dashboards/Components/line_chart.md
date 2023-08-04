@@ -1,3 +1,0 @@
-# Line Chart
-
-## Coming Soon...

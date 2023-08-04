@@ -1,3 +1,0 @@
-# Pie Chart
-
-## Coming Soon...

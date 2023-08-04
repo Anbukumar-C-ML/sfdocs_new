@@ -1,3 +1,0 @@
-# Java EC2
-
-## Coming Soon...

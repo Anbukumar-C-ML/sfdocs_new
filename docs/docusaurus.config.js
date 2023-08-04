@@ -72,6 +72,10 @@ const config = {
       }),
     ],
   ],
+  plugins: [ 
+    '@docusaurus/theme-live-codeblock',
+    require.resolve('docusaurus-plugin-image-zoom')
+  ],
   themes: [
     [
       require.resolve("@easyops-cn/docusaurus-search-local"),
@@ -289,6 +293,13 @@ const config = {
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
+      },
+      zoom: {
+        selector: '.main-wrapper img',
+        background: {
+          light: 'rgb(255, 255, 255)',
+          dark: 'rgb(50, 50, 50)'
+        },
       },
     }),
 };

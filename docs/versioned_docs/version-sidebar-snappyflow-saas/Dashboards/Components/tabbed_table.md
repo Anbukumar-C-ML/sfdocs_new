@@ -1,3 +1,0 @@
-# Tabbed Table
-
-## Coming Soon...

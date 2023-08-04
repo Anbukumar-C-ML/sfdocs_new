@@ -1,3 +1,0 @@
-# Key Based Line Chart
-
-## Coming Soon...

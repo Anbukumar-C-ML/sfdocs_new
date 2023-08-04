@@ -1,3 +1,0 @@
-# Distribution Chart
-
-## Coming Soon...

@@ -1,3 +1,0 @@
-# sfPoller Setup
-
-Coming Soon!
