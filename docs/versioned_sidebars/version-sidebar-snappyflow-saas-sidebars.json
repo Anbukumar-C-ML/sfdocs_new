@@ -12,6 +12,39 @@
               "label": "SnappyFlow Overview"
           }
       ]
+  },
+  {
+    "type": "category",
+    "label": "Quick Start Guide",
+    "className": "quickIcon",
+    "link": {
+        "type": "doc",
+        "id": "Quick_Start/getting_started"
+    },
+    "collapsed": true,
+    "items": [
+        {
+            "type": "doc",
+            "id": "Integrations/os/linux/sfagent_linux",
+            "label": "Monitor a Linux system"
+        },
+        {
+            "type": "doc",
+            "id": "Integrations/os/windows/sfagent_windows",
+            "label": "Monitor a Windows system"
+        },
+        {
+            "type": "doc",
+            "id": "Quick_Start/sfpoller_setup",
+            "label": "Monitor Cloud Services"
+        },
+        {
+            "type": "doc",
+            "id": "Integrations/kubernetes/kubernetes_monitoring_with_sfPod",
+            "label": "Monitor a Kubernetes cluster"
+        }
+       
+    ]
   }
   ]
 
