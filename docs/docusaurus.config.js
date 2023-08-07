@@ -139,7 +139,7 @@ const config = {
             target: '_self',
             position: 'right',
             label: 'Login',
-            class: 'loginButton',
+            class: 'docs',
           }, 
 			  {
 				 type: 'docsVersionDropdown',
