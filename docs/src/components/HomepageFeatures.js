@@ -44,7 +44,7 @@ const productList = [
       content: 'SnappyFlow Self-hosted Turbo is ideal for deployment in your own environment',
       button: 'Get Started',
       classname:'lite-btn',
-      url:'/sf-selfhosted-turbo/Quick_Start/getting_started' 
+      url:'docs/sidebar-sf-selfhosted-turbo/Quick_Start/getting_started' 
 	  
     },
 	  {
@@ -53,7 +53,7 @@ const productList = [
       content: 'A low footprint version of SnappyFlow ideal for small deployments with ingest upto 500 GB per day',
       button: 'Get Started',
       classname:'turbo-btn',
-      url:'/sf-selfhosted-lite/introduction/overview' 
+      url:'docs/introduction/overview' 
     },
   ];
 
