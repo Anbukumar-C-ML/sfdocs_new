@@ -36,7 +36,7 @@ const productList = [
       content: 'SnappyFlow Cloud is a full featured cloud-based offering',
       button: 'Get Started',
       classname:'saas-btn',
-      url:'/snappyflow-saas/introduction/overview'	  
+      url:'docs/sidebar-snappyflow-saas/introduction/overview'	  
     },
     {
       path: 'img/snappyflow-self-hosted.svg',
