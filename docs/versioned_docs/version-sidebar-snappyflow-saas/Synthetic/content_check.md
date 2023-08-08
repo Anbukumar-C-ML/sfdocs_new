@@ -7,7 +7,7 @@ sidebar_position: 3
 
 ## Enable Content Check
 
-The Content Check feature can be enabled while adding an API to the collection or enable it for an API already present in the collection. [Click here](/docs/Synthetic/overview#adding-apis-to-collections) to learn how to create an collection within sfPoller and to add an API to the collection.
+The Content Check feature can be enabled while adding an API to the collection or enable it for an API already present in the collection. [Click here](/docs/sidebar-snappyflow-saas/Synthetic/overview#adding-apis-to-collections) to learn how to create an collection within sfPoller and to add an API to the collection.
 
 **Follow the below steps to enable the Content Check feature while adding an API to the collection.**
 
@@ -61,7 +61,7 @@ Follow the below steps to view API metrics.
 If the result is **False**, then an alert will be generated to notify the result.
 :::
 
-Refer to the [Alerts Document](/docs/Alerts_notifications/getting_started) to learn about Alerts feature.
+Refer to the [Alerts Document](/docs/sidebar-snappyflow-saas/Alerts_notifications/getting_started) to learn about Alerts feature.
 
    
 

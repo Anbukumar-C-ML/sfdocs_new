@@ -2,7 +2,7 @@
 
 JAVA monitoring on SnappyFlow is available for the following platforms
 
-[Instances](/docs/Integrations/java/java_instances)
+[Instances](/docs/sidebar-sf-selfhosted-turbo/Integrations/java/java_instances)
 
-[Kubernetes](/docs/Integrations/java/java_kubernetes)
+[Kubernetes](/docs/sidebar-sf-selfhosted-turbo/Integrations/java/java_kubernetes)
 

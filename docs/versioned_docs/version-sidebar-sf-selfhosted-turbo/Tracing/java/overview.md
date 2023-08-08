@@ -45,13 +45,13 @@ The Java tracing feature can automatically instrument APIs, frameworks, and appl
 
 ## Supported Platforms
 
-**[Instances](/docs/Tracing/java/instance)** | **[Docker](/docs/Tracing/java/docker)**  |  **[ECS](/docs/Tracing/java/ecs)**  | **[Kubernetes](/docs/Tracing/java/kubernetes)**
+**[Instances](/docs/sidebar-sf-selfhosted-turbo/Tracing/java/instance)** | **[Docker](/docs/sidebar-sf-selfhosted-turbo/Tracing/java/docker)**  |  **[ECS](/docs/sidebar-sf-selfhosted-turbo/Tracing/java/ecs)**  | **[Kubernetes](/docs/sidebar-sf-selfhosted-turbo/Tracing/java/kubernetes)**
 
  
 
 ## Additional Trace Features 
 
-**[Capture Request Body](/docs/Tracing/java/capture_request_body)** | **[Log Correlation](/docs/Tracing/java/log_correlation)** 
+**[Capture Request Body](/docs/sidebar-sf-selfhosted-turbo/Tracing/java/capture_request_body)** | **[Log Correlation](/docs/sidebar-sf-selfhosted-turbo/Tracing/java/log_correlation)** 
 
 :::note
 

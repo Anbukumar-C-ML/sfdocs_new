@@ -7,7 +7,7 @@ sidebar_position: 3
 
 An integration feature to monitor Tomcat.
 
-[Documentation Reference](/docs/Integrations/tomcat/overview)
+[Documentation Reference](/docs/sidebar-sf-selfhosted-turbo/Integrations/tomcat/overview)
 
 Kindly reach out to [support@snappyflow.io](mailto:support@snappyflow.io) for more info.
 

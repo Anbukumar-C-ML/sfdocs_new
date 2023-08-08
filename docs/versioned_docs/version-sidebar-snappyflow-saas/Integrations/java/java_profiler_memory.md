@@ -5,7 +5,7 @@
 ### Pre-requisites
 
 - Install Java - JDK 11
-- [Install sfAgent on Linux](https://docs.snappyflow.io/docs/Integrations/os/linux/sfagent_linux)
+- [Install sfAgent on Linux](docs/sidebar-snappyflow-saas/Integrations/os/linux/sfagent_linux)
 
 :::note
 - Add **profile key** and SnappyFlow tags in the config.yaml.

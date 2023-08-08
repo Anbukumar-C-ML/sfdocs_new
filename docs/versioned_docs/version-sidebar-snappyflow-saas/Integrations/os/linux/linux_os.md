@@ -14,7 +14,7 @@ OS monitoring is the most commonly needed and most important aspect of monitorin
 
 ## Configuration
 
-Refer to [sfAgent](/docs/Quick_Start/getting_started#sfagent) section for steps to install and automatically generate plugin configurations. User can also manually add the configuration shown below to `config.yaml` under `/opt/sfagent/` directory
+Refer to [sfAgent](/docs/sidebar-snappyflow-saas/Quick_Start/getting_started#sfagent) section for steps to install and automatically generate plugin configurations. User can also manually add the configuration shown below to `config.yaml` under `/opt/sfagent/` directory
 
 ```yaml
 key: <profile_key> 
@@ -74,8 +74,8 @@ logging:
 
 ## See Also
 
-- [LSOF](/docs/integrations/os/linux/lsof) 
-- [PSUTIL](/docs/integrations/os/linux/psutil) 
-- [NETSTAT](/docs/integrations/os/linux/netstat) 
-- [Custom plugins using StatsD](/docs/integrations/statsd/custom_monitoring) 
-- [Prometheus Integration](/docs/Integrations/kubernetes/prometheus_exporter) 
+- [LSOF](/docs/sidebar-snappyflow-saas/integrations/os/linux/lsof) 
+- [PSUTIL](/docs/sidebar-snappyflow-saas/integrations/os/linux/psutil) 
+- [NETSTAT](/docs/sidebar-snappyflow-saas/integrations/os/linux/netstat) 
+- [Custom plugins using StatsD](/docs/sidebar-snappyflow-saas/integrations/statsd/custom_monitoring) 
+- [Prometheus Integration](/docs/sidebar-snappyflow-saas/Integrations/kubernetes/prometheus_exporter) 

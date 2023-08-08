@@ -2,7 +2,7 @@
 
 ## Overview
 
-Redis Sentinel on Instances is monitored using [sfAgent](/docs/Quick_Start/getting_started#sfagent) Configured with Redisdb Plugin. When Sentinel is Configured.
+Redis Sentinel on Instances is monitored using [sfAgent](/docs/sidebar-sf-selfhosted-turbo/Quick_Start/getting_started#sfagent) Configured with Redisdb Plugin. When Sentinel is Configured.
 
 Redis sentinel plugin was tested with 6.2.6 and 5.0.7 sentinel versions with ubuntu 20.04.4 LTS.
 

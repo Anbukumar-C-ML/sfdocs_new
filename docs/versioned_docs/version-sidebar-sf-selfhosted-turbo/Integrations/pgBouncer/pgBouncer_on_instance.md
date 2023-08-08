@@ -4,7 +4,7 @@
 
 <b>a. Install sfagent.</b>
 
-[Click here](/docs/Integrations/os/linux/sfagent_linux) to install sfagent to the application environment.
+[Click here](/docs/sidebar-sf-selfhosted-turbo/Integrations/os/linux/sfagent_linux) to install sfagent to the application environment.
 
 <b>b. Configure PgBouncer admin and stats user.</b>
 

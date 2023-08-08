@@ -6,7 +6,7 @@ sidebar_position: 3
 
 An integration feature that enables the monitoring of AWS infrastructure.
 
-[Documentation Reference](/docs/Integrations/plugin/aws)
+[Documentation Reference](/docs/sidebar-sf-selfhosted-turbo/Integrations/plugin/aws)
 
 Kindly reach out to [support@snappyflow.io](mailto:support@snappyflow.io) for more info.
 

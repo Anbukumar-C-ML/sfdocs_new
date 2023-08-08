@@ -7,7 +7,7 @@ sidebar_position: 3
 
 Integration feature to enable monitoring for Aurora database.
 
-[Documentation Reference](/docs/Integrations/plugin/auroraDB)
+[Documentation Reference](/docs/sidebar-snappyflow-saas/Integrations/plugin/auroraDB)
 
 Kindly reach out to [support@snappyflow.io](mailto:support@snappyflow.io) for more info.
 

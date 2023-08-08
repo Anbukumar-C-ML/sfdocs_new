@@ -2,7 +2,7 @@
 
 NGINX monitoring on SnappyFlow is available for the following platforms
 
-##### [Instances](/docs/Integrations/nginx/nginx_instance)
+##### [Instances](/docs/sidebar-snappyflow-saas/Integrations/nginx/nginx_instance)
 
-##### [Kubernetes](/docs/Integrations/nginx/nginx_kubernetes)
+##### [Kubernetes](/docs/sidebar-snappyflow-saas/Integrations/nginx/nginx_kubernetes)
 

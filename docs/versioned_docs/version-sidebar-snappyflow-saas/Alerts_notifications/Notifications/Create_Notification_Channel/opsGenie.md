@@ -67,4 +67,4 @@ API key from the Opsgenie platform.
 
 ## Add the Channel to the Project
 
-The next step is to add the notification channel to your project [Click here](/docs/Alerts_notifications/Notifications/Map_Notification_Alerts/map_projects_to_channels).
+The next step is to add the notification channel to your project [Click here](/docs/sidebar-snappyflow-saas/Alerts_notifications/Notifications/Map_Notification_Alerts/map_projects_to_channels).

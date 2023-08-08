@@ -7,7 +7,7 @@ sidebar_position: 3
 
 An integration feature that enables the monitoring of Docker.
 
-[Documentation Reference](/snappyflow-saas/Integrations/plugin/docker_monitoring)
+[Documentation Reference](docs/sidebar-snappyflow-saas/Integrations/plugin/docker_monitoring)
 
 Kindly reach out to [support@snappyflow.io](mailto:support@snappyflow.io) for more info.
 

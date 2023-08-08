@@ -32,4 +32,3 @@ Below are the various performance metrics that are captured by the `sf-apm-rum` 
 - [User Centric Metrics](./RUM_Metrics.md/#user-centric-metrics)
 - [JavaScript errors](./RUM_Metrics.md/#javascript-errors)
 
-

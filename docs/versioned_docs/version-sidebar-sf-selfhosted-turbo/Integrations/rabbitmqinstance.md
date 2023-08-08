@@ -2,7 +2,7 @@
 
 ### Overview
 
-Rabbitmq [sfAgent](/docs/Quick_Start/getting_started#sfagent) plugin provides metrics related to RabbitMQ message broker.  
+Rabbitmq [sfAgent](/docs/sidebar-sf-selfhosted-turbo/Quick_Start/getting_started#sfagent) plugin provides metrics related to RabbitMQ message broker.  
 
 Metrics collected by the plugin are organized across the following categories.
 
@@ -20,7 +20,7 @@ Metrics collected by the plugin are organized across the following categories.
 
 ### Configuration
 
-[sfAgent](/docs/Quick_Start/getting_started#sfagent) section provides steps to install and automatically generate plugin configurations. User can also manually add the configuration shown below to config.yaml under /opt/sfagent/ directory
+[sfAgent](/docs/sidebar-sf-selfhosted-turbo/Quick_Start/getting_started#sfagent) section provides steps to install and automatically generate plugin configurations. User can also manually add the configuration shown below to config.yaml under /opt/sfagent/ directory
 
 ## Metrics 
 

@@ -4,9 +4,9 @@
 
 Kafka on Kubernetes can be monitored in SnappyFlow using two approaches:
 
-- [sfKubeAgent](/docs/Integrations/kubernetes/sfkubeagent_installation) as sidecar container.
+- [sfKubeAgent](/docs/sidebar-sf-selfhosted-turbo/Integrations/kubernetes/sfkubeagent_installation) as sidecar container.
 
-- [Prometheus exporter](/docs/Integrations/kubernetes/prometheus_exporter)
+- [Prometheus exporter](/docs/sidebar-sf-selfhosted-turbo/Integrations/kubernetes/prometheus_exporter)
 
    
 
@@ -285,7 +285,7 @@ Plugin Type `kafkatopic` consists of documents organized into following types
 
 ## **Kafka monitoring with** Prometheus:
 
-Refer to [Prometheus Exporter Overview](/docs/Integrations/kubernetes/prometheus_exporter) to understand how SnappyFlow monitors using Prometheus exporters. 
+Refer to [Prometheus Exporter Overview](/docs/sidebar-sf-selfhosted-turbo/Integrations/kubernetes/prometheus_exporter) to understand how SnappyFlow monitors using Prometheus exporters. 
 
 ### Prerequisites
 

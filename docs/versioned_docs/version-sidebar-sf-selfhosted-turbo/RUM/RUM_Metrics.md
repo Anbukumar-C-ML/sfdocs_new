@@ -2,9 +2,9 @@
 
 - ### Apdex Rating
 	Apdex (Application Performance Index) is a measure of user satisifaction for a website that varies from 0 to 1 (0 = no users satisfied, 1 = all users satisfied). This rating is a numerical measure of user satisfaction with the performance of enterprise applications. Below is the formula for Apdex Rating  
-    $$
+  $$
      Apdex(t) = \frac{ SatisifiedCount + (ToleratedCount * 0.5) + (FrustratedCount * 0)}{ numTotalTransactions }
-    $$
+  $$
     where $$t$$ stands for the [target response time](./RUM_Glossary.md/#target-response-time)  
     If $$ResponseTime$$ is the time taken by the system to respond,  
     $$SatisifiedCount$$ stands for the number of [transactions](./RUM_Glossary.md/#transaction) where  
@@ -14,6 +14,7 @@
     $$FrustratedCount$$ stands for the number of transactions where  
     $$ResponseTime$$ $\gt$ 4t  
       
+
 :::note  
 In the Snappyflow RUM Dashboard, Apdex Rating is calculated by setting the target response time value as 500ms
 :::note  
@@ -25,7 +26,7 @@ In the Snappyflow RUM Dashboard, Apdex Rating is calculated by setting the targe
         This event is triggered when a DNS query is fired for the current page. The $$Duration$$ of this event is calculated as    
         $$Duration = domainLookupEnd - domainLookupStart$$ 
         where $$domainLookupStart$$ and $$domainLookupEnd$$ are the start and end times of the domain Lookup event.  
-          
+        
     - **Making a connection to the server**  
         This event is triggered when a TCP connection is established to the server. The $$Duration$$ of this event includes the TLS negotiation time for HTTPS pages and is calculated as  
         $$Duration = connectEnd - connectStart$$    
@@ -51,7 +52,8 @@ In the Snappyflow RUM Dashboard, Apdex Rating is calculated by setting the targe
         TTFB is the duration between the browser making an HTTP request for the initial document to the first byte of the page being received. `TTFB` is calculated as   
         $$TTFB = firstByteReceived - initialDocRequest$$  
         where $$initialDocRequest$$ is the time at which the request for the initial document is made and $$firstByteReceived$$` is the time at which first byte is received 
-    
+  
+
 :::note   
 The page-load transaction duration might not always reflect the Load event of the browser and can extend beyond the event. This is because in order to capture the overall user experience of the page including all of the above information plus additional resource requests that might be triggered during the execution of dependent resources.  
 :::note

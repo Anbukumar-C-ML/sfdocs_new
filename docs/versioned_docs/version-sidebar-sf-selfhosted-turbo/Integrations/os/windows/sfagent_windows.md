@@ -6,7 +6,7 @@ Monitoring of Windows based application requires installation of a lightweight a
 
 - Monitoring of various services based on specified configurations
 - Log parsing and collection
-- Trace Java, Python and Golang applications (check out [sfTracing](/docs/tracing/overview) for details)
+- Trace Java, Python and Golang applications (check out [sfTracing](/docs/sidebar-sf-selfhosted-turbo/tracing/overview) for details)
 
 ## Supported Platforms
 

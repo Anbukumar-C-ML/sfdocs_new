@@ -6,6 +6,6 @@ sidebar_position: 3
 
 A real user monitoring feature for the applications developed using React.
 
-[Documentation Reference](/docs/RUM/agent_installation/react)
+[Documentation Reference](/docs/sidebar-snappyflow-saas/RUM/agent_installation/react)
 
 Kindly reach out to [support@snappyflow.io](mailto:support@snappyflow.io) for more info.

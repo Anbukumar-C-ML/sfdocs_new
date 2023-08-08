@@ -9,31 +9,31 @@ const WhatsNews =(props)=>{
         {
           id:'1',
           label: 'Doc Update: Kubernetes Monitoring',
-          url:'/snappyflow-saas/release_note/platform/kubernetes',
+          url:'/docs/sidebar-snappyflow-saas/release_note/platform/kubernetes',
           updatedDate: '18 Jul 2023'
         },
         {
           id:'2',
           label: 'New Doc: User Access Management',
-          url:'/snappyflow-saas/introduction/user_access_management',
+          url:'/docs/sidebar-snappyflow-saas/Dashboards/user_access_management',
           updatedDate: '18 Jul 2023'
         },
         {
           id:'3',
           label: 'New Doc: Custom Parser',
-          url:'/snappyflow-saas/Log_management/custom_log_parser',
+          url:'/docs/sidebar-snappyflow-saas/Log_management/custom_log_parser',
           updatedDate: '18 Jul 2023'
         },
         {
           id:'4',
           label: 'New Doc: Identity Provider',
-          url:'/snappyflow-saas/Integrations/idp/overview',
+          url:'/docs/sidebar-snappyflow-saas/Integrations/idp/overview',
           updatedDate: '18 Jul 2023'
         },
         {
           id:'5',
           label: 'New Doc: Manage Logs',
-          url:'/snappyflow-saas/Log_management/manage_logs',
+          url:'/docs/sidebar-snappyflow-saas/Log_management/manage_logs',
           updatedDate: '18 Jul 2023'
         },
     ]

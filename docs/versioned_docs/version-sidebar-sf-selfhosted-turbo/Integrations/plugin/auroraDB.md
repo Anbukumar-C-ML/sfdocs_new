@@ -10,7 +10,7 @@ Amazon Aurora is a cloud-native relational database engine and it is compatible 
 
 To collect metrics of Aurora DB, it is necessary to have an IAM Role with CloudWatch access and sfpoller set up within your AWS environment. 
 
-[Click here](/docs/sfPoller/aws_setup) to learn more about setting up sfpoller in your AWS environment.
+[Click here](/docs/sidebar-sf-selfhosted-turbo/sfPoller/aws_setup) to learn more about setting up sfpoller in your AWS environment.
 
 ##### Create a Policy to Access CloudWatch
 

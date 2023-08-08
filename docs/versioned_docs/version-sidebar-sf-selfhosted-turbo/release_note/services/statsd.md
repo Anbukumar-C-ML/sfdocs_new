@@ -6,6 +6,6 @@ sidebar_position: 3
 
 An integration feature to monitor StatsD.
 
-[Documentation Reference](/docs/Integrations/statsd/custom_monitoring)
+[Documentation Reference](/docs/sidebar-sf-selfhosted-turbo/Integrations/statsd/custom_monitoring)
 
 Kindly reach out to [support@snappyflow.io](mailto:support@snappyflow.io) for more info.

@@ -8,8 +8,8 @@ SnappyFlow supports monitoring of HCP Consul and Envoy metrics through [StatsD](
 
 ## Pre-Requisites
 
-- Install [sfAgent](/docs/Quick_Start/getting_started#sfagent) on target machine
-- Since [StatsD](/docs/Integrations/statsd/custom_monitoring) plugin is used, a custom rules file is required for Monitoring HCP Consul. Default rule files are available at `/opt/sfagent/statsd_rules/` folder.
+- Install [sfAgent](/docs/sidebar-snappyflow-saas/Quick_Start/getting_started#sfagent) on target machine
+- Since [StatsD](/docs/sidebar-snappyflow-saas/Integrations/statsd/custom_monitoring) plugin is used, a custom rules file is required for Monitoring HCP Consul. Default rule files are available at `/opt/sfagent/statsd_rules/` folder.
 
 ## Configuring StatsD plugin
 

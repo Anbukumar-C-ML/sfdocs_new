@@ -6,7 +6,7 @@ sidebar_position: 3
 
 Monitor Linux operating system.
 
-[Documentation Reference](/docs/Integrations/os/linux/overview)
+[Documentation Reference](/docs/sidebar-sf-selfhosted-turbo/Integrations/os/linux/overview)
 
 Kindly reach out to [support@snappyflow.io](mailto:support@snappyflow.io) for more info.
 

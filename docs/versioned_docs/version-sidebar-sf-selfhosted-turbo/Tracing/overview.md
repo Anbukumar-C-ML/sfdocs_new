@@ -4,14 +4,14 @@ SnappyFlow supports distributed tracing compliant with Opentracing  standard. Tr
 
 #### Select your language
 
-##### [Java](/docs/Tracing/java)
+##### [Java](/docs/sidebar-sf-selfhosted-turbo/Tracing/java)
 
-##### [Python](/docs/Tracing/python/overview)
+##### [Python](/docs/sidebar-sf-selfhosted-turbo/Tracing/python/overview)
 
-##### [Ruby](/docs/Tracing/ruby/overview)
+##### [Ruby](/docs/sidebar-sf-selfhosted-turbo/Tracing/ruby/overview)
 
-##### [Go](/docs/Tracing/go)
+##### [Go](/docs/sidebar-sf-selfhosted-turbo/Tracing/go)
 
-##### [Node.js](/docs/Tracing/nodejs)
+##### [Node.js](/docs/sidebar-sf-selfhosted-turbo/Tracing/nodejs)
 
-##### [C#](/docs/Tracing/csharp)
+##### [C#](/docs/sidebar-sf-selfhosted-turbo/Tracing/csharp)

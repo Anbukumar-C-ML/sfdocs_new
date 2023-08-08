@@ -18,7 +18,7 @@ The NodeJS tracing automatically instruments APIs, frameworks and application se
 #### Supported Trace Features 
 
 Below is the list of the supported trace features:
- 
+
 * Distributed Tracing
 * Transaction Mapping
 * **[Log Correlation](nodejs#log-correlation)**
@@ -50,7 +50,6 @@ Follow the below steps to enable the tracing for the application based on Node.J
 
    and run  the `npm install` command in the CLI to install dependencies.
    
-
 2. 
    - If the sfAgent is already installed in your instance, the trace agent picks up the profileKey, projectName, and appName from the config.yaml file. Add the below entries in your application’s main file at starting of the file (usually `index.js`, `server.js` or `app.js`). <br/><br/>
     i. Add the following source code to integrate the Express application to the SnappyFlow.
@@ -88,7 +87,7 @@ Follow the below steps to enable the tracing for the application based on Node.J
           SF_PROJECT_NAME=<project name>
           SF_APP_NAME=<app-name>
           SF_PROFILE_KEY=<profile-key>
-         ``` 
+         ```
       2. Install the dotenv library.
          ```
          npm install dotenv
@@ -97,21 +96,21 @@ Follow the below steps to enable the tracing for the application based on Node.J
          ```
            require('dotenv').config();
          ```
-     iii. Add the following source code in the main file to integrate the Express application to the SnappyFlow.
+         iii. Add the following source code in the main file to integrate the Express application to the SnappyFlow.
 
        ```javascript
-
+     
        const Snappyflow = require('sf-apm-lib');
        // Initialize Snappyflow. By default intialization will take profileKey, projectName and appName from sfagent config.yaml. 
        var sfObj = new Snappyflow(); 
-
+     
        // Add below part to manually configure the initialization 
        let projectName = process.env.SF_PROJECT_NAME; 
        let appName = process.env.SF_APP_NAME; 
        let profileKey = process.env.SF_PROFILE_KEY; 
        sfObj.init(profileKey, projectName, appName);
        let sfTraceConfig = sfObj.getTraceConfig();
-
+     
        var apm; 
        try { 
           apm = require('elastic-apm-node').start({ 
@@ -143,7 +142,7 @@ Once your application is up and running, follow the below steps to verfiy that t
 5. Now you can view the traces in **Aggregate** and **Real Time tabs**.
 	 <img src="/img/Trace_AggregateTab.png" /><br/>
 	  <img src="/img/Trace_RealTime.png" /><br/>
-	  
+	
 #### Troubleshooting
 
 1. If the trace data is not collected in the SnappyFlow server, then check the trace configuration in the application main file.
@@ -270,7 +269,7 @@ Once your application is up and running, follow the below steps to verfiy that t
        const Snappyflow = require('sf-apm-lib');
        // Initialize Snappyflow. By default intialization will take profileKey, projectName and appName from sfagent config.yaml. 
        var sfObj = new Snappyflow(); 
-
+       
        // Add below part to manually configure the initialization 
        let projectName = process.env.SF_PROJECT_NAME; 
        let appName = process.env.SF_APP_NAME; 
@@ -394,7 +393,7 @@ Follow the below steps to enable the tracing for the application based on Node.J
     ```javascript
     const Snappyflow = require('sf-apm-lib');
     var sfObj = new Snappyflow(); 
-
+    
     // Add below part to manually configure the initialization 
     let projectName = process.env.SF_PROJECT_NAME; 
     let appName = process.env.SF_APP_NAME; 
@@ -440,7 +439,7 @@ Follow the below steps to enable the tracing for the application based on Node.J
             value: <project_name>
          - name: SF_APP_NAME
             value: <app-name>
-      ``` 
+      ```
    If the deployment is with helm charts, provide the above variables in the `values.yaml` and use them in the deployment file of charts. 
 
       ```yaml
@@ -450,7 +449,7 @@ Follow the below steps to enable the tracing for the application based on Node.J
       sfappname: <app-name>
       sfprojectname: <project-name>
       key: <profile-key>
-
+   
       replicaCount: 1
       image:
       repository: nodeapp
@@ -488,7 +487,7 @@ Once your application is up and running, follow the below steps to verfiy that t
 5. Now you can view the traces in **Aggregate** and **Real Time tabs**.
 	 <img src="/img/Trace_AggregateTab.png" /><br/>
 	  <img src="/img/Trace_RealTime.png" /><br/>
-   
+
 #### Troubleshooting
 
 1. If the trace data is not collected in the SnappyFlow server, then check the trace configuration in the application main file.
@@ -652,7 +651,7 @@ Follow the below steps to enable the tracing for the application based on Node.J
     ```javascript
     const Snappyflow = require('sf-apm-lib');
     var sfObj = new Snappyflow(); 
-
+  
     // Add below part to manually configure the initialization 
     let projectName = process.env.SF_PROJECT_NAME; 
     let appName = process.env.SF_APP_NAME; 
@@ -870,13 +869,13 @@ Follow the below steps to enable the tracing for the application based on Node.J
    and run  the `npm install` command in the CLI to install dependencies.
 
 2. Make sure the project and application is created in the SnappyFlow Server. **[Click Here](https://stage-docs.snappyflow.io/docs/RUM/agent_installation/others#create-a-project-in-snappyflow-portal)** to know how to create the project and application in SnappyFlow.  
- 
+
 3.  Add the below entries in your application’s main file at starting of the file (usually `index.js`, `server.js` or `app.js`). 
   
       ```javascript
       const Snappyflow = require('sf-apm-lib');
       var sfObj = new Snappyflow(); 
-
+    
       // Add below part to manually configure the initialization 
       let projectName = process.env.SF_PROJECT_NAME; 
       let appName = process.env.SF_APP_NAME; 
@@ -1154,7 +1153,7 @@ Request bodies usually contain sensitive data like passwords and credit card num
          # default value is true, 
          sfTraceConfig['SFTRACE_GLOBAL_LABELS'] += ',_tag_redact_body=true'
          ```
-         
+    
 2. Follow the below steps in the starting of the main file to customize the document type and destination index. (Optional) 
 
      1. Add below line to customize the destination index (Default:"log"), Applicable values(log, metric).
@@ -1184,7 +1183,7 @@ The overall sample configuration is below:
      } catch (e) {
       console.log(e);
     }
-   ```    
+   ```
 
 ### Verification
 

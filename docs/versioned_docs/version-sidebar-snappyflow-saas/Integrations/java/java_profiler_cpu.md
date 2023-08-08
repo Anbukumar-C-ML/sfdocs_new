@@ -3,12 +3,12 @@
 ## Pre-requisites
 
 - Install Java - JDK 11
-- [Install sfAgent on Linux](https://docs.snappyflow.io/docs/Integrations/os/linux/sfagent_linux)
+- [Install sfAgent on Linux](/docs/sidebar-snappyflow-saas/Integrations/os/linux/sfagent_linux)
 
 :::note
 - Add **profile key** and SnappyFlow tags in the config.yaml.
 - For **existing customers**, update SFAgent config.yaml with latest - profile key, if SFAgent is already deployed.
-- Reference for installing **sfAgent** : [Click here](https://docs.snappyflow.io/docs/Integrations/os/linux/sfagent_linux)
+- Reference for installing **sfAgent** : [Click here](/docs/sidebar-snappyflow-saas/Integrations/os/linux/sfagent_linux)
 - Name and AppName should always be **unique** (pair).
 - **jcmd equivalent :** Application Dashboard >> Process Name
 :::

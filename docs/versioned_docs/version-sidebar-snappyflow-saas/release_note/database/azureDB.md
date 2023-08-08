@@ -7,7 +7,7 @@ sidebar_position: 3
 
 Integration feature to enable monitoring for Azure DB.
 
-[Documentation Reference](/docs/release_note/database/azureDB)
+[Documentation Reference](/docs/sidebar-snappyflow-saas/Integrations/plugin/azuredb)
 
 Kindly reach out to [support@snappyflow.io](mailto:support@snappyflow.io) for more info
 

@@ -10,7 +10,7 @@ Amazon Elastic Container Service (ECS) is a cloud-based and fully managed contai
 
 ## Prerequisite
 
-Ensure that both the project and application are created within sfPoller. If they have not been created yet, you can [click here](https://stage-docs.snappyflow.io/docs/sfPoller/aws_setup#configure-sfpoller) to learn how to create a project and application in sfPoller.
+Ensure that both the project and application are created within sfPoller. If they have not been created yet, you can [click here](/docs/sidebar-snappyflow-saas/sfPoller/aws_setup#configure-sfpoller) to learn how to create a project and application in sfPoller.
 
 
 

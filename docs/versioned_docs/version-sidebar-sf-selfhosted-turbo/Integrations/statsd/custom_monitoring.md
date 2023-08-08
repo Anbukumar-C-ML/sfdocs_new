@@ -397,10 +397,10 @@ Output
 
 ## See Also 
 
-[Linux monitoring](/docs/integrations/os/linux/linux_os)
+[Linux monitoring](/docs/sidebar-sf-selfhosted-turbo/integrations/os/linux/linux_os)
 
-[LSOF](/docs/integrations/os/linux/lsof)
+[LSOF](/docs/sidebar-sf-selfhosted-turbo/integrations/os/linux/lsof)
 
-[NETSTAT](/docs/integrations/os/linux/netstat)
+[NETSTAT](/docs/sidebar-sf-selfhosted-turbo/integrations/os/linux/netstat)
 
-[Prometheus Integration](/docs/Integrations/kubernetes/prometheus_exporter) 
+[Prometheus Integration](/docs/sidebar-sf-selfhosted-turbo/Integrations/kubernetes/prometheus_exporter) 

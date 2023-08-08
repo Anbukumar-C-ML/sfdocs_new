@@ -2,7 +2,7 @@
 
 ## Overview
 
-Redis on instances is monitored using [sfAgent](/docs/Quick_Start/getting_started#sfagent) configured with Redisdb plugin  
+Redis on instances is monitored using [sfAgent](/docs/sidebar-sf-selfhosted-turbo/Quick_Start/getting_started#sfagent) configured with Redisdb plugin  
 
 ### Metrics plugin
 

@@ -73,5 +73,5 @@ Receriver email id is configured in Step 3: Map Alerts to Notification Channel. 
 
 8. Click the **` Add new`**  (**1**) button to create multiple Email notification profiles.
 
-   You have successfully created an Email notification channel. The next step is to map the notification channel to your project [Click here](/snappyflow-saas/Alerts_notifications/Notifications/Map_Notification_Alerts/map_projects_to_channels).
+   You have successfully created an Email notification channel. The next step is to map the notification channel to your project [Click here](/docs/sidebar-snappyflow-saas/Alerts_notifications/Notifications/Map_Notification_Alerts/map_projects_to_channels).
 

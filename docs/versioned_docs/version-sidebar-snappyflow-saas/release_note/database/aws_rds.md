@@ -7,7 +7,7 @@ sidebar_position: 3
 
 Integration feature to enable monitoring for AWS RDS.
 
-[Documentation Reference](/docs/release_note/database/aws_rds)
+[Documentation Reference](/docs/sidebar-snappyflow-saas/release_note/database/aws_rds)
 
 Kindly reach out to [support@snappyflow.io](mailto:support@snappyflow.io) for more info.
 

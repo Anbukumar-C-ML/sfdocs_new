@@ -1,6 +1,6 @@
 # Monitor HAProxy Server
 
-## Overview[](https://docs.snappyflow.io/docs/Integrations/haproxy#overview)
+## Overview
 
 HAProxy is a free, very fast and reliable solution offering high availability, load balancing and proxying for TCP and Http-based applications. HAProxy monitoring involves monitoring of the following aspects:
 
@@ -14,7 +14,7 @@ The configurations given below apply only to the HAProxy server running on an in
 
 :::
 
-## Prerequisites[](https://docs.snappyflow.io/docs/Integrations/haproxy#prerequisites)
+## Prerequisites
 
 1. Configure HAProxy Access Logs
 
@@ -62,9 +62,9 @@ The configurations given below apply only to the HAProxy server running on an in
    - Add below line to frontend configuration to capture requests:
      - `capture request header User-Agent len 128`.
 
-## Configuration[](https://docs.snappyflow.io/docs/Integrations/haproxy#configuration)
+## Configuration
 
-[sfAgent](https://docs.snappyflow.io/docs/Quick_Start/getting_started#sfagent) section provides steps to install and automatically generate plugin configurations. User can also manually add the configuration shown below to `config.yaml` under `/opt/sfagent/` directory.
+[sfAgent](docs/sidebar-sf-selfhosted-turbo/Quick_Start/getting_started#sfagent) section provides steps to install and automatically generate plugin configurations. User can also manually add the configuration shown below to `config.yaml` under `/opt/sfagent/` directory.
 
 ```
 key: <profile key> 
@@ -98,7 +98,7 @@ logging:
 
 ```
 
-## Viewing data and dashboards[](https://docs.snappyflow.io/docs/Integrations/haproxy#viewing-data-and-dashboards)
+## Viewing data and dashboards
 
 Data collected by plugins can be viewed in SnappyFlow’s browse data section under metrics section
 

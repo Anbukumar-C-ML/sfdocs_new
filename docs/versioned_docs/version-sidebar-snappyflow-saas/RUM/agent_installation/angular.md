@@ -67,31 +67,31 @@ If a project and application is already created or discovered on the snappyflow 
 
 ### Create a project in snappyflow portal
 i. Click on `+ Add New` in the snappyflow home page -> `+ New Project`. 
-  
+
 ![image](../images/create-proj-1.png)
-  
+
 ii. Provide the required details -> `Save & Close`.  
-  
+
 ![image](../images/create-proj-2.png)
-  
+
 iii. The project will be created.  
-  
+
 ![image](../images/create-proj-3.png)
-  
+
 
 ### Create an application under the required project
 i. Click on the menu next to project name -> `+ Add application`.  
-  
+
 ![image](../images/create-app-1.png)
-  
+
 ii. Provide the required details -> `Add`.  
-  
+
 ![image](../images/create-app-2.png)
-  
+
 iii. The application will be created.
 
 ![image](../images/create-app-3.png)
-  
+
 
 Use the above project name and application name in the [sf-apm-rum agent configuration](#step-5-configure-the-sf-apm-rum-agent).
 
@@ -134,4 +134,3 @@ Open the Developer tools for the configured web application on the browser -> Cl
 
 ##### iii. **Check if the configurations are correct**  
 Check if the projectName and appName provided in the [Step 5](#step-5-configure-the-sf-apm-rum-agent) are matching the project name and application name in the snappyflow server.  
-  

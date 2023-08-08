@@ -48,7 +48,7 @@ The configurations given below apply only to the Apache Zookeeper running on an 
 
 ## Configuration
 
-[sfAgent](/docs/quick_start/getting_started#sfagent) section provides steps to install and automatically generate plugin configurations. User can also manually add the configuration shown below to `config.yaml` under `/opt/sfagent/` directory
+[sfAgent](/docs/sidebar-sf-selfhosted-turbo/quick_start/getting_started#sfagent) section provides steps to install and automatically generate plugin configurations. User can also manually add the configuration shown below to `config.yaml` under `/opt/sfagent/` directory
 
 ```yaml
 key: <Profile_key>
@@ -111,7 +111,7 @@ Data collected by plugins can be viewed in SnappyFlow’s browse data section
 
 ## See Also
 
-[Kafka](/docs/Integrations/kafka)
+[Kafka](/docs/sidebar-sf-selfhosted-turbo/Integrations/kafka)
 
 Elasticsearch
 
@@ -119,4 +119,4 @@ Kafka-REST
 
 Kafka-Connect
 
-[ActiveMQ](/docs/Integrations/activemq)
+[ActiveMQ](/docs/sidebar-sf-selfhosted-turbo/Integrations/activemq)

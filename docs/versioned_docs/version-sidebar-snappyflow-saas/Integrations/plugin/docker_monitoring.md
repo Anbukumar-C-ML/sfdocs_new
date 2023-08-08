@@ -4,7 +4,7 @@ Docker is an open platform for developing, shipping, and running applications. D
 
 ## Docker monitoring
 
-Docker running on linux can be monitored using Snappyflow sfagent. Refer the link for installation of sfagent https://docs.snappyflow.io/docs/Integrations/os/linux/sfagent_linux.
+Docker running on linux can be monitored using Snappyflow sfagent. Refer the [link](/docs/sidebar-snappyflow-saas/Integrations/os/linux/sfagent_linux.) for installation of sfagent.
 
 ## Configuration 
 

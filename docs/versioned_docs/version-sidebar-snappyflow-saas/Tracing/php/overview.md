@@ -25,7 +25,7 @@ The PHP tracing feature automatically instruments APIs, frameworks, and applicat
 
 ## Supported Platforms
 
- **[Instance](/docs/Tracing/php/instance)** | **[Docker](/docs/Tracing/php/docker)** | **[ECS](/docs/Tracing/php/ECS)**
+ **[Instance](/docs/sidebar-snappyflow-saas/Tracing/php/instance)** | **[Docker](/docs/sidebar-snappyflow-saas/Tracing/php/docker)** | **[ECS](/docs/sidebar-snappyflow-saas/Tracing/php/ECS)**
 
 
 

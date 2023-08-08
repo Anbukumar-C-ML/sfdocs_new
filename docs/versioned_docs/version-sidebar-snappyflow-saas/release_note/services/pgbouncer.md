@@ -7,7 +7,7 @@ sidebar_position: 3
 
 An integration feature to monitor Pgbouncer.
 
-[Documentation Reference](/docs/Integrations/pgBouncer/pgBouncer_on_instance)
+[Documentation Reference](/docs/sidebar-snappyflow-saas/Integrations/pgBouncer/pgBouncer_on_instance)
 
 Kindly reach out to [support@snappyflow.io](mailto:support@snappyflow.io) for more info.
 

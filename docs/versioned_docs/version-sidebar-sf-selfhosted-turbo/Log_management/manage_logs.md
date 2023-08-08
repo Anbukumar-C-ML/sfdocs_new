@@ -1,15 +1,14 @@
 # Manage Logs
 
 ## Overview
- 
+
 By default, all ingested logs are stored in the primary storage for maximum of 7 days. You can access log related data in the **Primary Storage** pane of the **Log Management** section. If you wish to view logs beyond the 7-day retention period, they should be stored in the Secondary Storage.
 
 In the **Manage Logs** pane, you can establish rules for each plugin/document type to determine whether logs should be stored in primary storage or secondary storage.
 
 **Rules**: The rules helps you to enable or disable Primary Storage and Secondary Storage for a `plugin + document type` combination. 
- 
 
-## Components of Mange Logs Pane
+## Components of Manage Logs Pane
 
 <img src="/img/log_management/manage_logs/image_1.png" />
 

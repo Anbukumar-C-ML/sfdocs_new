@@ -10,13 +10,13 @@ Monitoring these APIs helps you gain insights into API response times and their 
 
 ## Prerequisites
 
-Synthetic Monitoring requires setting up [sfPoller](/docs/sfPoller/overview) Appliance. sfPoller is an agent that runs on a dedicated virtual machine and is used to monitor cloud services, databases and APIs. sfPoller is required for both SnappyFlow cloud (SaaS) and SnappyFlow Self Hosted variants
+Synthetic Monitoring requires setting up [sfPoller](/docs/sidebar-snappyflow-saas/sfPoller/overview) Appliance. sfPoller is an agent that runs on a dedicated virtual machine and is used to monitor cloud services, databases and APIs. sfPoller is required for both SnappyFlow cloud (SaaS) and SnappyFlow Self Hosted variants
 
 
 
 ## How it works
 
-[sfPoller](/docs/sfPoller/overview) monitors individual APIs and API collections and sends the performance data to SnappyFlow dashboard. sfPoller Appliance contains all the necessary information on the list of APIs and API collections and other configuration information.
+[sfPoller](/docs/sidebar-snappyflow-saas/sfPoller/overview) monitors individual APIs and API collections and sends the performance data to SnappyFlow dashboard. sfPoller Appliance contains all the necessary information on the list of APIs and API collections and other configuration information.
 
 <img src="/img/sf-poller-diagram.svg" />
 
@@ -24,7 +24,7 @@ Synthetic Monitoring requires setting up [sfPoller](/docs/sfPoller/overview) App
 
 ## Setting up sfPoller Appliance
 
-Detailed instructions to setup sfPoller can be found [here](/docs/sfPoller/overview).
+Detailed instructions to setup sfPoller can be found [here](/docs/sidebar-snappyflow-saas/sfPoller/overview).
 
 
 

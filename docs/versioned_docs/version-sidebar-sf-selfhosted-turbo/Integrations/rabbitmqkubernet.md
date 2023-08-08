@@ -2,11 +2,11 @@
 
 RabbitMQ running in Kubernetes can be monitored in SnappyFlow using:
 
-- [sfKubeAgent](/docs/Integrations/kubernetes/sfkubeagent_installation) as sidecar container.
+- [sfKubeAgent](/docs/sidebar-sf-selfhosted-turbo/Integrations/kubernetes/sfkubeagent_installation) as sidecar container.
 
 ### MySQL monitoring with sfKubeAgent
 
-In this approach, [sfKubeAgent](/docs/Integrations/kubernetes/sfkubeagent_installation) is run as a side-car inside RabbitMQ pod. The example below shows the config-map for sfKubeAgent container, config-map for RabbitMQ container and pod yaml.
+In this approach, [sfKubeAgent](/docs/sidebar-sf-selfhosted-turbo/Integrations/kubernetes/sfkubeagent_installation) is run as a side-car inside RabbitMQ pod. The example below shows the config-map for sfKubeAgent container, config-map for RabbitMQ container and pod yaml.
 
  ### ConfigMap for RabbitMQ sfKubeAgent:
 
