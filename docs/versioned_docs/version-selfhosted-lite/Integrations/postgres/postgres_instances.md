@@ -2,7 +2,7 @@
 
 ## Overview
 
-PostgreSQL on instances is monitored using [sfAgent](/sf-selfhosted-lite/Quick_Start/getting_started#sfagent) configured with Postgres plugin.
+PostgreSQL on instances is monitored using [sfAgent](/selfhosted-lite/Quick_Start/getting_started#sfagent) configured with Postgres plugin.
 
 ## Get Started
 
@@ -65,7 +65,7 @@ Once the extension is added restart the Postgres service using the following com
 
 ## Configuration
 
-Refer to [sfAgent](/sf-selfhosted-lite/Quick_Start/getting_started#sfagent) section for steps to install and automatically generate plugin configurations. User can also manually add the configuration shown below to `config.yaml` under `/opt/sfagent/ directory`.
+Refer to [sfAgent](/selfhosted-lite/Quick_Start/getting_started#sfagent) section for steps to install and automatically generate plugin configurations. User can also manually add the configuration shown below to `config.yaml` under `/opt/sfagent/ directory`.
 
 ```yaml
 key: <profile_key> 

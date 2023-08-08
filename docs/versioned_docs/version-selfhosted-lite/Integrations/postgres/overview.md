@@ -14,5 +14,5 @@ Integrating a PostgreSQL database with SnappyFlow allows you to monitor the data
 
 ## Supported Platforms
 
-[**Instances**](/sf-selfhosted-lite/integrations/postgres/postgres_instances) | [**Kubernetes**](/sf-selfhosted-lite/integrations/postgres/postgres_kubernetes) | [**AWS RDS**](/sf-selfhosted-lite/integrations/postgres/postgres_sfpoller)
+[**Instances**](/selfhosted-lite/integrations/postgres/postgres_instances) | [**Kubernetes**](/selfhosted-lite/integrations/postgres/postgres_kubernetes) | [**AWS RDS**](/selfhosted-lite/integrations/postgres/postgres_sfpoller)
 
