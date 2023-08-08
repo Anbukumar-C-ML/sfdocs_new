@@ -33,7 +33,7 @@ sfTrace Java Agent automatically instruments APIs, frameworks and application se
 #### Supported Trace Features
 
 Below is the list of the supported trace features:
- 
+
 * Distributed Tracing
 * Transaction Mapping
 * **[Log Correlation](java#log-correlation)**
@@ -43,7 +43,7 @@ Below is the list of the supported trace features:
 
 ## Instances
 
-Install [sfAgent](/docs/Quick_Start/getting_started#sfagent) which automatically installs sfTrace agent as well.
+Install [sfAgent](/docs/sidebar-snappyflow-saas/Quick_Start/getting_started#sfagent) which automatically installs sfTrace agent as well.
 
 Link the application with sfTrace Java Agent
 
@@ -355,12 +355,12 @@ If you are using the fargate type, add the following information to the existing
 	
     - In the entry point text box provided the sh,-c
 	- In the command text box add the below command which is highlighted
-  
+
   ```shell
   mkdir /sfagent && wget -O /sfagent/sftrace-agent.tar.gz https://github.com/snappyflow/apm-agent/releases/download/latest/sftrace-agent.tar.gz && cd /sfagent && tar -xvzf sftrace-agent.tar.gz && java -javaagent:/sfagent/sftrace/java/sftrace-java-agent.jar -jar applicationjarfile.jar  
   ```
      - Add the environmental variables which is required to send the trace data to snappyflow server
- 
+     
     |  Key | Value  |
     | --- | --- |
     | ELASTIC_APM_USE_PATH_AS_TRANSACTION_NAME  | true |
@@ -369,11 +369,11 @@ If you are using the fargate type, add the following information to the existing
     | SFTRACE_PROFILE_KEY | Profile_key |
     | SFTRACE_PROJECT_NAME | Project_Name |
     |  SFTRACE_SERVICE_NAME| Service_Name |
-
+    
     :::note
     Snappyflow trace agent s should not discover the new project, the values which you are providing like app name and project name must and should already be available in the snappyflow APM.
     :::note
-
+    
     -  Click on update, it will close the edit container pop up.
 
 6. Click on create, it will create the new revision for your task definition

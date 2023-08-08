@@ -53,7 +53,7 @@ version may vary depending upon the Linux distribution.
 
  
 
-Refer to [sfAgent](/docs/Quick_Start/getting_started#sfagent) section for steps to install and automatically generate plugin configurations.  User can also manually add the configuration shown below to `config.yaml` under `/opt/sfagent/` directory 
+Refer to [sfAgent](/docs/sidebar-sf-selfhosted-turbo/Quick_Start/getting_started#sfagent) section for steps to install and automatically generate plugin configurations.  User can also manually add the configuration shown below to `config.yaml` under `/opt/sfagent/` directory 
 
 ```yaml
 key: <profile_key> 
@@ -120,9 +120,9 @@ All the traffic related (IPv4, IPv6) file types are combined as *IPv4/6* typ
 
  
 
-- [Linux monitoring](/docs/integrations/os/linux/linux_os)
-- [PSUTIL](/docs/integrations/os/linux/psutil)
-- [NETSTAT](/docs/integrations/os/linux/netstat)
-- [Custom plugins using StatsD](/docs/integrations/statsd/custom_monitoring)
-- [Prometheus Integration](/docs/Integrations/kubernetes/prometheus_exporter) 
+- [Linux monitoring](/docs/sidebar-sf-selfhosted-turbo/integrations/os/linux/linux_os)
+- [PSUTIL](/docs/sidebar-sf-selfhosted-turbo/integrations/os/linux/psutil)
+- [NETSTAT](/docs/sidebar-sf-selfhosted-turbo/integrations/os/linux/netstat)
+- [Custom plugins using StatsD](/docs/sidebar-sf-selfhosted-turbo/integrations/statsd/custom_monitoring)
+- [Prometheus Integration](/docs/sidebar-sf-selfhosted-turbo/Integrations/kubernetes/prometheus_exporter) 
 

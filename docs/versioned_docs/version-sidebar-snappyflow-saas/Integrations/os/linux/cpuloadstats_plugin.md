@@ -26,7 +26,7 @@ Ubuntu: 14.x, 16.x
 
 ## Prerequisites
 
-- [sfAgent](/docs/Quick_Start/getting_started#sfagent) must be installed
+- [sfAgent](/docs/sidebar-snappyflow-saas/Quick_Start/getting_started#sfagent) must be installed
 
 - The cpuLoadStats plugin requires sysstat to be installed
 

@@ -7,6 +7,6 @@ sidebar_position: 3
 
 An integration feature to monitor Apache server.
 
-[Documentation Reference](/docs/Integrations/apache/overview)
+[Documentation Reference](/docs/sidebar-snappyflow-saas/Integrations/apache/overview)
 
 Kindly reach out to [support@snappyflow.io](mailto:support@snappyflow.io) for more info.

@@ -96,7 +96,7 @@ Examples
 
 3. **Command**
 
-   It comprises of single or multiple functions which are executed one by one, on the contents of `field_name`. The function can either be a [skip](/docs/Log_management/skip_functions) or an [extract](/docs/Log_management/extract_functions) function.
+   It comprises of single or multiple functions which are executed one by one, on the contents of `field_name`. The function can either be a [skip](/docs/sidebar-sf-selfhosted-turbo/Log_management/skip_functions) or an [extract](/docs/sidebar-sf-selfhosted-turbo/Log_management/extract_functions) function.
 
 
 
@@ -115,19 +115,19 @@ There are two type of functions - Skip and Extract.
 
 | Skip Functions | Extract Functions |
 |--|--|
-| [skip](/docs/Log_management/skip_functions#skip) | [extractword](/docs/Log_management/extract_functions#extractword) |
-| [skipchar](/docs/Log_management/skip_functions#skipchar) | [extractchar](/docs/Log_management/extract_functions#extractchar) |
-| [skipword](/docs/Log_management/skip_functions#skipword) | [extractnum](/docs/Log_management/extract_functions#extractnum) |
-| [skipuntil](/docs/Log_management/skip_functions#skipuntil) | [extractuntil](/docs/Log_management/extract_functions#extractuntil) |
-|  | [extractpattern](/docs/Log_management/extract_functions#extractpattern) |
-|  | [extractjson](/docs/Log_management/extract_functions#extractjson) |
-|  | [extractregex](/docs/Log_management/extract_functions#extractregex) |
-|  | [extractregexgroup](/docs/Log_management/extract_functions#extractregexgroup) |
-|  | [extractkeyvalue](/docs/Log_management/extract_functions#extractkeyvalue) |
-|  | [extractjsonkeys](/docs/Log_management/extract_functions#extractjsonkeys) |
-|  | [extracttime](/docs/Log_management/extract_functions#extracttime) |
-|  | [extracttillend](/docs/Log_management/extract_functions#extracttillend) |
-|  | [inextractkeyvalue](/docs/Log_management/extract_functions#inextractkeyvalue) |
+| [skip](/docs/sidebar-sf-selfhosted-turbo/Log_management/skip_functions#skip) | [extractword](/docs/sidebar-sf-selfhosted-turbo/Log_management/extract_functions#extractword) |
+| [skipchar](/docs/sidebar-sf-selfhosted-turbo/Log_management/skip_functions#skipchar) | [extractchar](/docs/sidebar-sf-selfhosted-turbo/Log_management/extract_functions#extractchar) |
+| [skipword](/docs/sidebar-sf-selfhosted-turbo/Log_management/skip_functions#skipword) | [extractnum](/docs/sidebar-sf-selfhosted-turbo/Log_management/extract_functions#extractnum) |
+| [skipuntil](/docs/sidebar-sf-selfhosted-turbo/Log_management/skip_functions#skipuntil) | [extractuntil](/docs/sidebar-sf-selfhosted-turbo/Log_management/extract_functions#extractuntil) |
+|  | [extractpattern](/docs/sidebar-sf-selfhosted-turbo/Log_management/extract_functions#extractpattern) |
+|  | [extractjson](/docs/sidebar-sf-selfhosted-turbo/Log_management/extract_functions#extractjson) |
+|  | [extractregex](/docs/sidebar-sf-selfhosted-turbo/Log_management/extract_functions#extractregex) |
+|  | [extractregexgroup](/docs/sidebar-sf-selfhosted-turbo/Log_management/extract_functions#extractregexgroup) |
+|  | [extractkeyvalue](/docs/sidebar-sf-selfhosted-turbo/Log_management/extract_functions#extractkeyvalue) |
+|  | [extractjsonkeys](/docs/sidebar-sf-selfhosted-turbo/Log_management/extract_functions#extractjsonkeys) |
+|  | [extracttime](/docs/sidebar-sf-selfhosted-turbo/Log_management/extract_functions#extracttime) |
+|  | [extracttillend](/docs/sidebar-sf-selfhosted-turbo/Log_management/extract_functions#extracttillend) |
+|  | [inextractkeyvalue](/docs/sidebar-sf-selfhosted-turbo/Log_management/extract_functions#inextractkeyvalue) |
 
 
 

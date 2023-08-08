@@ -7,7 +7,7 @@ sidebar_position: 3
 
 An integration feature to monitor ActiveMQ message broker.
 
-[Documentation Reference](/docs/Integrations/activemq)
+[Documentation Reference](/docs/sidebar-snappyflow-saas/Integrations/activemq)
 
 Kindly reach out to [support@snappyflow.io](mailto:support@snappyflow.io) for more info.
 

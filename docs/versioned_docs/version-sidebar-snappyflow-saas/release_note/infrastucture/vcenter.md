@@ -7,7 +7,7 @@ sidebar_position: 3
 
 An integration feature that enables the monitoring of vCenter infrastructure.
 
-[Documentation Reference](/docs/Integrations/plugin/vcenter)
+[Documentation Reference](/docs/sidebar-snappyflow-saas/Integrations/plugin/vcenter)
 
 Kindly reach out to [support@snappyflow.io](mailto:support@snappyflow.io) for more info.
 

@@ -1,22 +1,5 @@
 # Getting Started
 
-SnappyFlow is offered in two modes - SaaS and On-Prem Saas 
-
-<div class="panel_container row">
-   <div class="innerText"> 
-   <a href="#setup-saas-account">
-        <h3>SnappyFlow Cloud</h3>Monitored end-points send data securely to SnappyFlow SaaS.</a></div>
-<div class="innerText"> 
-  <a href="#setup-on-prem-saas">
-  <h3>Self-Hosted </h3>SnappyFlow is deployed within user’s cloud account and all data is retained within the account. Features are identical to SaaS.</a></div>
-</div>
-
-## Setup SnappyFlow Account
-
-- Go to [www.snappyflow.io](https://www.snappyflow.io/) 
-- Register for a free trial. A demo account will be created with a pre-configured sample application 
-- Request an upgrade to Full Trial by clicking on the link provided in the top bar. You will get an  email stating “your trial environment is ready” once SnappyFlow team approves your trial request. 
-
 ## Setup Self-Hosted SnappyFlow
 
 - SnappyFlow can be deployed in
@@ -26,17 +9,8 @@ SnappyFlow is offered in two modes - SaaS and On-Prem Saas
   - AWS cloud
   
   - Azure cloud
-
 - Deployment can be automated using templates and scripts provided by SnappyFlow 
-
-- SnappyFlow self-hosted version is available in two flavors
-  
-  - Ingest rates below 500 GB/Day
-  
-  - Ingest rates above 500 GB/Day
-
 - For seeting up SnappyFlow in AWS or Azure, [click here](/docs/quick_start/snappyflow_self_hosted)
-
 - For ingest rates above 500 GB/Day, please reach out to [support@snappyflow.io](mailto:support@snappyflow.io). A support engineer will understand your data ingest rates and provide an appropriately sized solution 
 
 ## Important terminologies and concepts
@@ -114,10 +88,10 @@ SnappyFlow mandates that all end-points should be assigned two tags - `_tag_proj
 
 Try out one of the simple exercises to familiarize yourself with the product 
 
-##### [Monitor a Linux instance](/docs/integrations/os/linux/linux_os)
+##### [Monitor a Linux instance](/docs/sidebar-sf-selfhosted-turbo/integrations/os/linux/linux_os)
 
-##### [Monitor a Kubernetes Cluster](/docs/integrations/kubernetes/kubernetes_monitoring_with_sfPod)
+##### [Monitor a Kubernetes Cluster](/docs/sidebar-sf-selfhosted-turbo/integrations/kubernetes/kubernetes_monitoring_with_sfPod)
 
-##### [Monitor a Windows instance](/docs/integrations/os/windows/sfagent_windows)
+##### [Monitor a Windows instance](/docs/sidebar-sf-selfhosted-turbo/integrations/os/windows/sfagent_windows)
 
-##### [Trace an application](/docs/Tracing/overview)
+##### [Trace an application](/docs/sidebar-sf-selfhosted-turbo/Tracing/overview)

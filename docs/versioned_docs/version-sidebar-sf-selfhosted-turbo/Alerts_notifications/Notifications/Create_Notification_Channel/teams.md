@@ -73,5 +73,5 @@ The incoming Webhook URL from your Teams account is required to integrate the Sn
 
 9. Click the **` Add new`** button to create multiple Teams notification profiles.
 
-   You have successfully created a Teams notification channel. The next step is to map the notification to your project [Click here](/docs/Alerts_notifications/Notifications/Map_Notification_Alerts/map_projects_to_channels).
+   You have successfully created a Teams notification channel. The next step is to map the notification to your project [Click here](/docs/sidebar-sf-selfhosted-turbo/Alerts_notifications/Notifications/Map_Notification_Alerts/map_projects_to_channels).
 

@@ -7,7 +7,7 @@ sidebar_position: 3
 
 Integration feature to enable monitoring for DocumentDB.
 
-[Documentation Reference](/docs/Integrations/docdb/)
+[Documentation Reference](/docs/sidebar-snappyflow-saas/Integrations/docdb/)
 
 Kindly reach out to [support@snappyflow.io](mailto:support@snappyflow.io) for more info.
 

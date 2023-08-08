@@ -77,7 +77,7 @@ const productList = [
         darkPathOver: 'img/landing_page_icon/ft-dark-logs-hover.svg',
         title: 'Log Management',
         content: 'Collect, store, visualise and analyze logs from multiple sources. Extract data from logs and correlate with traces for easy troubleshooting',
-        url: '/snappyflow-saas/Log_management/log_overview',
+        url: 'docs/sidebar-snappyflow-saas/Log_management/log_overview',
         class: 'log'
     },
     {
@@ -88,7 +88,7 @@ const productList = [
         darkPathOver: 'img/landing_page_icon/ft-dark-tracing-hover.svg',
         title: 'Tracing',
         content: 'Track each step of a request or transcation and get detailed visibility into the flow of requests across multiple services',
-        url: '/snappyflow-saas/category/tracing',
+        url: 'docs/sidebar-snappyflow-saas/category/tracing',
         class: 'tracing'
     } ,
     {
@@ -99,7 +99,7 @@ const productList = [
         darkPathOver: 'img/landing_page_icon/ft-dark-alerts-hover.svg',
         title: 'Alerts',
         content: 'Detect specific events such as system failures, errors, security breaches or any other predefined criteria that require attention or action',
-        url: '/snappyflow-saas/Alerts_notifications/getting_started',
+        url: 'docs/sidebar-snappyflow-saas/Alerts_notifications/getting_started',
         class: 'alert'
     },
 	{
@@ -110,7 +110,7 @@ const productList = [
         darkPathOver: 'img/landing_page_icon/ft-dark-notification-hover.svg',
         title: 'Notifications',
         content: 'Stay informed about the alerts generated in SnappyFlow through communication channels such as Email, Zenduty, PagerDuty etc...',
-        url: '/snappyflow-saas/Alerts_notifications/Notifications/introduction',
+        url: 'docs/sidebar-snappyflow-saas/Alerts_notifications/Notifications/introduction',
         class: 'notification'
     },
 	{
@@ -121,7 +121,7 @@ const productList = [
         darkPathOver: 'img/landing_page_icon/ft-dark-dashboard-hover.svg',
         title: 'Dashboard',
         content: 'Bring data together to visualize key metrics and get deep insights into the performance of your application',
-        url: '/snappyflow-saas/category/dashboards',
+        url: 'docs/sidebar-snappyflow-saas/category/dashboards',
         class: 'dashboard'
     },
 	{
@@ -132,7 +132,7 @@ const productList = [
         darkPathOver: 'img/landing_page_icon/ft-dark-synthetic-monitoring-hover.svg',
         title: 'Synthetic Monitoring',
         content: 'Simulate user interactions with a website to proactively identify potential issues before they impact real users',
-        url: '/snappyflow-saas/Synthetic/overview',
+        url: 'docs/sidebar-snappyflow-saas/Synthetic/overview',
         class: 'syntheticmonitoring'
     },
   ];
@@ -247,7 +247,7 @@ export default function HomepageFeatures() {
                              </a>
                           </div>
                           <div className={styles.toolSection}>
-                            <a href='/snappyflow-saas/Integrations/overview' target='_blank'>
+                            <a href='docs/sidebar-snappyflow-saas/Integrations/overview' target='_blank'>
                               <div className={styles.imageOuter}><img src="img/explore.svg" className={styles.light} /> <img src="img/explore_dark.svg" className={styles.dark} /></div>
                                 <div className="msg">Explore Integrations</div>
                                  

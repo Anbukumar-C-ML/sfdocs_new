@@ -17,7 +17,7 @@ PSUtil Metric plugin is an agent-based plugin that collects below data for each 
 
 ## Agent Configuration
 
-Refer to [sfAgent](/docs/Quick_Start/getting_started#sfagent) section for steps to install and automatically generate plugin configurations. User can also manually add the configuration shown below to `config.yaml` under `/opt/sfagent/` directory
+Refer to [sfAgent](/docs/sidebar-sf-selfhosted-turbo/Quick_Start/getting_started#sfagent) section for steps to install and automatically generate plugin configurations. User can also manually add the configuration shown below to `config.yaml` under `/opt/sfagent/` directory
 
 ```yaml
 key: <profile_key> 
@@ -76,8 +76,8 @@ Ubuntu: 14.x, 16.x
 
 ## See Also
 
-- [Linux monitoring](/docs/integrations/os/linux/linux_os)
-- [LSOF](/docs/integrations/os/linux/lsof)
-- [NETSTAT](/docs/integrations/os/linux/netstat)
-- [Custom plugins using StatsD](/docs/integrations/statsd/custom_monitoring)
-- [Prometheus Integration](/docs/Integrations/kubernetes/prometheus_exporter)
+- [Linux monitoring](/docs/sidebar-sf-selfhosted-turbo/integrations/os/linux/linux_os)
+- [LSOF](/docs/sidebar-sf-selfhosted-turbo/integrations/os/linux/lsof)
+- [NETSTAT](/docs/sidebar-sf-selfhosted-turbo/integrations/os/linux/netstat)
+- [Custom plugins using StatsD](/docs/sidebar-sf-selfhosted-turbo/integrations/statsd/custom_monitoring)
+- [Prometheus Integration](/docs/sidebar-sf-selfhosted-turbo/Integrations/kubernetes/prometheus_exporter)

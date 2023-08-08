@@ -10,7 +10,7 @@ Follow the below steps to start tracings for an application packed and built usi
 
 ### Prerequisite
 
-Install [sfAgent](/docs/Quick_Start/getting_started#sfagent) to monitor Java application running on instance.
+Install [sfAgent](/docs/sidebar-snappyflow-saas/Quick_Start/getting_started#sfagent) to monitor Java application running on instance.
 
 ### Configuration
 

@@ -2,7 +2,7 @@
 
 ## Overview
 
-JVM on instances is monitored using [sfAgent](/docs/Quick_Start/getting_started#sfagent) configured with jvm plugin. The plugin monitors JVM metrics, jvm arguments used to start Java process and deadlock metrics. JVM plugin internally uses the following utilities to collect metrics: 
+JVM on instances is monitored using [sfAgent](/docs/sidebar-sf-selfhosted-turbo/Quick_Start/getting_started#sfagent) configured with jvm plugin. The plugin monitors JVM metrics, jvm arguments used to start Java process and deadlock metrics. JVM plugin internally uses the following utilities to collect metrics: 
 
 - **Jstats** for JVM metrics 
 - **Jolokia** will be started by plugin to collect deadlock metrics if monitor Deadlocks parameter is set in configuration file 
@@ -17,7 +17,7 @@ Jcmd has to be installed in the instance
 
 ## Configuration 
 
-[sfAgent](/docs/Quick_Start/getting_started#sfagent) section provides steps to install and automatically generate plugin configurations. User can also manually add the configuration shown below to `config.yaml` under `/opt/sfagent/` directory 
+[sfAgent](/docs/sidebar-sf-selfhosted-turbo/Quick_Start/getting_started#sfagent) section provides steps to install and automatically generate plugin configurations. User can also manually add the configuration shown below to `config.yaml` under `/opt/sfagent/` directory 
 
 ```yaml
 key: <profile_key> 

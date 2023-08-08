@@ -10,11 +10,11 @@ The metrics of MySQL DB running in AWS are gathered by sfPoller and displayed wi
 
 To collect metrics of Postgres DB hosted on AWS, it is necessary to have a sfpoller set up within your AWS environment.
 
-[Click here](/docs/sfPoller/aws_setup) to learn more about setting up sfpoller in your AWS environment.
+[Click here](/docs/sidebar-snappyflow-saas/sfPoller/aws_setup) to learn more about setting up sfpoller in your AWS environment.
 
 ## Configure sfPoller
 
-Ensure that both the project and application are created within sfPoller. If they have not been created yet, you can [click here](/docs/sfPoller/aws_setup#configure-sfpoller) to learn how to create a project and application in sfPoller.
+Ensure that both the project and application are created within sfPoller. If they have not been created yet, you can [click here](/docs/sidebar-snappyflow-saas/sfPoller/aws_setup#configure-sfpoller) to learn how to create a project and application in sfPoller.
 
 The video below explains the steps involved in setting up sfPoller to monitor a MySQL database running on AWS.
 

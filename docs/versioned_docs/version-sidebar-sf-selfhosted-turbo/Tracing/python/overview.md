@@ -23,7 +23,7 @@ The Python tracing feature automatically instruments APIs, frameworks, and appli
 
 ## Supported Platforms
 
-**[Instances](/docs/Tracing/python/python_on_instance)** | **[Kubernetes](/docs/Tracing/python/python_in_kubernetes)** | **[ECS](/docs/Tracing/python/python_in_ECS)** | **[Docker](/docs/Tracing/python/python_in_docker)** |**[AWS Lambda](/docs/Tracing/python/aws_lamda)**
+**[Instances](/docs/sidebar-sf-selfhosted-turbo/Tracing/python/python_on_instance)** | **[Kubernetes](/docs/sidebar-sf-selfhosted-turbo/Tracing/python/python_in_kubernetes)** | **[ECS](/docs/sidebar-sf-selfhosted-turbo/Tracing/python/python_in_ECS)** | **[Docker](/docs/sidebar-sf-selfhosted-turbo/Tracing/python/python_in_docker)** |**[AWS Lambda](/docs/sidebar-sf-selfhosted-turbo/Tracing/python/aws_lamda)**
 
 
 

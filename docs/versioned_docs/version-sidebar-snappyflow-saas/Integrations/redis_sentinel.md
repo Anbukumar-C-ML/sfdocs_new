@@ -2,7 +2,7 @@
 
 ## Overview
 
-Redis Sentinel on Instances is monitored using [sfAgent](/docs/Quick_Start/getting_started#sfagent) Configured with Redisdb Plugin. When Sentinel is Configured.
+Redis Sentinel on Instances is monitored using [sfAgent](/docs/sidebar-snappyflow-saas/Quick_Start/getting_started#sfagent) Configured with Redisdb Plugin. When Sentinel is Configured.
 
 Redis sentinel plugin was tested with 6.2.6 and 5.0.7 sentinel versions with ubuntu 20.04.4 LTS.
 
@@ -47,7 +47,7 @@ config set slowlog-max-len=100;
 
 ## Configuration 
 
-Refer to  [sfAgent](/docs/Quick_Start/getting_started#sfagent) to install and automatically generate plugin configurations. User can also manually add the configuration shown below to `config.yaml` under `/opt/sfagent/directory`  
+Refer to  [sfAgent](/docs/sidebar-snappyflow-saas/Quick_Start/getting_started#sfagent) to install and automatically generate plugin configurations. User can also manually add the configuration shown below to `config.yaml` under `/opt/sfagent/directory`  
 
 
 ```yaml 

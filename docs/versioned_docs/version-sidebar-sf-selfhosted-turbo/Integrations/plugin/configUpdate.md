@@ -24,8 +24,8 @@ The configurations given below apply only to the Linux and Windows operating sys
     sudo ./install.sh --upgrade 
    ```
 ### To upgrade the windows agent to the latest version  
-Refer the following link
-https://docs.snappyflow.io/docs/Integrations/os/windows/sfagent_windows
+Refer the following [link](/docs/sidebar-sf-selfhosted-turbo/Integrations/os/windows/sfagent_windows).
+
 
 ### Using the Configuration update feature user can update the below files 
 

@@ -74,7 +74,7 @@ After changing log pattern to combined or the above mentioned pattern, sample lo
 
 ## Configuration Settings
 
-[sfAgent](/docs/Quick_Start/getting_started#sfagent) section provides steps to install and automatically generate plugin configurations. User can also manually add the configuration shown below to config.yaml under "C:/Program Files (x86)/Sfagent/" directory 
+[sfAgent](/docs/sidebar-snappyflow-saas/Quick_Start/getting_started#sfagent) section provides steps to install and automatically generate plugin configurations. User can also manually add the configuration shown below to config.yaml under "C:/Program Files (x86)/Sfagent/" directory 
 
 ```yaml
 key: <profile key> 

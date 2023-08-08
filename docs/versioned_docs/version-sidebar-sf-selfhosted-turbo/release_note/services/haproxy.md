@@ -7,6 +7,6 @@ sidebar_position: 3
 
 An integration feature to monitor HAProxy server.
 
-[Documentation Reference](/docs/Integrations/haproxy)
+[Documentation Reference](/docs/sidebar-sf-selfhosted-turbo/Integrations/haproxy)
 
 Kindly reach out to [support@snappyflow.io](mailto:support@snappyflow.io) for more info.

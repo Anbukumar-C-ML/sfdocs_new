@@ -7,7 +7,7 @@ sidebar_position: 3
 
 Tracing feature to enable monitoring for application developed using Java.
 
-[Documentation Reference](/docs/Tracing/java/overview)
+[Documentation Reference](/docs/sidebar-sf-selfhosted-turbo/Tracing/java/overview)
 
 Kindly reach out to [support@snappyflow.io](mailto:support@snappyflow.io) for more info.
 

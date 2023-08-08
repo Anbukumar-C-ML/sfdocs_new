@@ -7,7 +7,7 @@ sidebar_position: 3
 
 The SIEM (Security Information and Event Management) feature in SnappyFlow offers a simplified interface to log, track and analyze security events in your environment. 
 
-[Documentation Reference](/docs/SIEM/SIEM_documentation)
+[Documentation Reference](/docs/sidebar-sf-selfhosted-turbo/SIEM/SIEM_documentation)
 
 Kindly reach out to [support@snappyflow.io](mailto:support@snappyflow.io) for more info.
 

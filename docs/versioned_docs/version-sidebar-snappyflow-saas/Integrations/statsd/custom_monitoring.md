@@ -397,10 +397,10 @@ Output
 
 ## See Also 
 
-[Linux monitoring](/docs/integrations/os/linux/linux_os)
+[Linux monitoring](/docs/sidebar-snappyflow-saas/integrations/os/linux/linux_os)
 
-[LSOF](/docs/integrations/os/linux/lsof)
+[LSOF](/docs/sidebar-snappyflow-saas/integrations/os/linux/lsof)
 
-[NETSTAT](/docs/integrations/os/linux/netstat)
+[NETSTAT](/docs/sidebar-snappyflow-saas/integrations/os/linux/netstat)
 
-[Prometheus Integration](/docs/Integrations/kubernetes/prometheus_exporter) 
+[Prometheus Integration](/docs/sidebar-snappyflow-saas/Integrations/kubernetes/prometheus_exporter) 

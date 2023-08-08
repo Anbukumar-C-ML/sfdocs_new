@@ -7,7 +7,7 @@ sidebar_position: 3
 
 Integration feature to enable monitoring for MySQL database.
 
-[Documentation Reference](/docs/Integrations/mysql/overview)
+[Documentation Reference](/docs/sidebar-snappyflow-saas/Integrations/mysql/overview)
 
 Kindly reach out to [support@snappyflow.io](mailto:support@snappyflow.io) for more info.
 

@@ -56,7 +56,7 @@ Following aspects of Kafka node is monitored by sfAgent
 
 ## Configuration
 
-[sfAgent](/docs/quick_start/getting_started#sfagent) section provides steps to install and automatically generate plugin configurations.  User can also manually add the configuration shown below to `config.yaml` under `/opt/sfagent/` directory
+[sfAgent](/docs/sidebar-sf-selfhosted-turbo/quick_start/getting_started#sfagent) section provides steps to install and automatically generate plugin configurations.  User can also manually add the configuration shown below to `config.yaml` under `/opt/sfagent/` directory
 
 ```yaml
 key: <Profile_key>
@@ -131,7 +131,7 @@ Data collected by plugins can be viewed in SnappyFlow’s browse data section
 
 ## See Also
 
-[Zookeeper](/docs/integrations/zookeeper)
+[Zookeeper](/docs/sidebar-sf-selfhosted-turbo/integrations/zookeeper)
 
 Elasticsearch
 

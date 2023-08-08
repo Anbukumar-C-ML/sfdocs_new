@@ -338,6 +338,6 @@ Data collected by the plugin can be viewed in SnappyFlow’s browse data section
 
 ## See Also
 
-[MySQL](/docs/integrations/mysql/overview)
+[MySQL](/docs/sidebar-snappyflow-saas/integrations/mysql/overview)
 
-[PostgresDB](/docs/integrations/postgres/overview)
+[PostgresDB](/docs/sidebar-snappyflow-saas/integrations/postgres/overview)

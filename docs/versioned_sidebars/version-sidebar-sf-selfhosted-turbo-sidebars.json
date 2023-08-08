@@ -143,7 +143,6 @@
             }
           ]
         },
-        {},
         {
           "type": "doc",
           "id": "Integrations/plugin/azuredb",
@@ -934,12 +933,7 @@
             }
           ]
         },
-        {
-          "type": "doc",
-          "id": "Log_management/archival",
-          "label": "Archival"
-        },
-        {
+		{
           "type": "doc",
           "id": "Log_management/manage_logs",
           "label": "Manage Logs"

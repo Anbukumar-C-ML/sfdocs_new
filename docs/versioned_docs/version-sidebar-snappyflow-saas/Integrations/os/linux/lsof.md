@@ -120,9 +120,9 @@ All the traffic related (IPv4, IPv6) file types are combined as *IPv4/6* typ
 
  
 
-- [Linux monitoring](/docs/integrations/os/linux/linux_os)
-- [PSUTIL](/docs/integrations/os/linux/psutil)
-- [NETSTAT](/docs/integrations/os/linux/netstat)
-- [Custom plugins using StatsD](/docs/integrations/statsd/custom_monitoring)
-- [Prometheus Integration](/docs/Integrations/kubernetes/prometheus_exporter) 
+- [Linux monitoring](/docs/sidebar-snappyflow-saas/integrations/os/linux/linux_os)
+- [PSUTIL](/docs/sidebar-snappyflow-saas/integrations/os/linux/psutil)
+- [NETSTAT](/docs/sidebar-snappyflow-saas/integrations/os/linux/netstat)
+- [Custom plugins using StatsD](/docs/sidebar-snappyflow-saas/integrations/statsd/custom_monitoring)
+- [Prometheus Integration](/docs/sidebar-snappyflow-saas/Integrations/kubernetes/prometheus_exporter) 
 

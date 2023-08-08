@@ -68,4 +68,4 @@ sidebar_position: 3
 
 ## Add the Channel to the Project
 
-The next step is to add the notification channel to your project [Click here](/docs/Alerts_notifications/Notifications/Map_Notification_Alerts/map_projects_to_channels).
+The next step is to add the notification channel to your project [Click here](/docs/sidebar-sf-selfhosted-turbo/Alerts_notifications/Notifications/Map_Notification_Alerts/map_projects_to_channels).

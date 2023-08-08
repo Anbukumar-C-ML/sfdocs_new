@@ -53,5 +53,5 @@ Follow the below steps to map a notification channel to a project.
 
    c. Click the **`Save`** (**3**) button
 
-   You have successfully linked a notification channel to your project. The next step is to map the alerts from an application [Click here](/docs/Alerts_notifications/Notifications/Map_Notification_Alerts/alert_mapping).
+   You have successfully linked a notification channel to your project. The next step is to map the alerts from an application [Click here](/docs/sidebar-snappyflow-saas/Alerts_notifications/Notifications/Map_Notification_Alerts/alert_mapping).
 

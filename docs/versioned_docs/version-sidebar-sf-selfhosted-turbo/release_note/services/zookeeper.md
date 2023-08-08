@@ -7,6 +7,6 @@ sidebar_position: 3
 
 An integration feature to monitor Zookeeper.
 
-[Documentation Reference](/docs/Integrations/zookeeper)
+[Documentation Reference](/docs/sidebar-sf-selfhosted-turbo/Integrations/zookeeper)
 
 Kindly reach out to [support@snappyflow.io](mailto:support@snappyflow.io) for more info.

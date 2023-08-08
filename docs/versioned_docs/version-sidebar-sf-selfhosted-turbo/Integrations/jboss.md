@@ -16,7 +16,7 @@ Jboss Metric plugin monitors Jboss server by collecting multiple types of metric
 
 ## Configuration Settings
 
-Refer to [sfAgent](/docs/Quick_Start/getting_started#sfagent) section for steps to install and automatically generate plugin configurations. User can also manually add the configuration shown below to `config.yaml` under `/opt/sfagent` directory . sfAgent supports multi domain monitoring. 
+Refer to [sfAgent](/docs/sidebar-sf-selfhosted-turbo/Quick_Start/getting_started#sfagent) section for steps to install and automatically generate plugin configurations. User can also manually add the configuration shown below to `config.yaml` under `/opt/sfagent` directory . sfAgent supports multi domain monitoring. 
 
 ```yaml
 metrics: 

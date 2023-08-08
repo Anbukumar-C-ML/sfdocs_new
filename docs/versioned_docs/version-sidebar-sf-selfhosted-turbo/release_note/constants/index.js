@@ -8,70 +8,70 @@ const AGENTS = [
 		'label': 'Postgres',
 		'overText': 'Postgres Infrastructure platform is built for enterprises',
 		'category': ['Database'],
-		'link': '/docs/release_note/database/postgres'
+		'link': '/docs/sidebar-sf-selfhosted-turbo/release_note/database/postgres'
 	},
 	{
 		'src': '/img/integration/integration_list/aurora-db.svg',
 		'label': 'Aurora',
 		'overText': 'Monitor Aurora DB',
 		'category': ['Database'],
-		'link': '/docs/release_note/database/aurora'
+		'link': '/docs/sidebar-sf-selfhosted-turbo/release_note/database/aurora'
 	},
 	{
 		'src': '/img/integration/integration_list/documentdb.svg',
 		'label': 'DocumentDB',
 		'overText': 'Monitor DocumentDB',
 		'category': ['Database'],
-		'link': '/docs/release_note/database/docdb'
+		'link': '/docs/sidebar-sf-selfhosted-turbo/release_note/database/docdb'
 	},
 	{
 		'src': '/img/azure_DB.svg',
 		'label': 'AzureDB',
 		'overText': 'Azuredb Metric plugin collects metrics related to relational database services like Azure SQL, Azure database for MySQL and Azure database for PostgreSQL using insights data from Azure Monitor',
 		'category': ['Database'],
-		'link': '/docs/release_note/database/azureDB'
+		'link': '/docs/sidebar-sf-selfhosted-turbo/release_note/database/azureDB'
 	},
 	{
 		'src': '/img/redis.svg',
 		'label': 'Redis',
 		'overText': 'Redis Infrastructure platform is built for enterprises',
 		'category': ['Database'],
-		'link': '/docs/release_note/database/redis'
+		'link': '/docs/sidebar-sf-selfhosted-turbo/release_note/database/redis'
 	},
 	{
 		'src': '/img/mysql.svg',
 		'label': 'MySQL',
 		'overText': 'MYSQL Infrastructure platform is built for enterprises',
 		'category': ['Database'],
-		'link': '/docs/release_note/database/mysql'
+		'link': '/docs/sidebar-sf-selfhosted-turbo/release_note/database/mysql'
 	}, 
 	{
 		'src': '/img/mssql.svg',
 		'label': 'MSSQL',
 		'overText': 'Monitoring MS SQL databases',
 		'category': ['Database'],
-		'link': '/docs/release_note/database/mssql'
+		'link': '/docs/sidebar-sf-selfhosted-turbo/release_note/database/mssql'
 	}, 
 	{
 		'src': '/img/clickhouse.svg',
 		'label': 'Clickhouse',
 		'overText': 'Clickhouse running in Kubernetes can be monitored in SnappyFlow using Prometheus exporter',
 		'category': ['Database'],
-		'link': '/docs/release_note/database/clickhouse'
+		'link': '/docs/sidebar-sf-selfhosted-turbo/release_note/database/clickhouse'
 	}, 
 	{
 		'src': '/img/aws_rds.svg',
 		'label': 'AWS RDS',
 		'overText': 'Amazon Relational Database Service (Amazon RDS) is a managed SQL database service provided by Amazon Web Services (AWS)',
 		'category': ['Database'],
-		'link': '/docs/release_note/database/aws_rds'
+		'link': '/docs/sidebar-sf-selfhosted-turbo/release_note/database/aws_rds'
 	},
 	{
 		'src': '/img/oracle_ash.svg',
 		'label': 'Oracle ASH',
 		'overText': 'OracleASH plugin fetch and parse the oracle ASH report from AWS-RDS.',
 		'category': ['Database'],
-		'link': '/docs/release_note/database/oracle_ash'
+		'link': '/docs/sidebar-sf-selfhosted-turbo/release_note/database/oracle_ash'
 
 	},
 	{
@@ -79,7 +79,7 @@ const AGENTS = [
 		'label': 'MongoDB',
 		'overText': 'MongoDB Infrastructure platform is built for enterprises',
 		'category': ['Database'],
-		'link': '/docs/release_note/database/mongodB'
+		'link': '/docs/sidebar-sf-selfhosted-turbo/release_note/database/mongodB'
 
 	},
 	{
@@ -87,126 +87,126 @@ const AGENTS = [
 		'label': 'Python',
 		'overText': 'Tracing for Python application',
 		'category': ['Tracing'],
-		'link': '/docs/release_note/tracing/python'
+		'link': '/docs/sidebar-sf-selfhosted-turbo/release_note/tracing/python'
 	},
 	{
 		'src': '/img/integration/integration_list/c-sharp-net.svg',
 		'label': 'C#',
 		'overText': 'Tracing for C# application',
 		'category': ['Tracing'],
-		'link': '/docs/release_note/tracing/csharp'
+		'link': '/docs/sidebar-sf-selfhosted-turbo/release_note/tracing/csharp'
 	},
 	{
 		'src': '/img/java.svg',
 		'label': 'Java',
 		'overText': 'Java Infrastructure platform is built for enterprises',
 		'category': ['Tracing'],
-		'link': '/docs/release_note/tracing/java'
+		'link': '/docs/sidebar-sf-selfhosted-turbo/release_note/tracing/java'
 	}, 
 	{
 		'src': '/img/integration/integration_list/node-js.svg',
 		'label': 'Nodejs',
 		'overText': 'Monitor Nodejs',
 		'category': ['Tracing'],
-		'link': '/docs/release_note/tracing/nodejs'
+		'link': '/docs/sidebar-sf-selfhosted-turbo/release_note/tracing/nodejs'
 	},
 	{
 		'src': '/img/golang.svg',
 		'label': 'Go',
 		'overText': 'Oracle Cloud Infrastructure platform is built for enterprises',
 		'category': ['Tracing'],
-		'link': '/docs/release_note/tracing/go'
+		'link': '/docs/sidebar-sf-selfhosted-turbo/release_note/tracing/go'
 	},
 	{
 		'src': '/img/integration/integration_list/php.svg',
 		'label': 'PHP',
 		'overText': 'Tracing for PHP application',
 		'category': ['Tracing'],
-		'link': '/docs/release_note/tracing/php'
+		'link': '/docs/sidebar-sf-selfhosted-turbo/release_note/tracing/php'
 	},
 	{
 		'src': '/img/integration/integration_list/ruby.svg',
 		'label': 'Ruby',
 		'overText': 'Tracing for ruby application',
 		'category': ['Tracing'],
-		'link': '/docs/release_note/tracing/ruby'
+		'link': '/docs/sidebar-sf-selfhosted-turbo/release_note/tracing/ruby'
 	},
 	{
 		'src': '/img/log_management/logs.svg',
 		'label': 'Log Management',
 		'overText': 'SnappyFlow log management',
 		'category': ['Log Management'],
-		'link': '/docs/release_note/log/log_management'
+		'link': '/docs/sidebar-sf-selfhosted-turbo/release_note/log/log_management'
 	},
 	{
 		'src': '/img/integration/integration_list/angular.svg',
 		'label': 'Angular',
 		'overText': 'for Real user monitoring',
 		'category': ['RUM'],
-		'link': '/docs/release_note/real_user_monitoring/angular'
+		'link': '/docs/sidebar-sf-selfhosted-turbo/release_note/real_user_monitoring/angular'
 	},
     {
 		'src': '/img/integration/integration_list/react.svg',
 		'label': 'React',
 		'overText': 'for Real user monitoring',
 		'category': ['RUM'],
-		'link': '/docs/release_note/real_user_monitoring/react'
+		'link': '/docs/sidebar-sf-selfhosted-turbo/release_note/real_user_monitoring/react'
 	},
 	{
 		'src': '/img/integration/integration_list/nextjs.svg',
 		'label': 'Nextjs',
 		'overText': 'for Real user monitoring',
 		'category': ['RUM'],
-		'link': '/docs/release_note/real_user_monitoring/nextjs'
+		'link': '/docs/sidebar-sf-selfhosted-turbo/release_note/real_user_monitoring/nextjs'
 	},
 	{
 		'src':'/img/integration/integration_list/email.svg',
 		'label':'Email',
 		'overText': 'Email Notification Channel',
 		'category': ['Alerts & Notifications'],
-		'link': '/docs/release_note/alerts_&_notification/email'
+		'link': '/docs/sidebar-sf-selfhosted-turbo/release_note/alerts_&_notification/email'
 	},
 	{
 		'src':'/img/integration/integration_list/opsgenie.svg',
 		'label':'Opsgenie',
 		'overText': 'Opsgenie Notification Channel',
 		'category': ['Alerts & Notifications'],
-		'link': '/docs/release_note/alerts_&_notification/opsgenie'
+		'link': '/docs/sidebar-sf-selfhosted-turbo/release_note/alerts_&_notification/opsgenie'
 	},
 	{
 		'src':'/img/integration/integration_list/teams.svg',
 		'label':'Teams',
 		'overText': 'Teams Notification Channel',
 		'category': ['Alerts & Notifications'],
-		'link': '/docs/release_note/alerts_&_notification/teams'
+		'link': '/docs/sidebar-sf-selfhosted-turbo/release_note/alerts_&_notification/teams'
 	},
 	{
 		'src':'/img/integration/integration_list/zenduty.svg',
 		'label':'Zenduty',
 		'overText': 'Teams Notification Channel',
 		'category': ['Alerts & Notifications'],
-		'link': '/docs/release_note/alerts_&_notification/zenduty'
+		'link': '/docs/sidebar-sf-selfhosted-turbo/release_note/alerts_&_notification/zenduty'
 	},
 	{
 		'src':'/img/integration/integration_list/webhook.svg',
 		'label':'Webhook',
 		'overText': 'Teams Notification Channel',
 		'category': ['Alerts & Notifications'],
-		'link': '/docs/release_note/alerts_&_notification/webhook'
+		'link': '/docs/sidebar-sf-selfhosted-turbo/release_note/alerts_&_notification/webhook'
 	},
 	{
 		'src': '/img/stack.svg',
 		'label': 'Slack',
 		'overText': 'Slack Infrastructure platform is built for enterprises',
 		'category': ['Alerts & Notifications'],
-		'link': '/docs/release_note/alerts_&_notification/slack'
+		'link': '/docs/sidebar-sf-selfhosted-turbo/release_note/alerts_&_notification/slack'
 	}, 
 	{
 		'src': '/img/pagerduty.svg',
 		'label': 'Pagerduty',
 		'overText': 'Pagerduty Infrastructure platform is built for enterprises',
 		'category': ['Alerts & Notifications'],
-		'link': '/docs/release_note/alerts_&_notification/pagerduty'
+		'link': '/docs/sidebar-sf-selfhosted-turbo/release_note/alerts_&_notification/pagerduty'
 	},
 	{
 		'src': '/img/aws_lambda.svg',
@@ -214,182 +214,182 @@ const AGENTS = [
 		'category': ['Cloud Services'],
 		//'overText': '',
 		
-		'link': '/docs/release_note/cloud_services/aws_lambda'
+		'link': '/docs/sidebar-sf-selfhosted-turbo/release_note/cloud_services/aws_lambda'
 	},
 	{
 		'src': '/img/azure_blob.svg',
 		'label': 'Azure Blob',
 		'overText': 'Azure blob storage is to store large amount of unstructured data on data storage platform',
 		'category': ['Cloud Services'],
-		'link': '/docs/release_note/cloud_services/azure_blob'
+		'link': '/docs/sidebar-sf-selfhosted-turbo/release_note/cloud_services/azure_blob'
 	},
 	{
 		'src':'/img/aws-elastic-cache.svg',
 		'label':'ElastiCache', 
 		'overText': 'ElastiCache is the distributed in memory cache environments in the AWS cloud.',
 		'category': ['Cloud Services'],
-		'link': '/docs/release_note/cloud_services/elasticache'
+		'link': '/docs/sidebar-sf-selfhosted-turbo/release_note/cloud_services/elasticache'
 	}, 
 	{
 		'src': '/img/integration/integration_list/cloudwatch.svg',
 		'label': 'CloudWatch',
 		'overText': 'to collect cloud watch logs',
 		'category': ['Cloud Services'],
-		'link': '/docs/release_note/cloud_services/cloudwatch'
+		'link': '/docs/sidebar-sf-selfhosted-turbo/release_note/cloud_services/cloudwatch'
 	},
 	{
 		'src':'/img/public-cloud-elbs.svg',
 		'label':'Elastic Load Balancer',
 		'overText': 'Public cloud elbs Infrastructure platform is built for enterprises',
 		'category': ['Cloud Services'],
-		'link': '/docs/release_note/cloud_services/elastic_load_balancer'
+		'link': '/docs/sidebar-sf-selfhosted-turbo/release_note/cloud_services/elastic_load_balancer'
 	}, 
 	{
 		'src': '/img/mysql-logo.svg',
 		'label': 'Linux',
 		'overText': 'MySQL Infrastructure platform is built for enterprises',
 		'category': ['Operating System'],
-		'link': '/docs/release_note/operating_system/linux'
+		'link': '/docs/sidebar-sf-selfhosted-turbo/release_note/operating_system/linux'
 	},
 	{
 		'src': '/img/windows-vms.svg',
 		'label': 'Windows',
 		'overText': 'Windows VMs Infrastructure platform is built for enterprises',
 		'category': ['Operating System'],
-		'link': '/docs/release_note/operating_system/windows'
+		'link': '/docs/sidebar-sf-selfhosted-turbo/release_note/operating_system/windows'
 	}, 
 	{
 		'src': '/img/integration/integration_list/docker.svg',
 		'label': 'Docker',
 		'overText': 'Platform',
 		'category': ['Platform'],
-		'link':'/docs/release_note/platform/docker'
+		'link':'/docs/sidebar-sf-selfhosted-turbo/release_note/platform/docker'
 	},
 	{
 		'src': '/img/kubernetes-clusters.svg',
 		'label': 'Kubernetes',
 		'overText': 'Kubernetes clusters Infrastructure platform is built for enterprises',
 		'category': ['Platform'],
-		'link': '/docs/release_note/platform/kubernetes'
+		'link': '/docs/sidebar-sf-selfhosted-turbo/release_note/platform/kubernetes'
 	},
 	{
 		'src': '/img/integration/integration_list/aws.svg',
 		'label': 'aws',
 		'overText': 'Monitor AWS infra',
 		'category': ['Infrastructure'],
-		'link': '/docs/release_note/infrastucture/aws'
+		'link': '/docs/sidebar-sf-selfhosted-turbo/release_note/infrastucture/aws'
 	},
 	{
 		'src': '/img/integration/integration_list/azure.svg',
 		'label': 'azure',
 		'overText': 'Mazureonitor azure infra',
 		'category': ['Infrastructure'],
-		'link': '/docs/release_note/infrastucture/azure'
+		'link': '/docs/sidebar-sf-selfhosted-turbo/release_note/infrastucture/azure'
 	},
 	{
 		'src': '/img/integration/integration_list/v-center.svg',
 		'label': 'V-center',
 		'overText': 'Monitor V center infra',
 		'category': ['Infrastructure'],
-		'link': '/docs/release_note/infrastucture/vcenter'
+		'link': '/docs/sidebar-sf-selfhosted-turbo/release_note/infrastucture/vcenter'
 	},
 	{
 		'src': '/img/golang.svg',
 		'label': 'Go',
 		'overText': 'Oracle Cloud Infrastructure platform is built for enterprises',
 		'category': ['Profiling'],
-		'link': '/docs/release_note/profiler/go'
+		'link': '/docs/sidebar-sf-selfhosted-turbo/release_note/profiler/go'
 	},
 	{
 		'src': '/img/java.svg',
 		'label': 'Java Profiler',
 		'overText': 'Java Profiler',
 		'category': ['Profiling'],
-		'link': '/docs/release_note/profiler/java'
+		'link': '/docs/sidebar-sf-selfhosted-turbo/release_note/profiler/java'
 	},
 	{
 		'src': '/img/apache-activemq-icon.svg',
 		'label': 'ActiveMQ',
 		'overText': 'Cassandra Infrastructure platform is built for enterprises',
 		'category': ['Services'],
-		'link': '/docs/release_note/services/activemq'
+		'link': '/docs/sidebar-sf-selfhosted-turbo/release_note/services/activemq'
 	},
 	{
 		'src': '/img/apache.svg',
 		'label': 'Apache',
 		'overText': 'Postgres Infrastructure platform is built for enterprises',
 		'category': ['Services'],
-		'link': '/docs/release_note/services/apache'
+		'link': '/docs/sidebar-sf-selfhosted-turbo/release_note/services/apache'
 	}, 
 	{
 		'src': '/img/haproxy.svg',
 		'label': 'HAProxy',
 		'overText': 'Microsoft Infrastructure platform is built for enterprises',
 		'category': ['Services'],
-		'link': '/docs/release_note/services/haproxy'
+		'link': '/docs/sidebar-sf-selfhosted-turbo/release_note/services/haproxy'
 	},
 	{
 		'src': '/img/kafka-icon.svg',
 		'label': 'Kafka',
 		'overText': 'Kafka Infrastructure platform is built for enterprises',
 		'category': ['App Tier'],
-		'link': '/docs/integrations/kafka/overview'
+		'link': '/docs/sidebar-sf-selfhosted-turbo/integrations/kafka/overview'
 	},
 	{
 		'src': '/img/blaze_meter.svg',
 		'label': 'Blaze Meter',
 		'overText': 'Plugin collects Test Reports from the BlazeMeter Account',
 		'category': ['App Tier'],
-		'link': '/docs/integrations/plugin/blazemeter'
+		'link': '/docs/sidebar-sf-selfhosted-turbo/integrations/plugin/blazemeter'
 	}, 
 	{
 		'src': '/img/apache-zookeeper-icon.svg',
 		'label': 'Zookeper',
 		'overText': 'Ldap Infrastructure platform is built for enterprises',
 		'category': ['Services'],
-		'link': '/docs/release_note/services/zookeeper'
+		'link': '/docs/sidebar-sf-selfhosted-turbo/release_note/services/zookeeper'
 	},
 	{
 		'src': '/img/nginx.svg',
 		'label': 'Nginx',
 		'overText': 'Nginx Infrastructure platform is built for enterprises',
 		'category': ['Services'],
-		'link': '/docs/release_note/services/nginx'
+		'link': '/docs/sidebar-sf-selfhosted-turbo/release_note/services/nginx'
 	}, 
 	{
 		'src':'/img/tomcat.svg',
 		'label':'Tomcat',
 		'overText': 'Opsgenie Infrastructure platform is built for enterprises',
 		'category': ['Services'],
-		'link': '/docs/release_note/services/tomcat'
+		'link': '/docs/sidebar-sf-selfhosted-turbo/release_note/services/tomcat'
 	},
 	{
 		'src': '/img/rabbitmq.svg',
 		'label': 'RabbitMQ',
 		'overText': 'Monitoring RabbitMQ Message Broker running on Instances',
 		'category': ['Services'],
-		'link': '/docs/release_note/services/rabbitmq'
+		'link': '/docs/sidebar-sf-selfhosted-turbo/release_note/services/rabbitmq'
 	},
 	{
 		'src': '/img/tripwire.png',
 		'label': 'TripWire',
 		'overText': 'Tripwire Metric Plugin Parses reports Generates By Tripwire',
 		'category': ['Services'],
-		'link': '/docs/release_note/services/trip_wire'
+		'link': '/docs/sidebar-sf-selfhosted-turbo/release_note/services/trip_wire'
 	},  
 	{
 		'src': '/img/custom-metrics-using-statsd.svg',
 		'label': 'StatsD',
 		'overText': 'Custom Metrics Infrastructure platform is built for enterprises',
 		'category': ['Services'],
-		'link': '/docs/release_note/services/statsd'
+		'link': '/docs/sidebar-sf-selfhosted-turbo/release_note/services/statsd'
 	},  
 	{
 		'src':'/img/iis-server.svg',
 		'label':'IIS Server',
 		'overText': 'IIS Server Infrastructure platform is built for enterprises',
 		'category': [''],
-		'link': '/docs/IntCloud Servicesegrations/iis/iis_windows'
+		'link': '/docs/sidebar-sf-selfhosted-turbo/IntCloud Servicesegrations/iis/iis_windows'
 	}, 
 	{
 		'src': '/img/golang.svg',
@@ -403,42 +403,42 @@ const AGENTS = [
 		'label': 'PHP',
 		'overText': 'Tracing for PHP application',
 		'category': ['Services'],
-		//'link': '/docs/Tracing/php/overview'
+		//'link': '/docs/sidebar-sf-selfhosted-turbo/Tracing/php/overview'
 	},
 	{
 		'src': '/img/integration/integration_list/node-js.svg',
 		'label': 'Nodejs',
 		'overText': 'Monitor Nodejs',
 		'category': ['Services'],
-		'link': '/docs/Integrations/nodejs_prometheus'
+		'link': '/docs/sidebar-sf-selfhosted-turbo/Integrations/nodejs_prometheus'
 	},
 	{
 		'src': '/img/integration/integration_list/hashicorp.svg',
 		'label': 'HCP Consul',
 		'overText': 'Monitor DocumentDB',
 		'category': [''],
-		'link': '/docs/Integrations/hcp_consul'
+		'link': '/docs/sidebar-sf-selfhosted-turbo/Integrations/hcp_consul'
 	},
 	{
 		'src': '/img/integration/integration_list/dashboard.svg',
 		'label': 'Dashboard',
 		'overText': 'Dashboard',
 		'category': ['Dashboard'],
-		'link': '/docs/release_note/dashboard'
+		'link': '/docs/sidebar-sf-selfhosted-turbo/release_note/dashboard'
 	},
 	{
 		'src': '/img/integration/integration_list/siem.svg',
 		'label': 'SIEM',
 		'overText': 'SnappyFlow siem feature',
 		'category': ['SIEM'],
-		'link': '/docs/release_note/siem'
+		'link': '/docs/sidebar-sf-selfhosted-turbo/release_note/siem'
 	},
 	{
 		'src': '/img/integration/integration_list/synthetic.svg',
 		'label': 'SM',
 		'overText': 'SnappyFlow Synthetic Monitoring feature',
 		'category': ['Synthetic Monitoring'],
-		'link': '/docs/release_note/synthetic_monitoring'
+		'link': '/docs/sidebar-sf-selfhosted-turbo/release_note/synthetic_monitoring'
 	},
 	
 	

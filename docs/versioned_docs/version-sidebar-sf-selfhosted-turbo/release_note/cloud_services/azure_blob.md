@@ -6,6 +6,6 @@ sidebar_position: 3
 
 An integration feature that enables the monitoring of Azure Blob.
 
-[Documentation Reference](/docs/Integrations/plugin/blob)
+[Documentation Reference](/docs/sidebar-sf-selfhosted-turbo/Integrations/plugin/blob)
 
 Kindly reach out to [support@snappyflow.io](mailto:support@snappyflow.io) for more info.

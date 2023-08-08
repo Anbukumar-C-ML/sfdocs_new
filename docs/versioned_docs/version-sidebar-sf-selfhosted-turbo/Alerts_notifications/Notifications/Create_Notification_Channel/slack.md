@@ -99,5 +99,5 @@ sidebar_position: 3
 
 8. Click the **` Add new`**  button to create multiple Slack notification profiles.
 
-You have successfully created a Slack notification channel. The next step is to map the notification to your project [Click here](/docs/Alerts_notifications/Notifications/Map_Notification_Alerts/map_projects_to_channels).
+You have successfully created a Slack notification channel. The next step is to map the notification to your project [Click here](/docs/sidebar-sf-selfhosted-turbo/Alerts_notifications/Notifications/Map_Notification_Alerts/map_projects_to_channels).
 

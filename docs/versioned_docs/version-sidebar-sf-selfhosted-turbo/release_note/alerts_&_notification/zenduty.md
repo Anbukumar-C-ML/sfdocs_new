@@ -6,6 +6,6 @@ sidebar_position: 3
 
 Communication feature to send alert notifications through Zenduty.
 
-[Documentation Reference](/docs/Alerts_notifications/Notifications/Create_Notification_Channel/zenduty)
+[Documentation Reference](/docs/sidebar-sf-selfhosted-turbo/Alerts_notifications/Notifications/Create_Notification_Channel/zenduty)
 
 Kindly reach out to [support@snappyflow.io](mailto:support@snappyflow.io) for more info.

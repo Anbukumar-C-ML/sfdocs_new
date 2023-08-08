@@ -7,6 +7,6 @@ sidebar_position: 3
 
 An integration feature to monitor JBoss server.
 
-[Documentation Reference](/docs/Integrations/jboss)
+[Documentation Reference](/docs/sidebar-snappyflow-saas/Integrations/jboss)
 
 Kindly reach out to [support@snappyflow.io](mailto:support@snappyflow.io) for more info.

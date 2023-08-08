@@ -63,8 +63,8 @@ Ubuntu: 14.x, 16.x
 
 
 ## See Also
-- [Linux monitoring](/docs/integrations/os/linux/linux_os)
-- [LSOF](/docs/integrations/os/linux/lsof)
-- [PSUtil](/docs/integrations/os/linux/psutil)
-- [Custom plugins using StatsD](/docs/integrations/statsd/custom_monitoring)
-- [Prometheus Integration](/docs/Integrations/kubernetes/prometheus_exporter) 
+- [Linux monitoring](/docs/sidebar-snappyflow-saas/integrations/os/linux/linux_os)
+- [LSOF](/docs/sidebar-snappyflow-saas/integrations/os/linux/lsof)
+- [PSUtil](/docs/sidebar-snappyflow-saas/integrations/os/linux/psutil)
+- [Custom plugins using StatsD](/docs/sidebar-snappyflow-saas/integrations/statsd/custom_monitoring)
+- [Prometheus Integration](/docs/sidebar-snappyflow-saas/Integrations/kubernetes/prometheus_exporter) 

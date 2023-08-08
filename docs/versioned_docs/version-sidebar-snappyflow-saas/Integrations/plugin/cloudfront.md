@@ -6,7 +6,7 @@
 
 To collect metrics of API Gateway, it is necessary to have an IAM Role with CloudWatch access and sfPoller set up within your AWS environment.
 
-[Click here](http://localhost:3000/snappyflow-saas/sfPoller/aws_setup) to learn more about setting up sfPoller in your AWS environment
+[Click here](/docs/snappyflow-saas/sfPoller/aws_setup) to learn more about setting up sfPoller in your AWS environment.
 
 ##### Create a Policy to Access CloudWatch
 
