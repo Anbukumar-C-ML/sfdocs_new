@@ -2,4 +2,4 @@
 
 Documentation Coming Soon!
 
-For integration details reach out to [supportsnappyflow.io](support@snappyflow.io).
+For integration details reach out to [supportsnappyflow.io](mailto:support@snappyflow.io).

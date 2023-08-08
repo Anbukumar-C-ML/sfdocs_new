@@ -7,7 +7,7 @@ sidebar_position: 3
 
 An integration feature that enables the monitoring of Docker.
 
-[Documentation Reference](/selfhosted-lite/Integrations/plugin/docker_monitoring)
+[Documentation Reference](/docs/selfhosted-lite/Integrations/plugin/docker_monitoring)
 
 Kindly reach out to [support@snappyflow.io](mailto:support@snappyflow.io) for more info.
 

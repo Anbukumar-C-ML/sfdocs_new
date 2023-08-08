@@ -15,6 +15,6 @@ sidebar_position: 3
 
 The dashboard displays the metrics and logs collected from the application.
 
-[Documentation Reference](/snappyflow-saas/category/dashboards)
+[Documentation Reference](/docs/snappyflow-saas/category/dashboards)
 
 Kindly reach out to [support@snappyflow.io](mailto:support@snappyflow.io) for more info.

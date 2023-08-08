@@ -1,6 +1,10 @@
 # Setup SnappyFlow Self Hosted
  
 
-##### [AWS](/docs/Quick_Start/aws)
+<!-- ##### [AWS](/docs/home/Quick_Start/aws)
 
-##### [Azure](/docs/Quick_Start/azure)
+##### [Azure](/docs/Quick_Start/azure) -->
+
+##### AWS
+
+##### Azure

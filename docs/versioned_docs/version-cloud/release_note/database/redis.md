@@ -7,7 +7,8 @@ sidebar_position: 3
 
 Integration feature to enable monitoring for Redis.
 
-[Documentation Reference](/docs/redis/overview)
+Documentation Reference
+<!-- [Documentation Reference](/docs/redis/overview) -->
 
 Kindly reach out to [support@snappyflow.io](mailto:support@snappyflow.io) for more info.
 

@@ -77,7 +77,7 @@ const productList = [
         darkPathOver: 'img/landing_page_icon/ft-dark-logs-hover.svg',
         title: 'Log Management',
         content: 'Collect, store, visualise and analyze logs from multiple sources. Extract data from logs and correlate with traces for easy troubleshooting',
-        url: 'docs/snappyflow-saas/Log_management/log_overview',
+        url: 'docs/Log_management/log_overview',
         class: 'log'
     },
     {
@@ -88,7 +88,7 @@ const productList = [
         darkPathOver: 'img/landing_page_icon/ft-dark-tracing-hover.svg',
         title: 'Tracing',
         content: 'Track each step of a request or transcation and get detailed visibility into the flow of requests across multiple services',
-        url: 'docs/cloud/category/tracing',
+        url: 'docs/category/tracing',
         class: 'tracing'
     } ,
     {
@@ -99,7 +99,7 @@ const productList = [
         darkPathOver: 'img/landing_page_icon/ft-dark-alerts-hover.svg',
         title: 'Alerts',
         content: 'Detect specific events such as system failures, errors, security breaches or any other predefined criteria that require attention or action',
-        url: 'docs/cloud/Alerts_notifications/getting_started',
+        url: 'docs/Alerts_notifications/getting_started',
         class: 'alert'
     },
 	{
@@ -110,7 +110,7 @@ const productList = [
         darkPathOver: 'img/landing_page_icon/ft-dark-notification-hover.svg',
         title: 'Notifications',
         content: 'Stay informed about the alerts generated in SnappyFlow through communication channels such as Email, Zenduty, PagerDuty etc...',
-        url: 'docs/cloud/Alerts_notifications/Notifications/introduction',
+        url: 'docs/Alerts_notifications/Notifications/introduction',
         class: 'notification'
     },
 	{
@@ -121,7 +121,7 @@ const productList = [
         darkPathOver: 'img/landing_page_icon/ft-dark-dashboard-hover.svg',
         title: 'Dashboard',
         content: 'Bring data together to visualize key metrics and get deep insights into the performance of your application',
-        url: 'docs/cloud/category/dashboards',
+        url: 'docs/category/dashboards',
         class: 'dashboard'
     },
 	{
@@ -132,7 +132,7 @@ const productList = [
         darkPathOver: 'img/landing_page_icon/ft-dark-synthetic-monitoring-hover.svg',
         title: 'Synthetic Monitoring',
         content: 'Simulate user interactions with a website to proactively identify potential issues before they impact real users',
-        url: 'docs/cloud/Synthetic/overview',
+        url: 'docs/Synthetic/overview',
         class: 'syntheticmonitoring'
     },
   ];

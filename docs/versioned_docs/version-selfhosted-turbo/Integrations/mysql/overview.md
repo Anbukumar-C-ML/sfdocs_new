@@ -10,5 +10,5 @@ SnappyFlow enhances MySQL database monitoring by effortlessly collecting metrics
 
 ## Supported Platform
 
-[**Instances**](/docs/selfhosted-turbo/integrations/mysql/mysql_instances) | [**Kubernetes**](/docs/selfhosted-turbo/integrations/mysql/mysql_kubernetes) | [**Windows**](/docsselfhosted-turbo//integrations/mysql/mysql_windows) | [**AWS RDS**](/docs/selfhosted-turbo/integrations/mysql/mysql_sfpoller) 
+[**Instances**](/docs/selfhosted-turbo/integrations/mysql/mysql_instances) | [**Kubernetes**](/docs/selfhosted-turbo/integrations/mysql/mysql_kubernetes) | [**Windows**](/docs/selfhosted-turbo/Integrations/mysql/mysql_windows) | [**AWS RDS**](/docs/selfhosted-turbo/integrations/mysql/mysql_sfpoller) 
 

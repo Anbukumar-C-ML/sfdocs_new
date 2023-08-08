@@ -10,7 +10,8 @@
   
   - Azure cloud
 - Deployment can be automated using templates and scripts provided by SnappyFlow 
-- For seeting up SnappyFlow in AWS or Azure, [click here](/docs/quick_start/snappyflow_self_hosted)
+- For seeting up SnappyFlow in AWS or Azure.
+ <!-- [click here](/docs/quick_start/snappyflow_self_hosted) -->
 - For ingest rates above 500 GB/Day, please reach out to [support@snappyflow.io](mailto:support@snappyflow.io). A support engineer will understand your data ingest rates and provide an appropriately sized solution 
 
 ## Important terminologies and concepts

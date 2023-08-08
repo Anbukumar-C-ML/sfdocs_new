@@ -29,7 +29,7 @@ Monitoring of applications running on VM or bare-metal requires installation of 
 - Auto-recommendation of monitoring configuration based on discovered services
 - Monitoring of various services based on specified configurations 
 - Log parsing and collection
-- Orchestration of tracing (check out [sfTracing](/docs/tracing/overview) for details)
+- Orchestration of tracing (check out [sfTracing](/docs/category/tracing) for details)
 
 **Installation procedures**
 
