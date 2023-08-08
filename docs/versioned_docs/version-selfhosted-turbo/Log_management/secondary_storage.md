@@ -10,7 +10,7 @@ Store logs for an extended duration in secondary storage and utilize them later 
 
 By default, secondary storage is deactivated for a plugin/document type, requiring manual activation to enable it.
 
-[Click here](docs/selfhosted-turbo/Log_management/manage_logs#actions) to know how to enable secondary storage for a plugin/document type.
+[Click here](/docs/selfhosted-turbo/Log_management/manage_logs#actions) to know how to enable secondary storage for a plugin/document type.
 
 ## View Logs in Secondary Storage
 

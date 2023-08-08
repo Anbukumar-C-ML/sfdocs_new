@@ -260,7 +260,7 @@
         },
         {
           "type": "category",
-          "label": "IDP",
+          "label": "Identity Provider",
           "link": {
             "type": "doc",
             "id": "Integrations/idp/overview"
@@ -585,6 +585,11 @@
               "type": "doc",
               "id": "Integrations/postgres/postgres_kubernetes",
               "label": "Kubernetes"
+            },
+			{
+              "type": "doc",
+              "id": "Integrations/postgres/postgres_sfpoller",
+              "label": "AWS RDS"
             }
           ]
         },

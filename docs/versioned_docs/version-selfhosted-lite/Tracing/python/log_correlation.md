@@ -374,7 +374,7 @@ Follow the below steps to send the correlated logs to SnappyFlow APM from the ap
        restartPolicy: Always
  ```
 
-2. Install the **sfPod** in the Kubernetes cluster to collect the logs and metrics from the pods running inside the cluster. [Click here](https://stage-docs.snappyflow.io/docs/Integrations/kubernetes/kubernetes_monitoring_with_sfPod) to know how to install the sfPod in the Kubernetes cluster.
+2. Install the **sfPod** in the Kubernetes cluster to collect the logs and metrics from the pods running inside the cluster. [Click here](/docs/selfhosted-lite/Integrations/kubernetes/kubernetes_monitoring_with_sfPod) to know how to install the sfPod in the Kubernetes cluster.
 
 3. Make sure that the `projectname` and `appname` in the **sfPod** and the **deployment** file are same.
 
@@ -434,7 +434,7 @@ Follow the below steps to send the correlated logs to SnappyFlow APM from the ap
                  - name: SF_APP_NAME
                    value: {{ .Values.global.sfappname }}
    ```
-2. Install the **sfPod** in the Kubernetes cluster to collect the logs and metrics from the pods running inside the cluster. [Click here](https://stage-docs.snappyflow.io/docs/Integrations/kubernetes/kubernetes_monitoring_with_sfPod) to know how to install the sfPod in the Kubernetes cluster.
+2. Install the **sfPod** in the Kubernetes cluster to collect the logs and metrics from the pods running inside the cluster. [Click here](/docs/selfhosted-lite/Integrations/kubernetes/kubernetes_monitoring_with_sfPod) to know how to install the sfPod in the Kubernetes cluster.
 
 3. Make sure that the `projectname` and the `appname` in the **sfPod** and the **values.yaml** file are same.
 

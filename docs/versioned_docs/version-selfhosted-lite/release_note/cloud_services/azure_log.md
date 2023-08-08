@@ -7,6 +7,6 @@ sidebar_position: 3
 
 An integration feature to monitor Azure Log.
 
-[Documentation Reference](/docs/Integrations/plugin/azurelog)
+[Documentation Reference](/docs/selfhosted-lite/Integrations/plugin/azurelog)
 
 Kindly reach out to [support@snappyflow.io](mailto:support@snappyflow.io) for more info.

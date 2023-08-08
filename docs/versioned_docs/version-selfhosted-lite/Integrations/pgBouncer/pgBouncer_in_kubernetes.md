@@ -6,7 +6,7 @@ sidebar_position: 3
 
 ## Prerequisites 
 
-PgBouncer running in Kubernetes can be monitored by running sfKubeAgent agent as a sidecar container within the Kubernetes application pod. [Click here](/docs/Integrations/kubernetes/sfkubeagent_installation) to install sfKubeAgent in the application pod.
+PgBouncer running in Kubernetes can be monitored by running sfKubeAgent agent as a sidecar container within the Kubernetes application pod. [Click here](/docs/selfhosted-lite/Integrations/kubernetes/sfkubeagent_installation) to install sfKubeAgent in the application pod.
 
 ## Configuration
 

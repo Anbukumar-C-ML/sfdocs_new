@@ -7,7 +7,7 @@ sidebar_position: 3
 
 Communication feature to send alert notifications through PagerDuty.
 
-[Documentation Reference](/docs/Alerts_notifications/Notifications/Create_Notification_Channel/pagerDuty)
+[Documentation Reference](/docs/selfhosted-lite/Alerts_notifications/Notifications/Create_Notification_Channel/pagerDuty)
 
 Kindly reach out to [support@snappyflow.io](mailto:support@snappyflow.io) for more info.
 

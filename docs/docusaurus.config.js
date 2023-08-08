@@ -50,11 +50,11 @@ const config = {
                         },
                       'selfhosted-turbo': {
                               banner: 'none',
-                              label:'Self Hosted Turbo',
+                              label:'Selfhosted Turbo',
                             },
                       'selfhosted-lite': {
                               banner: 'none',
-                              label:'Self Hosted Lite',
+                              label:'Selfhosted Lite',
                         }, 
                       },
                       

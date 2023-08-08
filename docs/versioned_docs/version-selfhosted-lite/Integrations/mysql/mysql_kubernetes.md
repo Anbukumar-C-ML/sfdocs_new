@@ -2,8 +2,8 @@
 
 MySQL database  running in Kubernetes can be monitored using two approaches:
 
-- [sfKubeAgent](/docs/Integrations/kubernetes/sfkubeagent_installation) as a sidecar container
-- [Prometheus exporter](/docs/Integrations/kubernetes/prometheus_exporter)
+- [sfKubeAgent](/docs/selfhosted-lite/Integrations/kubernetes/sfkubeagent_installation) as a sidecar container
+- [Prometheus exporter](/docs/selfhosted-lite/Integrations/kubernetes/prometheus_exporter)
 
 ## Get Started
 
@@ -202,7 +202,7 @@ Once the MySQL configuration settings are done, the MySQL plugin will be automat
 
 ### Prerequisites
 
-Prometheus exporter has to be deployed as a side-car in the application container and the exporter port has to be accessible to the sfPod. Refer to [Prometheus Exporter](/docs/Integrations/kubernetes/prometheus_exporter) overview to understand how SnappyFlow monitors using Prometheus exporters.
+Prometheus exporter has to be deployed as a side-car in the application container and the exporter port has to be accessible to the sfPod. Refer to [Prometheus Exporter](/docs/selfhosted-lite/Integrations/kubernetes/prometheus_exporter) overview to understand how SnappyFlow monitors using Prometheus exporters.
 
 ### Configurations
 

@@ -10,7 +10,7 @@ Store logs for an extended duration in secondary storage and utilize them later 
 
 By default, secondary storage is deactivated for a plugin/document type, requiring manual activation to enable it.
 
-[Click here](docs/Log_management/manage_logs#actions) to know how to enable secondary storage for a plugin/document type.
+[Click here](/docs/Log_management/manage_logs#actions) to know how to enable secondary storage for a plugin/document type.
 
 ## View Logs in Secondary Storage
 
@@ -28,19 +28,9 @@ By default, secondary storage is deactivated for a plugin/document type, requiri
 
 - In the Live Data pane, histogram data up to **30 minutes** before the time of access will be displayed. The first 1000 records for logs are displayed and pagination is enabled for records more than 20.
 
-  
-
-  <img src="/img/log_management/secondary_storage/image_5.png" /><br/>
-
-  
-
 - The logs can be expanded or collapsed to view or copy the logs in a JSON format.
 
 - The user can choose from different log types. The corresponding histogram and log data will be fetched for the changed log type.
-
-  <br/>
-
-  <img src="/img/log_management/secondary_storage/image_4.png" /><br/>
 
 - Zooming on histogram data will fetch the respective zoomed data for histogram and logs. Resetting zoom results in the fetching of data up to the last 30 minutes from the time of access.
 

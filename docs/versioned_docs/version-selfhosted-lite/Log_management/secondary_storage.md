@@ -4,23 +4,22 @@ sidebar_label: Archival
 # Secondary Storage
 ## Overview
 
-Secondary Storage feature allows you to store logs beyond the retention period. with the help of Secondary  
+Store logs for an extended duration in secondary storage and utilize them later for auditing, troubleshooting, performance tuning, and detecting patterns or anomalies.
 
 ## Enable Secondary Storage
 
-By default secondary storage is disabled for a pulgin/document type.
+By default, secondary storage is deactivated for a plugin/document type, requiring manual activation to enable it.
 
-[Click here](/docs/Log_management/manage_logs#actions) to know more about adding and editing a rule in Manage Log pane.
-
-:::note
-
-Retention Period can be modified **only if** Secondary Storage is enabled.  By default, retention period is 30 days.
-
-:::
+[Click here](/docs/selfhosted-lite/Log_management/manage_logs#actions) to know how to enable secondary storage for a plugin/document type.
 
 ## View Logs in Secondary Storage
 
+<img src="/img/log_management/secondary_storage/image_2.png" /><br/>
+
 1. The Logs stored in the secondary storage can be viewed in the **Secondary Storage** pane of the **Log Management** section.
+
+   <img src="/img/log_management/secondary_storage/image_3.png" />
+
 2. The Secondary Storage pane has two tabs:
    - Live Data
    - Search History
@@ -30,30 +29,48 @@ Retention Period can be modified **only if** Secondary Storage is enabled.  By d
 - In the Live Data pane, histogram data up to **30 minutes** before the time of access will be displayed. The first 1000 records for logs are displayed and pagination is enabled for records more than 20.
 
 - The logs can be expanded or collapsed to view or copy the logs in a JSON format.
+
 - The user can choose from different log types. The corresponding histogram and log data will be fetched for the changed log type.
+
 - Zooming on histogram data will fetch the respective zoomed data for histogram and logs. Resetting zoom results in the fetching of data up to the last 30 minutes from the time of access.
 
 ## Search History
 
-Log Type
+In the Search History pane, you can access all the logs from the moment secondary storage enabled for the plugin and Document Type. You use the following components of the search history pane to access the logs you require.
 
-Search History
+#### Log Type
 
-Filter
+Enable you to filter the logs based on the log type. It simplifies the task of navigating through large volumes of log data, facilitating quicker identification.
 
-Data Range
+#### Search History
 
+The Search History component stores your search activities and retains  them for a specified duration, enabling easy access to previously  searched logs.
 
+#### Filter
 
-- The Search history tab, displays the log message 
+The Filter component allows you to set filters for previously searched  logs, facilitating more precise and targeted log retrieval. By utilizing this feature, you can quickly narrow down your search results.
+
+#### Data Range
+
+Specify a particular date range, enabling you to focus on logs generated within that specific timeframe
+
+#### Advance Settings
+
+Enable retention period for the performed searches.
+
+#### Search
+
+Execute a search jobs in the search tab and view matching logs and histogram data for the executed search.
 
 
 
 ## Search Query Details
 
+To perform a search job, use the provided query syntax.
 
 
-#### Query Syntax Details
+
+##### Query Syntax Details
 
 | **Operator** | **Description**                  | **Example**                                                  |
 | ------------ | -------------------------------- | ------------------------------------------------------------ |
@@ -71,10 +88,4 @@ Data Range
 | *            | Zero or more characters wildcard | message: *exception                                          |
 | //           | Pattern searches                 | message: /port [0-9]+/                                       |
 | \            | Escape sequence                  | message: sudo\:linux                                         |
-
-
-
-## Advance Settings
-
-With the help of Advance Settings option, you can set retention time for the Search History.
 

@@ -32,7 +32,7 @@ RUN pip install sf-apm-lib==0.1.1
 
 ### Configuration
 
-Make sure that the project and the application are created in the SnappyFlow Server. [Click here](https://stage-docs.snappyflow.io/docs/RUM/agent_installation/others#create-a-project-in-snappyflow-portal) to know how to create a project and an application in SnappyFlow.
+Make sure that the project and the application are created in the SnappyFlow Server. [Click here](/docs/selfhosted-lite/RUM/agent_installation/others#create-a-project-in-snappyflow-portal) to know how to create a project and an application in SnappyFlow.
 
 **Add the following entries in `settings.py` file.**
 
@@ -151,7 +151,7 @@ Install the libraries using CLI.
 
 ### Configuration
 
-Make sure that the project and application are created in the SnappyFlow Server. [Click here](https://stage-docs.snappyflow.io/docs/RUM/agent_installation/others#create-a-project-in-snappyflow-portal) to know how to create a project and an application in SnappyFlow.  
+Make sure that the project and application are created in the SnappyFlow Server. [Click here](/docs/selfhosted-lite/RUM/agent_installation/others#create-a-project-in-snappyflow-portal) to know how to create a project and an application in SnappyFlow.  
 
 **Add the following entries in the `app.py` file.**
 

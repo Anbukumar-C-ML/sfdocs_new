@@ -851,7 +851,7 @@ You can refer the code at: https://github.com/snappyflow/tracing-reference-apps/
 
 1. Install sfagent and create config file.
 
-    Refer: https://docs.snappyflow.io/docs/Integrations/os/linux/sfagent_linux
+    Refer: https://docs.snappyflow.io/docs/selfhosted-lite/Integrations/os/linux/sfagent_linux
 
 2. Enable the `elasticApmTraceLog` plugin and restart sfagent service.
 

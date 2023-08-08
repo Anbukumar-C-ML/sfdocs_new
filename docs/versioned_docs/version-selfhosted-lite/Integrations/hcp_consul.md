@@ -4,12 +4,12 @@
 
 HCP (Hashicorp Cloud Platform) Consul is a service mesh and service discovery solution provided by Hashicorp. It enables platform operators to quickly deploy a fully managed, secure-by-default service mesh, helping developers discover and securely connect any application on any runtime, including Kubernetes, Nomad, and Amazon ECS. 
 
-SnappyFlow supports monitoring of HCP Consul and Envoy metrics through [StatsD](/docs/Integrations/statsd/custom_monitoring) plugin. The StatsD plugin aggregates all the metrics exposed by HCP Consul and pushes them to SnappyFlow for data visualization and alerting. SnappyFlow provides a built-in dashboard template and a default StatsD rule file, customized to HCP Consul and Envoy metrics to get started easily.
+SnappyFlow supports monitoring of HCP Consul and Envoy metrics through [StatsD](/docs/selfhosted-lite/Integrations/statsd/custom_monitoring) plugin. The StatsD plugin aggregates all the metrics exposed by HCP Consul and pushes them to SnappyFlow for data visualization and alerting. SnappyFlow provides a built-in dashboard template and a default StatsD rule file, customized to HCP Consul and Envoy metrics to get started easily.
 
 ## Pre-Requisites
 
-- Install [sfAgent](/docs/Quick_Start/getting_started#sfagent) on target machine
-- Since [StatsD](/docs/Integrations/statsd/custom_monitoring) plugin is used, a custom rules file is required for Monitoring HCP Consul. Default rule files are available at `/opt/sfagent/statsd_rules/` folder.
+- Install [sfAgent](/docs/selfhosted-lite/Quick_Start/getting_started#sfagent) on target machine
+- Since [StatsD](/docs/selfhosted-lite/Integrations/statsd/custom_monitoring) plugin is used, a custom rules file is required for Monitoring HCP Consul. Default rule files are available at `/opt/sfagent/statsd_rules/` folder.
 
 ## Configuring StatsD plugin
 

@@ -7,6 +7,6 @@ sidebar_position: 3
 
 Synthetic Monitoring helps you understand how your applications are performing using simulated requests.
 
-[Documentation Reference](/docs/Synthetic/overview)
+[Documentation Reference](/docs/selfhosted-lite/Synthetic/overview)
 
 Kindly reach out to [support@snappyflow.io](mailto:support@snappyflow.io) for more info.

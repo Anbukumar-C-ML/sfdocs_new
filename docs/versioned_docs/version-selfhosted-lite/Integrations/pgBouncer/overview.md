@@ -22,4 +22,4 @@ PgBouncer monitoring is tested on version 1.12.
 
 ## Supported Platform
 
-[Instance](/docs/Integrations/pgBouncer/pgBouncer_on_instance) | [Kubernetes](/docs/Integrations/pgBouncer/pgBouncer_in_kubernetes)
+[Instance](/docs/selfhosted-lite/Integrations/pgBouncer/pgBouncer_on_instance) | [Kubernetes](/docs/selfhosted-lite/Integrations/pgBouncer/pgBouncer_in_kubernetes)

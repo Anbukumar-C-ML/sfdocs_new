@@ -158,7 +158,7 @@ Now you can view the status page to see your metrics:
 
 ## Configuration 
 
-[sfAgent](/docs/Quick_Start/getting_started#sfagent) section provides steps to install and automatically generate plugin configurations. User can also manually add the configuration shown below to config.yaml under /opt/sfagent/ directory.
+[sfAgent](/docs/selfhosted-lite/Quick_Start/getting_started#sfagent) section provides steps to install and automatically generate plugin configurations. User can also manually add the configuration shown below to config.yaml under /opt/sfagent/ directory.
 
 ```yaml
 key: <profile key> 

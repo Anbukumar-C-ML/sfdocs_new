@@ -2,7 +2,7 @@
 
 ## Overview
 
-Redis on instances is monitored using [sfAgent](/docs/Quick_Start/getting_started#sfagent) configured with Redisdb plugin  
+Redis on instances is monitored using [sfAgent](/docs/selfhosted-lite/Quick_Start/getting_started#sfagent) configured with Redisdb plugin  
 
 ### Metrics plugin
 
@@ -37,7 +37,7 @@ config set slowlog-max-len=100; 
 
 ## Configuration 
 
-Refer to [sfAgent](/docs/Quick_Start/getting_started#sfagent) section for steps to install and automatically generate plugin configurations. User can also manually add the configuration shown below to `config.yaml` under `/opt/sfagent/directory`  
+Refer to [sfAgent](/docs/selfhosted-lite/Quick_Start/getting_started#sfagent) section for steps to install and automatically generate plugin configurations. User can also manually add the configuration shown below to `config.yaml` under `/opt/sfagent/directory`  
 
 ```yaml
 metrics:  

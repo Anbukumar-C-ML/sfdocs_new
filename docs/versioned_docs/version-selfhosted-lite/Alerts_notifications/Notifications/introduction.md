@@ -19,27 +19,27 @@ Email, Zenduty, OpsGenie, Slack, Microsoft Teams, Webhook and PagerDuty
 
 Detailed instructions on creating Notification Channels in SnappyFlow are given below
 
-#### [Email](/docs/Alerts_notifications/Notifications/Create_Notification_Channel/email) 
+#### [Email](/docs/selfhosted-lite/Alerts_notifications/Notifications/Create_Notification_Channel/email) 
 
-#### [Zenduty](/docs/Alerts_notifications/Notifications/Create_Notification_Channel/zenduty)
+#### [Zenduty](/docs/selfhosted-lite/Alerts_notifications/Notifications/Create_Notification_Channel/zenduty)
 
-#### [OpsGenie](/docs/Alerts_notifications/Notifications/Create_Notification_Channel/opsGenie) 
+#### [OpsGenie](/docs/selfhosted-lite/Alerts_notifications/Notifications/Create_Notification_Channel/opsGenie) 
 
-#### [Slack](/docs/Alerts_notifications/Notifications/Create_Notification_Channel/slack)
+#### [Slack](/docs/selfhosted-lite/Alerts_notifications/Notifications/Create_Notification_Channel/slack)
 
-#### [Teams](/docs/Alerts_notifications/Notifications/Create_Notification_Channel/teams)
+#### [Teams](/docs/selfhosted-lite/Alerts_notifications/Notifications/Create_Notification_Channel/teams)
 
-#### [Webhook](/docs/Alerts_notifications/Notifications/Create_Notification_Channel/webhook)  
+#### [Webhook](/docs/selfhosted-lite/Alerts_notifications/Notifications/Create_Notification_Channel/webhook)  
 
-#### [PagerDuty ](/docs/Alerts_notifications/Notifications/Create_Notification_Channel/pagerDuty)
+#### [PagerDuty ](/docs/selfhosted-lite/Alerts_notifications/Notifications/Create_Notification_Channel/pagerDuty)
 
 ## Step 2: Map the Notification Channel
 
-Mapping the notification channel is a process of linking the project and the notification channel(s). [Click here](/docs/Alerts_notifications/Notifications/Map_Notification_Alerts/map_projects_to_channels)
+Mapping the notification channel is a process of linking the project and the notification channel(s). [Click here](/docs/selfhosted-lite/Alerts_notifications/Notifications/Map_Notification_Alerts/map_projects_to_channels)
 
 ## Step 3: Map the Alerts
 
-Alert mapping is a process where you link a notification channel to a type of alert that is generated in an application and enable the alerts. [Click here](/docs/Alerts_notifications/Notifications/Map_Notification_Alerts/alert_mapping) 
+Alert mapping is a process where you link a notification channel to a type of alert that is generated in an application and enable the alerts. [Click here](/docs/selfhosted-lite/Alerts_notifications/Notifications/Map_Notification_Alerts/alert_mapping) 
 
 
 

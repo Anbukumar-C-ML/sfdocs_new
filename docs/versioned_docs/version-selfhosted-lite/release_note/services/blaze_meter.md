@@ -7,6 +7,6 @@ sidebar_position: 3
 
 An integration feature to monitor Blaze Meter.
 
-[Documentation Reference](/docs/Integrations/plugin/blazemeter)
+[Documentation Reference](/docs/selfhosted-lite/Integrations/plugin/blazemeter)
 
 Kindly reach out to [support@snappyflow.io](mailto:support@snappyflow.io) for more info.

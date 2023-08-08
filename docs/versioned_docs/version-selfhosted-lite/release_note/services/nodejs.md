@@ -7,6 +7,6 @@ sidebar_position: 3
 
 An integration feature to monitor Nodejs.
 
-[Documentation Reference](/docs/Integrations/nodejs_prometheus)
+[Documentation Reference](/docs/selfhosted-lite/Integrations/nodejs_prometheus)
 
 Kindly reach out to [support@snappyflow.io](mailto:support@snappyflow.io) for more info

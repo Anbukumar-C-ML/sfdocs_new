@@ -6,6 +6,6 @@ sidebar_position: 3
 
 Communication feature to send alert notifications through Email.
 
-[Documentation Reference](/docs/Alerts_notifications/Notifications/Create_Notification_Channel/email)
+[Documentation Reference](/docs/selfhosted-lite/Alerts_notifications/Notifications/Create_Notification_Channel/email)
 
 Kindly reach out to [support@snappyflow.io](mailto:support@snappyflow.io) for more info.

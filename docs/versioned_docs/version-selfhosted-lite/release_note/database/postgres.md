@@ -7,7 +7,7 @@ sidebar_position: 3
 
 Integration feature to enable monitoring for PostgreSQL database.
 
-[Documentation Reference](/docs/Integrations/postgres/overview)
+[Documentation Reference](/docs/selfhosted-lite/Integrations/postgres/overview)
 
 Kindly reach out to [support@snappyflow.io](mailto:support@snappyflow.io) for more info.
 

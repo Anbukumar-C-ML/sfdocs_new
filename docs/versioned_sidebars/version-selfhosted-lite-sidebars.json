@@ -439,7 +439,7 @@
         },
         {
           "type": "category",
-          "label": "IDP",
+          "label": "Identity Provider",
           "link": {
             "type": "doc",
             "id": "Integrations/idp/overview"
@@ -921,11 +921,6 @@
               "label": "Extract Functions"
             }
           ]
-        },
-        {
-          "type": "doc",
-          "id": "Log_management/archival",
-          "label": "Archival"
         },
         {
           "type": "doc",

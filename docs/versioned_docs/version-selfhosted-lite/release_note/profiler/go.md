@@ -7,6 +7,6 @@ sidebar_position: 3
 
 Monitor Go profiler.
 
-[Documentation Reference](/docs/Integrations/go/profiler)
+[Documentation Reference](/docs/selfhosted-lite/Integrations/go/profiler)
 
 Kindly reach out to [support@snappyflow.io](mailto:support@snappyflow.io) for more info.

@@ -10,7 +10,7 @@ Follow the below steps to start tracings for an application packed and built usi
 
 ### Prerequisite
 
-Install [sfAgent](/docs/Quick_Start/getting_started#sfagent) to monitor Java application running on instance.
+Install [sfAgent](/docs/selfhosted-lite/Quick_Start/getting_started#sfagent) to monitor Java application running on instance.
 
 ### Configuration
 
@@ -87,7 +87,7 @@ Follow the below steps to start tracings for an application built using **Apache
 
 ### Prerequisite
 
-Install [sfAgent](/docs/Quick_Start/getting_started#sfagent) to monitor Java application running on instance.
+Install [sfAgent](/docs/selfhosted-lite/Quick_Start/getting_started#sfagent) to monitor Java application running on instance.
 
 ### Configuration
 
@@ -162,7 +162,7 @@ Follow the below steps to start tracings for an application built using **JBoss 
 
 ### Prerequisite
 
-Install [sfAgent](/docs/Quick_Start/getting_started#sfagent) to monitor Java application running on instance.
+Install [sfAgent](/docs/selfhosted-lite/Quick_Start/getting_started#sfagent) to monitor Java application running on instance.
 
 ### Configuration
 

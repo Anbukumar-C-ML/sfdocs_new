@@ -7,6 +7,6 @@ sidebar_position: 3
 
 An integration feature to monitor RabbitMQ.
 
-[Documentation Reference](/docs/Integrations/rabbitmqinstance)
+[Documentation Reference](/docs/selfhosted-lite/Integrations/rabbitmqinstance)
 
 Kindly reach out to [support@snappyflow.io](mailto:support@snappyflow.io) for more info.

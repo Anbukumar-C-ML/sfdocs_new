@@ -4,14 +4,14 @@
 
  Java applications running in Kubernetes can be monitored in SnappyFlow using two approaches: 
 
-- [sfKubeAgent](/docs/integrations/kubernetes/sfkubeagent_installation) as sidecar container. 
-- [Prometheus exporter](/docs/integrations/kubernetes/prometheus_exporter) 
+- [sfKubeAgent](/docs/selfhosted-lite/integrations/kubernetes/sfkubeagent_installation) as sidecar container. 
+- [Prometheus exporter](/docs/selfhosted-lite/integrations/kubernetes/prometheus_exporter) 
 
 ## Java monitoring with sfKubeAgent 
 
  
 
-In this option, the Java application should be run with Jolokia agent and sfKubeAgent running as a sidecar container and fetches metrics via Jolokia port. Refer to [sfKubeAgent](/docs/integrations/kubernetes/sfkubeagent_installation) Overview 
+In this option, the Java application should be run with Jolokia agent and sfKubeAgent running as a sidecar container and fetches metrics via Jolokia port. Refer to [sfKubeAgent](/docs/selfhosted-lite/integrations/kubernetes/sfkubeagent_installation) Overview 
 
 ### Prerequisites 
 
@@ -119,7 +119,7 @@ name: jvm-configmap
 
  
 
-Refer to [Prometheus Exporter](/docs/integrations/kubernetes/prometheus_exporter) Overview. Prometheus exporter is deployed as a sidecar container in the application pod and connects to the JMX target exposed by the application to scrape the metrics. sfPod polls Prometheus exporter to scrape the metrics. 
+Refer to [Prometheus Exporter](/docs/selfhosted-lite/integrations/kubernetes/prometheus_exporter) Overview. Prometheus exporter is deployed as a sidecar container in the application pod and connects to the JMX target exposed by the application to scrape the metrics. sfPod polls Prometheus exporter to scrape the metrics. 
 
  
 

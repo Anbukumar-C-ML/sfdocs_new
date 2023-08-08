@@ -8,7 +8,7 @@ sidebar_position: 3
 ### Prerequisite
 
 1. Install [Sftrace-agent](https://github.com/snappyflow/apm-agent/releases/download/latest/sftrace-agent.tar.gz) to start tracing for an application running in Kubernetes.
-2. Make sure that the project and application are created in the SnappyFlow server. [Click here](https://stage-docs.snappyflow.io/docs/RUM/agent_installation/others#create-a-project-in-snappyflow-portal) to create a project and an application in SnappyFlow. 
+2. Make sure that the project and application are created in the SnappyFlow server. [Click here](/docs/selfhosted-lite/RUM/agent_installation/others#create-a-project-in-snappyflow-portal) to create a project and an application in SnappyFlow. 
 3. `sfTrace` agent has to run as `initContainer` in the application pod. 
 
 ### Configuration
@@ -100,7 +100,7 @@ Follow the below steps to view the trace data.
 ### Prerequisite
 
 1. Install [Sftrace-agent](https://github.com/snappyflow/apm-agent/releases/download/latest/sftrace-agent.tar.gz) o start tracing for an application running in Kubernetes using helm chart deployment.
-2. Make sure that the project and application are created in the SnappyFlow server. [Click here](https://stage-docs.snappyflow.io/docs/RUM/agent_installation/others#create-a-project-in-snappyflow-portal) to create a project and an application in SnappyFlow. 
+2. Make sure that the project and application are created in the SnappyFlow server. [Click here](/docs/selfhosted-lite/RUM/agent_installation/others#create-a-project-in-snappyflow-portal) to create a project and an application in SnappyFlow. 
 3. `sfTrace` agent has to run as `initContainer` in the application pod.
 
 ### Configuration

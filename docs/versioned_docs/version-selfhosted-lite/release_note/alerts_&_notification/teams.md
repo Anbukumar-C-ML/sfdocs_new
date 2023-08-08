@@ -7,7 +7,7 @@ sidebar_position: 3
 
 Communication feature to send alert notifications through Teams.
 
-[Documentation Reference](/docs/Alerts_notifications/Notifications/Create_Notification_Channel/teams)
+[Documentation Reference](/docs/selfhosted-lite/Alerts_notifications/Notifications/Create_Notification_Channel/teams)
 
 Kindly reach out to [support@snappyflow.io](mailto:support@snappyflow.io) for more info.
 

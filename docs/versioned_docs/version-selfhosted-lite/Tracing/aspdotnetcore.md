@@ -38,7 +38,7 @@ These packages can be installed using the Nuget package manager in Visual Studio
 
 Follow the below steps to enable the tracing for the .net applications which are developed using version 6.
 
-1. Make sure that the project and the application are created in the SnappyFlow Server. [Click Here](https://stage-docs.snappyflow.io/docs/RUM/agent_installation/others#create-a-project-in-snappyflow-portal) to know how to create the project and application in SnappyFlow.
+1. Make sure that the project and the application are created in the SnappyFlow Server. [Click Here](/docs/selfhosted-lite/RUM/agent_installation/others#create-a-project-in-snappyflow-portal) to know how to create the project and application in SnappyFlow.
 2. Create the `sftraceConfig.yaml` file inside the **wwwroot** directory. 
 3. Add the below configuration in the `sftraceConfig.yaml` file and update the tags and key with the correct values.
 

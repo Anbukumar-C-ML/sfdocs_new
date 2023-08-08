@@ -92,7 +92,7 @@ If your app is in debug mode (eg: `settings.Debug = true`), then the agent wonâ€
 
 In this case, follow the below steps to enable tracing.
 
-1. Make sure that the project and the application are created in the SnappyFlow Server. [Click here](https://stage-docs.snappyflow.io/docs/RUM/agent_installation/others#create-a-project-in-snappyflow-portal) to know how to create a project and an application in SnappyFlow.  
+1. Make sure that the project and the application are created in the SnappyFlow Server. [Click here](docs/RUM/agent_installation/others#create-a-project-in-snappyflow-portal) to know how to create a project and an application in SnappyFlow.  
 
 2. Export `SF_PROJECT_NAME`, `SF_APP_NAME`, `SF_PROFILE_KEY` as the environment variables.
    ``` 
@@ -248,7 +248,7 @@ If your app is in debug mode (eg: `app.Debug = true`), then the agent wonâ€™t se
 
 In this case, follow the below steps to enable tracing.
 
-1. Make sure that the project and the application are created in the SnappyFlow Server. [Click here](https://stage-docs.snappyflow.io/docs/RUM/agent_installation/others#create-a-project-in-snappyflow-portal) to know how to create a project and an application in SnappyFlow.
+1. Make sure that the project and the application are created in the SnappyFlow Server. [Click here](/docs/selfhosted-lite/RUM/agent_installation/others#create-a-project-in-snappyflow-portal) to know how to create a project and an application in SnappyFlow.
 
 2. Export `SF_PROJECT_NAME`, `SF_APP_NAME`, and `SF_PROFILE_KEY` as the environment variables.
    ```         

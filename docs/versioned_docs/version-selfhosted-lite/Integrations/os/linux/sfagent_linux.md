@@ -67,7 +67,7 @@ To install sfAgent on multiple end-points using Ansible playbook, refer the foll
 
 ## Configuration
 
-sfAgent can be either configured manually or automatically. In an automatic configuration step, sfAgent discovers services running in a VM and automatically generates a default configuration for monitoring the discovered services. User can further modify the  configurations as needed. Check [Configuration format](/docs/integrations/os/linux/sfagent_linux#sfagent-configuration-format) for more details. Detailed configuration for a specific application types are present in [Integrations](/docs/integrations/overview) section.
+sfAgent can be either configured manually or automatically. In an automatic configuration step, sfAgent discovers services running in a VM and automatically generates a default configuration for monitoring the discovered services. User can further modify the  configurations as needed. Check [Configuration format](/docs/integrations/os/linux/sfagent_linux#sfagent-configuration-format) for more details. Detailed configuration for a specific application types are present in [Integrations](/docs/selfhosted-lite/integrations/overview) section.
 
 Follow the steps below for automatic discovery & configuration
 

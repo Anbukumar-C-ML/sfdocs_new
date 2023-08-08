@@ -18,5 +18,5 @@ The Ruby tracing feature automatically instruments APIs, frameworks, and applica
 
 ## Supported Platforms
 
-[Instance](/docs/Tracing/ruby/instance) | [Windows](/docs/Tracing/ruby/instance) | [Docker](/docs/Tracing/ruby/docker) | [Kubernetes](/docs/Tracing/ruby/kubernetes) 
+[Instance](/docs/selfhosted-lite/Tracing/ruby/instance) | [Windows](/docs/selfhosted-lite/Tracing/ruby/instance) | [Docker](/docs/selfhosted-lite/Tracing/ruby/docker) | [Kubernetes](/docs/selfhosted-lite/Tracing/ruby/kubernetes) 
 

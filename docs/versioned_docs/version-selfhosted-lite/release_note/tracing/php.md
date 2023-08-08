@@ -7,7 +7,7 @@ sidebar_position: 3
 
 Tracing feature to enable monitoring for application developed using PHP.
 
-[Documentation Reference](/docs/Tracing/php/overview)
+[Documentation Reference](/docs/selfhosted-lite/Tracing/php/overview)
 
 Kindly reach out to [support@snappyflow.io](mailto:support@snappyflow.io) for more info.
 

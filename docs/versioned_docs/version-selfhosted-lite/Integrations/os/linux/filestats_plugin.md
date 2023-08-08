@@ -22,7 +22,7 @@ The fileStats Metric plugin is an agent-based plugin that collects the following
 
   
 
-## Tested on[​](http://localhost:3000/docs/Integrations/os/linux/cpuloadstats_plugin#tested-on "Direct link to heading")
+## Tested on[​](/docs/selfhosted-lite/Integrations/os/linux/cpuloadstats_plugin#tested-on "Direct link to heading")
 
 Centos: 7.x
 
@@ -32,7 +32,7 @@ Ubuntu: 14.x, 16.x
 
 ## Prerequisites - Install sysstat command
 
-- [sfAgent](/docs/Quick_Start/getting_started#sfagent) must be installed
+- [sfAgent](/docs/selfhosted-lite/Quick_Start/getting_started#sfagent) must be installed
 
 - The fileStats plugin requires sysstat to be installed
 

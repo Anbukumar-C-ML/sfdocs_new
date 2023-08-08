@@ -14,7 +14,7 @@ OS monitoring is the most commonly needed and most important aspect of monitorin
 
 ## Configuration
 
-Refer to [sfAgent](/docs/Quick_Start/getting_started#sfagent) section for steps to install and automatically generate plugin configurations. User can also manually add the configuration shown below to `config.yaml` under `/opt/sfagent/` directory
+Refer to [sfAgent](/docs/selfhosted-lite/Quick_Start/getting_started#sfagent) section for steps to install and automatically generate plugin configurations. User can also manually add the configuration shown below to `config.yaml` under `/opt/sfagent/` directory
 
 ```yaml
 key: <profile_key> 
@@ -74,8 +74,8 @@ logging:
 
 ## See Also
 
-- [LSOF](/docs/integrations/os/linux/lsof) 
-- [PSUTIL](/docs/integrations/os/linux/psutil) 
-- [NETSTAT](/docs/integrations/os/linux/netstat) 
-- [Custom plugins using StatsD](/docs/integrations/statsd/custom_monitoring) 
-- [Prometheus Integration](/docs/Integrations/kubernetes/prometheus_exporter) 
+- [LSOF](/docs/selfhosted-lite/integrations/os/linux/lsof) 
+- [PSUTIL](/docs/selfhosted-lite/integrations/os/linux/psutil) 
+- [NETSTAT](/docs/selfhosted-lite/integrations/os/linux/netstat) 
+- [Custom plugins using StatsD](/docs/selfhosted-lite/integrations/statsd/custom_monitoring) 
+- [Prometheus Integration](/docs/selfhosted-lite/Integrations/kubernetes/prometheus_exporter) 

@@ -8,28 +8,28 @@ const AGENTS = [
 		'label': 'Postgres',
 		'overText': 'Postgres Infrastructure platform is built for enterprises',
 		'category': ['Database'],
-		'link': '/docs/Integrations/postgres/overview'
+		'link': '/docs/selfhosted-lite/Integrations/postgres/overview'
 	},
 	{
 		'src': '/img/java.svg',
 		'label': 'Java',
 		'overText': 'Java Infrastructure platform is built for enterprises',
 		'category': ['App Tier'],
-		'link': '/docs/Integrations/java/overview'
+		'link': '/docs/selfhosted-lite/Integrations/java/overview'
 	}, 
 	{
 		'src': '/img/golang.svg',
 		'label': 'Go',
 		'overText': 'Oracle Cloud Infrastructure platform is built for enterprises',
 		'category': ['Profiling'],
-		'link': '/docs/integrations/go/profiler'
+		'link': '/docs/selfhosted-lite/integrations/go/profiler'
 	},
 	{
 		'src': '/img/mongodb.svg',
 		'label': 'MongoDB',
 		'overText': 'MongoDB Infrastructure platform is built for enterprises',
 		'category': ['Database'],
-		'link': '/docs/integrations/mongodb'
+		'link': '/docs/selfhosted-lite/integrations/mongodb'
 
 	},
 	{
@@ -37,7 +37,7 @@ const AGENTS = [
 		'label': 'Oracle ASH',
 		'overText': 'OracleASH plugin fetch and parse the oracle ASH report from AWS-RDS.',
 		'category': ['Database'],
-		'link': '/docs/Integrations/plugin/oracleASH'
+		'link': '/docs/selfhosted-lite/Integrations/plugin/oracleASH'
 
 	},
 	{
@@ -45,154 +45,154 @@ const AGENTS = [
 		'label': 'HAProxy',
 		'overText': 'Microsoft Infrastructure platform is built for enterprises',
 		'category': ['Web Tier'],
-		'link': '/docs/integrations/haproxy'
+		'link': '/docs/selfhosted-lite/integrations/haproxy'
 	},
 	{
 		'src': '/img/apache-activemq-icon.svg',
 		'label': 'ActiveMQ',
 		'overText': 'Cassandra Infrastructure platform is built for enterprises',
 		'category': ['Web Tier'],
-		'link': '/docs/integrations/activemq'
+		'link': '/docs/selfhosted-lite/integrations/activemq'
 	},
 	{
 		'src': '/img/kafka-icon.svg',
 		'label': 'Kafka',
 		'overText': 'Kafka Infrastructure platform is built for enterprises',
 		'category': ['App Tier'],
-		'link': '/docs/integrations/kafka/overview'
+		'link': '/docs/selfhosted-lite/integrations/kafka/overview'
 	},
 	{
 		'src': '/img/blaze_meter.svg',
 		'label': 'Blaze Meter',
 		'overText': 'Plugin collects Test Reports from the BlazeMeter Account',
 		'category': ['App Tier'],
-		'link': '/docs/integrations/plugin/blazemeter'
+		'link': '/docs/selfhosted-lite/integrations/plugin/blazemeter'
 	},
 	{
 		'src': '/img/azure_blob.svg',
 		'label': 'Azure Blob',
 		'overText': 'Azure blob storage is to store large amount of unstructured data on data storage platform',
 		'category': ['Cloud Services'],
-		'link': '/docs/Integrations/plugin/blob'
+		'link': '/docs/selfhosted-lite/Integrations/plugin/blob'
 	},
 	{
 		'src': '/img/aws_rds.svg',
 		'label': 'AWS RDS',
 		'overText': 'Amazon Relational Database Service (Amazon RDS) is a managed SQL database service provided by Amazon Web Services (AWS)',
 		'category': ['Database'],
-		'link': '/docs/Integrations/plugin/rds'
+		'link': '/docs/selfhosted-lite/Integrations/plugin/rds'
 	}, 
 	{
 		'src': '/img/apache-zookeeper-icon.svg',
 		'label': 'Zookeper',
 		'overText': 'Ldap Infrastructure platform is built for enterprises',
 		'category': ['App Tier'],
-		'link': '/docs/integrations/zookeeper'
+		'link': '/docs/selfhosted-lite/integrations/zookeeper'
 	},
 	{
 		'src': '/img/kubernetes-clusters.svg',
 		'label': 'Kubernetes',
 		'overText': 'Kubernetes clusters Infrastructure platform is built for enterprises',
 		'category': ['Platform'],
-		'link': '/docs/Integrations/kubernetes/overview'
+		'link': '/docs/selfhosted-lite/Integrations/kubernetes/overview'
 	},
 	{
 		'src': '/img/clickhouse.svg',
 		'label': 'Clickhouse',
 		'overText': 'Clickhouse running in Kubernetes can be monitored in SnappyFlow using Prometheus exporter',
 		'category': ['Database'],
-		'link': '/docs/Integrations/clickhouse_kubernetes'
+		'link': '/docs/selfhosted-lite/Integrations/clickhouse_kubernetes'
 	}, 
 	{
 		'src': '/img/mysql.svg',
 		'label': 'MySQL',
 		'overText': 'MYSQL Infrastructure platform is built for enterprises',
 		'category': ['Database'],
-		'link': '/docs/Integrations/mysql/overview'
+		'link': '/docs/selfhosted-lite/Integrations/mysql/overview'
 	}, 
 	{
 		'src': '/img/mssql.svg',
 		'label': 'MSSQL',
 		'overText': 'Monitoring MS SQL databases',
 		'category': ['Database'],
-		'link': '/docs/Integrations/mssql_windows'
+		'link': '/docs/selfhosted-lite/Integrations/mssql_windows'
 	}, 
 	{
 		'src': '/img/nginx.svg',
 		'label': 'Nginx',
 		'overText': 'Nginx Infrastructure platform is built for enterprises',
 		'category': ['Web Tier'],
-		'link': '/docs/Integrations/nginx/overview'
+		'link': '/docs/selfhosted-lite/Integrations/nginx/overview'
 	}, 
 	{
 		'src':'/img/tomcat.svg',
 		'label':'Tomcat',
 		'overText': 'Opsgenie Infrastructure platform is built for enterprises',
 		'category': ['Web Tier'],
-		'link': '/docs/integrations/tomcat/tomcat_windows'
+		'link': '/docs/selfhosted-lite/integrations/tomcat/tomcat_windows'
 	},
 	{
 		'src': '/img/pagerduty.svg',
 		'label': 'Pagerduty',
 		'overText': 'Pagerduty Infrastructure platform is built for enterprises',
 		'category': ['Alerts & Notifications'],
-		'link': '/docs/alerts_notifications/pager_duty'
+		'link': '/docs/selfhosted-lite/alerts_notifications/pager_duty'
 	},
 	{
 		'src': '/img/apache.svg',
 		'label': 'Apache',
 		'overText': 'Postgres Infrastructure platform is built for enterprises',
 		'category': ['Web Tier'],
-		'link': '/docs/Integrations/apache/overview'
+		'link': '/docs/selfhosted-lite/Integrations/apache/overview'
 	}, 
 	{
 		'src':'/img/aws-elastic-cache.svg',
 		'label':'ElastiCache', 
 		'overText': 'ElastiCache is the distributed in memory cache environments in the AWS cloud.',
 		'category': ['Cloud Services'],
-		'link': '/docs/Integrations/elasticache/elasticache'
+		'link': '/docs/selfhosted-lite/Integrations/elasticache/elasticache'
 	}, 
 	{
 		'src':'/img/public-cloud-elbs.svg',
 		'label':'Elastic Load Balancer',
 		'overText': 'Public cloud elbs Infrastructure platform is built for enterprises',
 		'category': ['Cloud Services'],
-		'link': '/docs/Integrations/elb/elb_rds'
+		'link': '/docs/selfhosted-lite/Integrations/elb/elb_rds'
 	}, 
 	{
 		'src': '/img/redis.svg',
 		'label': 'Redis',
 		'overText': 'Redis Infrastructure platform is built for enterprises',
 		'category': ['Database'],
-		'link': '/docs/integrations/redis/overview'
+		'link': '/docs/selfhosted-lite/integrations/redis/overview'
 	},
 	{
 		'src': '/img/rabbitmq.svg',
 		'label': 'RabbitMQ',
 		'overText': 'Monitoring RabbitMQ Message Broker running on Instances',
 		'category': ['Web Tier'],
-		'link': '/docs/Integrations/rabbitmqinstance'
+		'link': '/docs/selfhosted-lite/Integrations/rabbitmqinstance'
 	},
 	{
 		'src': '/img/tripwire.png',
 		'label': 'TripWire',
 		'overText': 'Tripwire Metric Plugin Parses reports Generates By Tripwire',
 		'category': ['App Tier'],
-		'link': '/docs/Integrations/tripwire'
+		'link': '/docs/selfhosted-lite/Integrations/tripwire'
 	}, 
 	{
 		'src': '/img/stack.svg',
 		'label': 'Slack',
 		'overText': 'Slack Infrastructure platform is built for enterprises',
 		'category': ['Alerts & Notifications'],
-		'link': '/docs/alerts_notifications/slack'
+		'link': '/docs/selfhosted-lite/alerts_notifications/slack'
 	}, 
 	{
 		'src': '/img/windows-vms.svg',
 		'label': 'Windows',
 		'overText': 'Windows VMs Infrastructure platform is built for enterprises',
 		'category': ['Operating System'],
-		'link': '/docs/Integrations/os/windows/sfagent_windows'
+		'link': '/docs/selfhosted-lite/Integrations/os/windows/sfagent_windows'
 	}, 
 	{
 		'src': '/img/aws_lambda.svg',
@@ -205,133 +205,133 @@ const AGENTS = [
 		'label': 'StatsD',
 		'overText': 'Custom Metrics Infrastructure platform is built for enterprises',
 		'category': ['App Tier'],
-		'link': '/docs/integrations/statsd/custom_monitoring'
+		'link': '/docs/selfhosted-lite/integrations/statsd/custom_monitoring'
 	},  
 	{
 		'src':'/img/iis-server.svg',
 		'label':'IIS Server',
 		'overText': 'IIS Server Infrastructure platform is built for enterprises',
 		'category': [''],
-		'link': '/docs/IntCloud Servicesegrations/iis/iis_windows'
+		'link': '/docs/selfhosted-lite/IntCloud Servicesegrations/iis/iis_windows'
 	}, 
 		{
 		'src':'/img/integration/integration_list/email.svg',
 		'label':'Email',
 		'overText': 'Email Notification Channel',
 		'category': ['Alerts & Notifications'],
-		'link': '/docs/Alerts_notifications/Notifications/Create_Notification_Channel/email'
+		'link': '/docs/selfhosted-lite/Alerts_notifications/Notifications/Create_Notification_Channel/email'
 	},
 	{
 		'src':'/img/integration/integration_list/opsgenie.svg',
 		'label':'Opsgenie',
 		'overText': 'Opsgenie Notification Channel',
 		'category': ['Alerts & Notifications'],
-		'link': '/docs/Alerts_notifications/Notifications/Create_Notification_Channel/opsgenie'
+		'link': '/docs/selfhosted-lite/Alerts_notifications/Notifications/Create_Notification_Channel/opsgenie'
 	},
 	{
 		'src':'/img/integration/integration_list/teams.svg',
 		'label':'Teams',
 		'overText': 'Teams Notification Channel',
 		'category': ['Alerts & Notifications'],
-		'link': '/docs/Alerts_notifications/Notifications/Create_Notification_Channel/teams'
+		'link': '/docs/selfhosted-lite/Alerts_notifications/Notifications/Create_Notification_Channel/teams'
 	},
 	{
 		'src':'/img/integration/integration_list/zenduty.svg',
 		'label':'Zenduty',
 		'overText': 'Teams Notification Channel',
 		'category': ['Alerts & Notifications'],
-		'link': '/docs/Alerts_notifications/Notifications/Create_Notification_Channel/zenduty'
+		'link': '/docs/selfhosted-lite/Alerts_notifications/Notifications/Create_Notification_Channel/zenduty'
 	},
 	{
 		'src':'/img/integration/integration_list/webhook.svg',
 		'label':'Webhook',
 		'overText': 'Teams Notification Channel',
 		'category': ['Alerts & Notifications'],
-		'link': '/docs/Alerts_notifications/Notifications/Create_Notification_Channel/webhook'
+		'link': '/docs/selfhosted-lite/Alerts_notifications/Notifications/Create_Notification_Channel/webhook'
 	},
 	{
 		'src': '/img/azure_DB.svg',
 		'label': 'AzureDB',
 		'overText': 'Azuredb Metric plugin collects metrics related to relational database services like Azure SQL, Azure database for MySQL and Azure database for PostgreSQL using insights data from Azure Monitor',
 		'category': ['Databases'],
-		'link': '/docs/Integrations/plugin/azuredb'
+		'link': '/docs/selfhosted-lite/Integrations/plugin/azuredb'
 	},
 	{
 		'src': '/img/java.svg',
 		'label': 'Java Profiler',
 		'overText': 'Java Profiler',
 		'category': ['Profiling'],
-		'link': '/docs/Tracing/python/overview'
+		'link': '/docs/selfhosted-lite/Tracing/python/overview'
 	},
 	{
 		'src': '/img/mysql-logo.svg',
 		'label': 'Linux',
 		'overText': 'MySQL Infrastructure platform is built for enterprises',
 		'category': ['Operating System'],
-		'link': '/docs/Integrations/os/linux/overview'
+		'link': '/docs/selfhosted-lite/Integrations/os/linux/overview'
 	},
 	{
 		'src': '/img/integration/integration_list/django.svg',
 		'label': 'Django',
 		'overText': 'Python Framework',
 		'category': ['App Tier'],
-		//'link': '/docs/Integrations/os/linux/overview'
+		//'link': '/docs/selfhosted-lite/Integrations/os/linux/overview'
 	},
 	{
 		'src': '/img/integration/integration_list/asp-dot-net.svg',
 		'label': 'ASP.NET',
 		'overText': 'C# framework',
 		'category': ['App Tier'],
-		'link': '/docs/Tracing/aspdotnetcore'
+		'link': '/docs/selfhosted-lite/Tracing/aspdotnetcore'
 	},
 	{
 		'src': '/img/integration/integration_list/dot-net.svg',
 		'label': '.Net',
 		'overText': 'C# framework',
 		'category': ['App Tier'],
-		'link': '/docs/Tracing/dotnetframework'
+		'link': '/docs/selfhosted-lite/Tracing/dotnetframework'
 	},
 	{
 		'src': '/img/integration/integration_list/flask.svg',
 		'label': 'Flask',
 		'overText': 'Python Framework',
 		'category': ['App Tier'],
-		//'link': '/docs/Tracing/dotnetframework'
+		//'link': '/docs/selfhosted-lite/Tracing/dotnetframework'
 	},
 	{
 		'src': '/img/integration/integration_list/angular.svg',
 		'label': 'Angular',
 		'overText': 'for Real user monitoring',
 		'category': ['App Tier'],
-		'link': '/docs/RUM/agent_installation/angular'
+		'link': '/docs/selfhosted-lite/RUM/agent_installation/angular'
 	},
 	{
 		'src': '/img/integration/integration_list/react.svg',
 		'label': 'React',
 		'overText': 'for Real user monitoring',
 		'category': ['App Tier'],
-		'link': '/docs/RUM/agent_installation/react'
+		'link': '/docs/selfhosted-lite/RUM/agent_installation/react'
 	},
 	{
 		'src': '/img/integration/integration_list/nextjs.svg',
 		'label': 'Nextjs',
 		'overText': 'for Real user monitoring',
 		'category': ['App Tier'],
-		'link': '/docs/RUM/agent_installation/nextjs'
+		'link': '/docs/selfhosted-lite/RUM/agent_installation/nextjs'
 	},
 	{
 		'src': '/img/integration/integration_list/ruby.svg',
 		'label': 'Ruby',
 		'overText': 'Tracing for ruby application',
 		'category': ['App Tier'],
-		'link': '/docs/Tracing/ruby/overview'
+		'link': '/docs/selfhosted-lite/Tracing/ruby/overview'
 	},
 	{
 		'src': '/img/integration/integration_list/c-sharp-net.svg',
 		'label': 'C#',
 		'overText': 'Tracing for C# application',
 		'category': ['App Tier'],
-		'link': '/docs/Tracing/csharp'
+		'link': '/docs/selfhosted-lite/Tracing/csharp'
 	},
 	{
 		'src': '/img/golang.svg',
@@ -345,21 +345,21 @@ const AGENTS = [
 		'label': 'Python',
 		'overText': 'Tracing for Python application',
 		'category': ['App Tier'],
-		'link': '/docs/Tracing/python/overview'
+		'link': '/docs/selfhosted-lite/Tracing/python/overview'
 	},
 	{
 		'src': '/img/integration/integration_list/php.svg',
 		'label': 'PHP',
 		'overText': 'Tracing for PHP application',
 		'category': ['App Tier'],
-		//'link': '/docs/Tracing/php/overview'
+		//'link': '/docs/selfhosted-lite/Tracing/php/overview'
 	},
 	{
 		'src': '/img/integration/integration_list/aws.svg',
 		'label': 'aws',
 		'overText': 'Monitor AWS infra',
 		'category': ['Infrastructure'],
-		'link': '/docs/Integrations/plugin/aws'
+		'link': '/docs/selfhosted-lite/Integrations/plugin/aws'
 	},
 	{
 		'src': '/img/integration/integration_list/azure.svg',
@@ -373,7 +373,7 @@ const AGENTS = [
 		'label': 'V-center',
 		'overText': 'Monitor V center infra',
 		'category': ['Infrastructure'],
-		'link': '/docs/Integrations/plugin/vcenter'
+		'link': '/docs/selfhosted-lite/Integrations/plugin/vcenter'
 	},
 	{
 		'src': '/img/integration/integration_list/docker.svg',
@@ -387,7 +387,7 @@ const AGENTS = [
 		'label': 'CloudWatch',
 		'overText': 'to collect cloud watch logs',
 		'category': ['Cloud Services'],
-		'link': '/docs/Integrations/cloudwatch'
+		'link': '/docs/selfhosted-lite/Integrations/cloudwatch'
 	},
 	{
 		'src': '/img/integration/integration_list/aurora-db.svg',
@@ -401,42 +401,42 @@ const AGENTS = [
 		'label': 'Nodejs',
 		'overText': 'Monitor Nodejs',
 		'category': ['Web Tier'],
-		'link': '/docs/Integrations/nodejs_prometheus'
+		'link': '/docs/selfhosted-lite/Integrations/nodejs_prometheus'
 	},
 	{
 		'src': '/img/integration/integration_list/documentdb.svg',
 		'label': 'DocumentDB',
 		'overText': 'Monitor DocumentDB',
 		'category': ['Database'],
-		'link': '/docs/Integrations/docdb'
+		'link': '/docs/selfhosted-lite/Integrations/docdb'
 	},
 	{
 		'src': '/img/integration/integration_list/hashicorp-consul.svg',
 		'label': 'HCP Consul',
 		'overText': 'Monitor DocumentDB',
 		'category': [''],
-		'link': '/docs/Integrations/hcp_consul'
+		'link': '/docs/selfhosted-lite/Integrations/hcp_consul'
 	},
 	{
 		'src': '/img/integration/integration_list/pgbouncer.svg',
 		'label': 'PgBouncer',
 		'overText': 'Load balancer for PostgreSQL',
 		'category': ['Web Tier'],
-		'link': '/docs/Integrations/pgBouncer/pgBouncer_on_instance'
+		'link': '/docs/selfhosted-lite/Integrations/pgBouncer/pgBouncer_on_instance'
 	},
 	{
 		'src': '/img/integration/integration_list/jboss.svg',
 		'label': 'Jboss',
 		'overText': 'Jboss Metric plugin monitors Jboss server by collecting multiple types of metrics ',
 		'category': ['Web Tier'],
-		'link': '/docs/Integrations/jboss'
+		'link': '/docs/selfhosted-lite/Integrations/jboss'
 	},
 	{
 		'src': '/img/integration/integration_list/azure-log-analytics.svg',
 		'label': 'Azure Log',
 		'overText': 'Plugin relays the log events stored in event hub to snappyflow APM ',
 		'category': ['Web Tier'],
-		'link': '/docs/Integrations/plugin/azurelog'
+		'link': '/docs/selfhosted-lite/Integrations/plugin/azurelog'
 	},
 	
 	

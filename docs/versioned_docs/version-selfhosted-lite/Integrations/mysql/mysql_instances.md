@@ -2,7 +2,7 @@
 
 ## Prerequisites
 
-Install [sfAgent](/docs/Quick_Start/getting_started#sfagent)  to start monitoring MySQL database running on instances using MySQL plugin.
+Install [sfAgent](/docs/selfhosted-lite/Quick_Start/getting_started#sfagent)  to start monitoring MySQL database running on instances using MySQL plugin.
 
 :::note
 

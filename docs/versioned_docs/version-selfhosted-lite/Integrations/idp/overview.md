@@ -15,4 +15,4 @@ SnappyFlow's Identity Provider (IDP) feature enables Single Sign-On capability f
 
 ## Supported Protocols
 
-[OpenID Connect](/docs/Integrations/idp/open_id_connect) | [LADP](/docs/Integrations/idp/ldap) | [SAML](/docs/Integrations/idp/saml)
+[OpenID Connect](/docs/selfhosted-lite/Integrations/idp/open_id_connect) | [LADP](/docs/selfhosted-lite/Integrations/idp/ldap) | [SAML](/docs/selfhosted-lite/Integrations/idp/saml)

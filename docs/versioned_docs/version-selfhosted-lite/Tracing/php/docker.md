@@ -5,9 +5,9 @@ sidebar_position: 3
 
 ## Prerequisite
 
-1. Install [sfagent](/docs/Quick_Start/getting_started#sfagent) to integrate your application with SnappyFlow.
+1. Install [sfagent](/docs/selfhosted-lite/Quick_Start/getting_started#sfagent) to integrate your application with SnappyFlow.
 
-2. Make sure that the project and application are created in the SnappyFlow server. If not, [click here](https://stage-docs.snappyflow.io/docs/RUM/agent_installation/others#create-a-project-in-snappyflow-portal) to create a project and an application in SnappyFlow.
+2. Make sure that the project and application are created in the SnappyFlow server. If not, [click here](/docs/selfhosted-lite/RUM/agent_installation/others#create-a-project-in-snappyflow-portal) to create a project and an application in SnappyFlow.
 
 3. Provide the `PROFILE_KEY`,  `PROJECT_NAME` , and `APP_NAME`  in the `config.yaml` file.
 
