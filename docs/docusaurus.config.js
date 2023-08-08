@@ -42,19 +42,19 @@ const config = {
           // Remove this to remove the "edit this page" links.
           editUrl:
             'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/', 
-          onlyIncludeVersions: ['sidebar-snappyflow-saas', 'sidebar-sf-selfhosted-turbo', 'sidebar-sf-selfhosted-lite'], 
+          onlyIncludeVersions: ['cloud', 'selfhosted-turbo', 'selfhosted-lite'], 
             versions: {
-                    'sidebar-snappyflow-saas': {
+                    'cloud': {
                       banner: 'none',
-                      label:'SnappyFlow SaaS',
+                      label:'Cloud',
                         },
-                      'sidebar-sf-selfhosted-turbo': {
+                      'selfhosted-turbo': {
                               banner: 'none',
-                              label:'SnappyFlow Self Hosted Turbo',
+                              label:'Selfhosted Turbo',
                             },
-                      'sidebar-sf-selfhosted-lite': {
+                      'selfhosted-lite': {
                               banner: 'none',
-                              label:'SnappyFlow  Self Hosted Lite',
+                              label:'Selfhosted Lite',
                         }, 
                       },
                       
@@ -154,7 +154,7 @@ const config = {
             title: ' ', 
             items: [
               {
-                html: `<img src="../../img/sf_logo.svg" alt="logo" /> `,
+                html: `<img src="/img/sf_logo.svg" alt="logo" /> `,
               },
             ],
           },
@@ -274,7 +274,7 @@ const config = {
               {
                 html: `
                   <a href="https://accounts.snappyflow.io/freetrial" target="_blank"><input type="button" value="Free Trial" class="primary-btn" /></a><br/><br/>
-                  <div> <a href="#"><img src="../../img/linked.svg" /></a> <a href="#" style="margin-left:5px"><img src="../../img/instagram.svg" /></a></div>
+                  <div> <a href="#"><img src="/img/linked.svg" /></a> <a href="#" style="margin-left:5px"><img src="/img/instagram.svg" /></a></div>
                   `,
               },
             ]

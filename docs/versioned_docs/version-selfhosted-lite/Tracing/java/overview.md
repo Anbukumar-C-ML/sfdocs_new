@@ -1,0 +1,63 @@
+---
+sidebar_position: 3 
+---
+# Tracing - Java Applications
+
+## Overview
+
+The Java tracing feature can automatically instrument APIs, frameworks, and application servers for Java-based applications. Utilizing the SnappyFlow Java trace agent, the feature collects and sends tracing metrics and correlated application logs to the SnappyFlow server for viewing on the SnappyFlow dashboard.
+
+<div class="blue_textbox">
+	<b><u>Supported Java versions</u></b> 
+	<p>
+        <b>Oracle JDK</b>: 7u60+, 8u40+, 9, 10, 11</p>
+    <p>
+        <b>Open JDK</b>: 7u60+, 8u40+, 9, 10, 11  
+    </p>
+	<b><u>Supported Web Frameworks</u></b>
+	<p>
+     <b>Spring Web MVC</b> 4.x, 5.x
+	</p>
+    <p>
+     <b>Spring Boot</b> 1.5+, 2.x (supports embedded Tomcat)       
+    </p>
+    <p>
+     <b>JAX-RS</b> 2.x   
+    </p>
+    <p>
+      <b>JAX-WS</b> 
+    </p>
+    <p>
+	<b><u>Supported Application Servers</u></b>
+    </p>
+    <p>
+      <b>Tomcat</b> 7.x, 8.5.x, 9.x  
+    </p>
+    <p>
+      <b>Wildfly</b> 8-16  
+    </p>
+    <p>
+     <b>JBoss EAP</b> 6.4, 7.0, 7.1, 7.2
+    </p>
+</div>
+
+
+
+## Supported Platforms
+
+**[Instances](/docs/selfhosted-lite/selfhosted-lite/Tracing/java/instance)** | **[Docker](/docs/selfhosted-lite/Tracing/java/docker)**  |  **[ECS](/docs/selfhosted-lite/Tracing/java/ecs)**  | **[Kubernetes](/docs/selfhosted-lite/Tracing/java/kubernetes)**
+
+ 
+
+## Additional Trace Features 
+
+**[Capture Request Body](/docs/selfhosted-lite/Tracing/java/capture_request_body)** | **[Log Correlation](/docs/selfhosted-lite/Tracing/java/log_correlation)** 
+
+:::note
+
+Additional configurations are required to enable **Log Correlation** and **Capture Request Body** features. 
+
+:::
+
+
+
