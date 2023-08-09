@@ -1387,8 +1387,8 @@ visibility: hidden !important;
 } 
 #__docusaurus .searchBar .dropdownMenu,#__docusaurus .searchBar_RVTs .dropdownMenu_qbY6,
 #__docusaurus .searchBar_node_modules-\@easyops-cn-docusaurus-search-local-dist-client-client-theme-SearchBar-SearchBar-module .dropdownMenu_node_modules-\@easyops-cn-docusaurus-search-local-dist-client-client-theme-SearchBar-SearchBar-module{
-  left: 0px !important;
-  right: unset !important;
+  right: 0px !important;
+  left: unset !important;
 }
 .box_size img,.searchContrainer img{
 pointer-events: none;
