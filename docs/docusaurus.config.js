@@ -42,14 +42,14 @@ const config = {
           // Remove this to remove the "edit this page" links.
           editUrl:
             'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/', 
-          onlyIncludeVersions: ['cloud', 'selfhosted-turbo', 'selfhosted-lite'], 
+          onlyIncludeVersions: ['cloud', 'selfhosted-turbo', 'selfhosted-lite'],
             versions: {
                     'cloud': {
                       banner: 'none',
                       label:'Cloud',
                         },
                       'selfhosted-turbo': {
-                              banner: 'none',
+                              banner: 'none', 
                               label:'Selfhosted Turbo',
                             },
                       'selfhosted-lite': {
@@ -93,7 +93,7 @@ const config = {
       docs: {
         sidebar: {
           hideable: true,
-        //  autoCollapseCategories: true,
+         autoCollapseCategories: true,
         },
       },
       // Replace with your project's social card
@@ -104,16 +104,7 @@ const config = {
           alt: 'SnappyFlow',
           src: '/img/sf_logo.svg',
         },
-        items: [ 
-		     {
-          type: 'doc',
-          href: '/',
-          docId: 'Tracing/overview',
-          target: '_self',
-          position: 'right',
-          label: 'Documentation',
-          class: 'docs',
-          }, 
+        items: [  
           {
             type: 'doc',
             href: 'https://snappyflow.io/pricing',
@@ -172,11 +163,7 @@ const config = {
               {
                 label: 'Pricing',
                 to: 'https://www.snappyflow.io/pricing',
-              },
-              {
-                label: 'Documentation',
-                to: 'https://docs.snappyflow.io/',
-              },
+              }, 
               {
                 label: 'Blogs',
                 to: 'https://www.snappyflow.io/blog',
@@ -204,7 +191,7 @@ const config = {
               },
               {
                 label: 'Tracing',
-                to: 'https://www.snappyflow.io/tacing',
+                to: 'https://www.snappyflow.io/tracing',
               },
               {
                 label: 'Logs',
@@ -274,7 +261,7 @@ const config = {
               {
                 html: `
                   <a href="https://accounts.snappyflow.io/freetrial" target="_blank"><input type="button" value="Free Trial" class="primary-btn" /></a><br/><br/>
-                  <div> <a href="#"><img src="/img/linked.svg" /></a> <a href="#" style="margin-left:5px"><img src="/img/instagram.svg" /></a></div>
+                  <div> <a href="https://www.linkedin.com/company/snappyflow/" target="_blank"><img src="/img/linked.svg" /></a> <a href="https://www.instagram.com/snappyflow/" target="_blank" style="margin-left:5px"><img src="/img/instagram.svg" /></a></div>
                   `,
               },
             ]

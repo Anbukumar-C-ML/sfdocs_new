@@ -854,12 +854,12 @@ background: #23B5E9;
   text-decoration: none;
   margin-top: -2px;
 }
-.navbar__search{
+/* .navbar__search{
 display: block !important;
 position: absolute !important;
 left: 205px;
 top: 6px;
-}
+} */
 /*.theme-doc-markdown header{
 display: none;
 }*/
@@ -912,10 +912,13 @@ padding: 11px 18px;
 font-family: 'AmazonEmber_Bd', sans-serif !important
 }
 .navbar__item.dropdown{
-  background: #022e49;
+  background: #003250;
   border: 1px solid #034066;
   border-radius: 3px;
   width: 180px;
+  position: absolute;
+  left: 0px;
+  margin-left: 15%;
 }
 .dropdown > .navbar__link:after{
   position: absolute !important;
@@ -1059,6 +1062,7 @@ width: 4rem !important;
 margin-left: 20px;
 position: relative;
 right: -10px;
+display: none;
 }
 .col--4:nth-child(1) .product-panel{
 border-radius: 5px;
@@ -1396,12 +1400,15 @@ html[data-theme="light"] .dropdown__link{
   width: 200px;
   border-radius: 25px;
 }
+.navbar__search{
+  margin-left: 0px !important;
+}
 @media screen and (max-width: 550px) and (min-width: 320px) {
-  .navbar__search{ 
+  /* .navbar__search{ 
   top: -54px;
   right: -45px;
   left: unset;
-}
+} */
 .footer__links .footer__col:last-child{
   text-indent: 5px !important;
 }
@@ -1527,7 +1534,7 @@ nav.navbar--fixed-top{
 .menu__list li{
   padding: 7px 0px;
   text-indent: 35px;
-}
+} 
 
 .navbar__search-input:not(:focus),.navbar__search-input{
   /* width: 100% !important; */
@@ -1637,18 +1644,18 @@ main .padding-bottom--lg .col:first-child{
 }
 @media screen and (max-width: 766px) and (min-width: 550px)
 {
-.navbar__search{
+/* .navbar__search{
   left: unset; 
   position: relative !important;
   top: unset;
-}
+} */
 }
 @media screen and (max-width: 996px) and (min-width: 768px) { 
 
-.navbar__search{
+/* .navbar__search{
   position: unset !important; 
 
-} 
+}  */
 .navbar a{
   color: #000;
 }
@@ -1709,9 +1716,9 @@ article button:first-child{
 } */
 } 
 @media only screen and (max-width: 1226px) and (min-width: 998px) {
-.navbar__search{
+/* .navbar__search{
   left: 23%;
-}
+} */
 .container{
   width: 100%;
 }
