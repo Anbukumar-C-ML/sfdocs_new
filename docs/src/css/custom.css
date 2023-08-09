@@ -1389,8 +1389,8 @@ visibility: hidden !important;
 .box_size img,.searchContrainer img{
 pointer-events: none;
 }
-.dropdown__link{
-  color: #000 !important;
+html[data-theme="light"] .dropdown__link{
+  color: #000;
 }
 .searchBox button{
   width: 200px;
