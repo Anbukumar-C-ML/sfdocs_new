@@ -45,7 +45,7 @@ The Java tracing feature can automatically instrument APIs, frameworks, and appl
 
 ## Supported Platforms
 
-**[Instances](/docs/selfhosted-lite/selfhosted-lite/Tracing/java/instance)** | **[Docker](/docs/selfhosted-lite/Tracing/java/docker)**  |  **[ECS](/docs/selfhosted-lite/Tracing/java/ecs)**  | **[Kubernetes](/docs/selfhosted-lite/Tracing/java/kubernetes)**
+**[Instances](/docs/selfhosted-lite/Tracing/java/instance)** | **[Docker](/docs/selfhosted-lite/Tracing/java/docker)**  |  **[ECS](/docs/selfhosted-lite/Tracing/java/ecs)**  | **[Kubernetes](/docs/selfhosted-lite/Tracing/java/kubernetes)**
 
  
 

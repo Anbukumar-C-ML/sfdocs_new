@@ -1,11 +1,19 @@
+# Monitor Cloud Services
 
-# What Is SfPoller?
+To monitor your cloud services, you need to set up sfPoller within your cloud environment. sfPoller collects metrics from your cloud services, and send these metrics to SnappyFlow. You can access and visualize these metrics through SnappyFlow dashboard. These metrics will enable you to gain valuable insights into the performance and health of your cloud services.
+
+
+
+<img src="/img/sf-poller-diagram.svg" />
+
+
+## What Is SfPoller?
 
 
 During the course of instrumenting an application for monitoring, an SRE or an architect needs a repertoire of tools to cater to varied requirements of monitoring. sfPoller is a powerful and extremely useful component of SnappyFlow and when used in conjunction with sfAgent and sfPod, allow users to reach all interfaces of an application that need to be monitored.
 
 A few example scenarios where sfPoller is indispensable are mentioned below:
- 
+
 | **Use Cases** | **sfPoller features**       |
 | ------------- | ---------------------------- |
 | Monitoring Cloud Services such as ELB, S3, RDS etc.  | Includes plugins for most commonly used cloud components. Plugin connects to a cloud account, discover inventory and collect static & dynamic parameters using Public cloud APIs, Cloudwatch and Azure Monitor. |

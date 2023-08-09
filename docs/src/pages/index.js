@@ -16,8 +16,7 @@ function HomepageHeader() {
         <div className="col col--6 ">
             <div className='content-header'>
               <h1 className="hero__title">Welcome to <br/>SnappyFlow Docs</h1>
-              <p>Comprehensive guide to set up all things in SnappyFlow</p>
-			  <p>Deploy, Monitor and Troubleshoot</p>
+			  <p>Comprehensive guide to set up all things in SnappyFlow <br/>Deploy, Monitor and Troubleshoot</p>
             </div>
         </div>
         <div className="col col--6 text-center mobile-view">

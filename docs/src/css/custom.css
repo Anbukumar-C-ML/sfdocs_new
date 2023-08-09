@@ -915,6 +915,13 @@ font-family: 'AmazonEmber_Bd', sans-serif !important
   background: #022e49;
   border: 1px solid #034066;
   border-radius: 3px;
+  width: 180px;
+}
+.dropdown > .navbar__link:after{
+  position: absolute !important;
+  top: 50%;
+  transform: translateY(-50%);
+  right: 10px;
 }
 .navbar__items svg path{
 fill: #fff; 
@@ -1382,8 +1389,8 @@ visibility: hidden !important;
 .box_size img,.searchContrainer img{
 pointer-events: none;
 }
-.dropdown__link{
-  color: #000 !important;
+html[data-theme="light"] .dropdown__link{
+  color: #000;
 }
 .searchBox button{
   width: 200px;

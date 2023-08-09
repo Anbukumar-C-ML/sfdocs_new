@@ -1,3 +1,3 @@
-# Setup SnappyFlow Self Hosted
+# Setup SnappyFlow Self Hosted Turbo
 
 This section is getting refreshed. Get it touch with [support@snappyflow.io](mailto:support@snappyflow.io) for any help.

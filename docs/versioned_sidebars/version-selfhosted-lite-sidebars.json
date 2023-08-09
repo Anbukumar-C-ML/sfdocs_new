@@ -23,6 +23,26 @@
       },
       "collapsed": true,
       "items": [
+	    {
+          "type": "category",
+          "label": "Setup SnappyFlow Self Hosted Lite",
+          "link": {
+            "type": "generated-index"
+          },
+          "collapsed": true,
+          "items": [
+            {
+              "type": "doc",
+              "id": "Quick_Start/aws",
+              "label": "AWS"
+            },
+            {
+              "type": "doc",
+              "id": "Quick_Start/azure",
+              "label": "Azure"
+            }
+          ]
+        },
         {
           "type": "doc",
           "id": "Integrations/os/linux/sfagent_linux",
@@ -42,26 +62,6 @@
           "type": "doc",
           "id": "Integrations/kubernetes/kubernetes_monitoring_with_sfPod",
           "label": "Monitor a Kubernetes cluster"
-        },
-        {
-          "type": "category",
-          "label": "Setup SnappyFlow Self Hosted",
-          "link": {
-            "type": "generated-index"
-          },
-          "collapsed": true,
-          "items": [
-            {
-              "type": "doc",
-              "id": "Quick_Start/aws",
-              "label": "AWS"
-            },
-            {
-              "type": "doc",
-              "id": "Quick_Start/azure",
-              "label": "Azure"
-            }
-          ]
         }
       ]
     },
@@ -301,27 +301,10 @@
           "label": "AWS S3"
         },
         {
-          "type": "category",
-          "label": "AuroraDB",
-          "link": {
-            "type": "doc",
-            "id": "Integrations/auroraDB/overview"
-          },
-          "collapsed": true,
-          "items": [
-            {
-              "type": "doc",
-              "id": "Integrations/auroraDB/mysql",
-              "label": "MySQL"
-            },
-            {
-              "type": "doc",
-              "id": "Integrations/auroraDB/postgresql",
-              "label": "PostgreSQL"
-            }
-          ]
+          "type": "doc",
+		  "id": "Integrations/auroraDB/overview",
+          "label": "AuroraDB" 
         },
-        {},
         {
           "type": "doc",
           "id": "Integrations/plugin/azuredb",

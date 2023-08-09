@@ -1,5 +1,5 @@
 {
-  "name": "docs",
+  "name": "package.json",
   "version": "0.0.0",
   "private": true,
   "scripts": {
@@ -45,5 +45,9 @@
   },
   "engines": {
     "node": ">=16.14"
-  }
+  },
+  "description": "This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.",
+  "main": "babel.config.js",
+  "author": "",
+  "license": "ISC"
 }
