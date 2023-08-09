@@ -35,11 +35,6 @@
         },
         {
           "type": "doc",
-          "id": "Quick_Start/sfpoller_setup",
-          "label": "Monitor Cloud Services"
-        },
-        {
-          "type": "doc",
           "id": "Integrations/kubernetes/kubernetes_monitoring_with_sfPod",
           "label": "Monitor a Kubernetes cluster"
         },
@@ -52,7 +47,7 @@
     },
     {
       "type": "category",
-      "label": "sfPoller",
+      "label": "Cloud Services",
       "className": "sfpollerIcon",
       "link": {
         "type": "doc",
@@ -63,7 +58,7 @@
         {
           "type": "doc",
           "id": "sfPoller/overview",
-          "label": "sfPoller overview"
+          "label": "Overview"
         },
         {
           "type": "doc",

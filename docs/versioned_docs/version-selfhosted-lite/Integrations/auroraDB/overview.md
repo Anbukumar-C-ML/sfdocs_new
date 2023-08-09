@@ -3,6 +3,7 @@ sidebar_position: 3
 ---
 # Monitor Aurora Database
 
+<<<<<<< Updated upstream
 ## Overview
 
 Amazon Aurora is a cloud-native relational database engine and it is compatible with both MySQL and PostgreSQL. The metrics of Aurora DB are gathered by sfPoller and displayed within the dashboard of SnappyFlow.
@@ -66,3 +67,6 @@ Start collecting metrics and logs from Aurora-PostgreSQL and Aurora-MySQL.
 [Aurora-PostgreSQL](/docs/selfhosted-lite/Integrations/auroraDB/postgresql)
 
 [Aurora-MySQL](/docs/selfhosted-lite/Integrations/auroraDB/mysql)
+=======
+This section is getting refreshed. Get it touch with [support@snappyflow.io](mailto:support@snappyflow.io) for any help.
+>>>>>>> Stashed changes

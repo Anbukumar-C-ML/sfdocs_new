@@ -1,5 +1,13 @@
 # Monitor Cloud Services
 
+To monitor your cloud services, you need to set up sfPoller within your cloud environment. sfPoller collects metrics from your cloud services, and send these metrics to SnappyFlow. You can access and visualize these metrics through SnappyFlow dashboard. These metrics will enable you to gain valuable insights into the performance and health of your cloud services.
+
+
+
+<img src="/img/sf-poller-diagram.svg" />
+
+
+
 ## What Is SfPoller?
 
 
