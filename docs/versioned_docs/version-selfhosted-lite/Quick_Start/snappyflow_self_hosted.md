@@ -1,16 +1,9 @@
-# Setup SnappyFlow Self Hosted
- 
+# Setup SnappyFlow Self Hosted Lite
 
-<<<<<<< Updated upstream
-<!-- ##### [AWS](/docs/home/Quick_Start/aws)
 
-##### [Azure](/docs/Quick_Start/azure) -->
 
-##### AWS
+##### [Azure](/docs/Quick_Start/azure) 
 
-##### Azure
-=======
 ##### [AWS](/docs/selfhosted-lite/Quick_Start/aws)
 
 ##### [Azure](/docs/selfhosted-lite/Quick_Start/azure)
->>>>>>> Stashed changes

@@ -14,9 +14,8 @@
 
 - SnappyFlow self-hosted lite version takes ingest rates up to 500 GB/Day
   
-- For seeting up SnappyFlow in AWS or Azure
- <!-- [click here](/docs/category/snappyflow-self-hosted) -->
-
+- For seeting up SnappyFlow in AWS or Azure [click here](/docs/category/snappyflow-self-hosted). 
+ 
 - For ingest rates above 500 GB/Day, please reach out to [support@snappyflow.io](mailto:support@snappyflow.io). A support engineer will understand your data ingest rates and provide an appropriately sized solution 
 
 ## Important terminologies and concepts

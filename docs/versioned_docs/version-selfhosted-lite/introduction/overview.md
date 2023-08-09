@@ -1,4 +1,4 @@
-# SnappyFlow <br/>Observability Simplified
+# Observability Simplified With SnappyFlow
 
 SnappyFlow is a full stack observability tool.  It helps you gain comprehensive visibility into your applications,  infrastructure, and cloud services. With SnappyFlow's robust feature you can empower your DevOps team to proactively monitor systems, troubleshoot issues, and optimize performance, ultimately leading to improved reliability, scalability, and better user experience.
 

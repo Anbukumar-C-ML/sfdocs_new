@@ -21,10 +21,15 @@
         "type": "doc",
         "id": "Quick_Start/getting_started"
       },
-      "collapsed": false,
+      "collapsed": true,
       "items": [
-        {
+	    {
           "type": "doc",
+          "id": "Quick_Start/snappyflow_self_hosted_turbo",
+          "label": "Setup SnappyFlow Self Hosted Turbo"
+        },
+        {
+          "type": "doc", 
           "id": "Integrations/os/linux/sfagent_linux",
           "label": "Monitor a Linux system"
         },
@@ -37,11 +42,6 @@
           "type": "doc",
           "id": "Integrations/kubernetes/kubernetes_monitoring_with_sfPod",
           "label": "Monitor a Kubernetes cluster"
-        },
-        {
-          "type": "doc",
-          "id": "Quick_Start/snappyflow_self_hosted",
-          "label": "Setup SnappyFlow Self Hosted"
         }
       ]
     },
