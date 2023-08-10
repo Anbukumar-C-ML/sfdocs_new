@@ -12,6 +12,26 @@ SnappyFlow utilizes **Role-based access control (RBAC)** to streamline the user 
 
 **None**: This role has no access privileges.
 
+## Step 1: Create a Profile
+
+1. Go to the **Manage** tab in SnappyFlow.
+
+2. Select `+ Add Profile` button.
+
+3. Give a name to the Profile.
+
+4. Add Metric Store Details as required.
+
+5. Add user as required.
+
+:::note
+
+Only the users added through the user section will reflect here. [Click here](#how-to-add-users) to know how to add user(s) to SnappyFlow.
+
+:::
+
+6. Select the `Save` button to add the profile.
+
 
 
 ## How to Add User(s)?
@@ -27,11 +47,11 @@ Only Snappyflow account admin has the permission to add user(s) to the account.
 1. Go to the **Manage** tab in SnappyFlow.
 2. Navigate to the **Users** tab.
 3. Click the `+Add User` button in the **User Management** window.
-4. In the Add User window, add the following details:
+4. In the **Add User** window, add the following details:
    - Name
    - Email
 5. Click the `Save` button.
-6. Password will be generated.
+6. Password will be generated. Share the password with the user to access SnappyFlow.
 7. To add multiple user at a time, click the `Add Users (.csv)` button.
    - In the **Add User(.csv)** window, upload a `.csv` file with the list of users
    - Click the `Add` button.

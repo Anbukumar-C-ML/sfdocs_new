@@ -41,7 +41,7 @@ sfPoller is a poller appliance installed within user’s cloud account. It can b
 
 - Stream logs from applications to sfPoller, apply parsing rules and forward logs to SnappyFlow. 
 
-[Procedure for sfPoller setup](/docs/quick_start/sfpoller_setup)
+[Procedure for sfPoller setup](/docs/selfhosted-turbo/cloud_services/overview)
 
 ## sfPod
 
@@ -53,13 +53,13 @@ Daemon set installed on Kubernetes cluster and monitors the following elements:
 - Cluster logs 
 - Monitor Prometheus exporters running on any of the application pods 
 
-[Procedure for sfPod setup](/docs/integrations/kubernetes/kubernetes_monitoring_with_sfPod)
+[Procedure for sfPod setup](/docs/selfhosted-turbo/integrations/kubernetes/kubernetes_monitoring_with_sfPod)
 
 ## sfKubeAgent
 
 sfAgent equivalent and installed as a side-car container within a Kubernetes  pod and can be configured to monitor metrics and logs of other  containers running on pods. 
 
-[Procedure for setting up sfKubeAgent](/docs/integrations/kubernetes/sfkubeagent_installation)
+[Procedure for setting up sfKubeAgent](/docs/selfhosted-turbo/integrations/kubernetes/sfkubeagent_installation)
 
 ## Profile Key
 
@@ -81,4 +81,4 @@ Try out one of the simple exercises to familiarize yourself with the product
 
 ##### [Monitor a Windows instance](/docs/selfhosted-turbo/integrations/os/windows/sfagent_windows)
 
-##### [Trace an application](/docs/selfhosted-turbo/Tracing/overview)
+##### [Trace an application](/docs/selfhosted-turbo/category/tracing)

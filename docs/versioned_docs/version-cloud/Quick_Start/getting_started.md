@@ -82,10 +82,10 @@ SnappyFlow mandates that all end-points should be assigned two tags - `_tag_proj
 
 Try out one of the simple exercises to familiarize yourself with the product 
 
-##### [Monitor a Linux instance](/docs/integrations/os/linux/linux_os)
+##### [Monitor a Linux instance](/docs/Quick_Start/sfagent_linux)
 
-##### [Monitor a Kubernetes Cluster](/docs/integrations/kubernetes/kubernetes_monitoring_with_sfPod)
+##### [Monitor a Kubernetes Cluster](/docs/Quick_Start/kubernetes_monitoring_with_sfPod)
 
-##### [Monitor a Windows instance](/docs/integrations/os/windows/sfagent_windows)
+##### [Monitor a Windows instance](/docs/Quick_Start/sfagent_windows)
 
-##### [Trace an application](/docs/Tracing/overview)
+##### [Trace an application](/docs/category/tracing)

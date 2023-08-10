@@ -4,6 +4,10 @@
       "type": "category",
       "label": "Introduction",
       "className": "introIcon",
+	  "link": {
+        "type": "doc",
+        "id": "introduction/overview",
+      },
       "collapsed": true,
       "items": [
         {
@@ -25,17 +29,17 @@
       "items": [
         {
           "type": "doc",
-          "id": "Integrations/os/linux/sfagent_linux",
+          "id": "Quick_Start/sfagent_linux",
           "label": "Monitor a Linux system"
         },
         {
           "type": "doc",
-          "id": "Integrations/os/windows/sfagent_windows",
+          "id": "Quick_Start/sfagent_windows",
           "label": "Monitor a Windows system"
         },
         {
           "type": "doc",
-          "id": "Integrations/kubernetes/kubernetes_monitoring_with_sfPod",
+          "id": "Quick_Start/kubernetes_monitoring_with_sfPod",
           "label": "Monitor a Kubernetes cluster"
         }
       ]
@@ -53,7 +57,7 @@
         {
           "type": "doc",
           "id": "sfPoller/overview",
-          "label": "overview"
+          "label": "Overview"
         },
         {
           "type": "doc",

@@ -4,6 +4,10 @@
       "type": "category",
       "label": "Introduction",
       "className": "introIcon",
+	  "link": {
+        "type": "doc",
+        "id": "introduction/overview",
+      },
       "collapsed": true,
       "items": [
         {
@@ -30,17 +34,17 @@
         },
         {
           "type": "doc", 
-          "id": "Integrations/os/linux/sfagent_linux",
+          "id": "Quick_Start/sfagent_linux",
           "label": "Monitor a Linux system"
         },
         {
           "type": "doc",
-          "id": "Integrations/os/windows/sfagent_windows",
+          "id": "Quick_Start/sfagent_windows",
           "label": "Monitor a Windows system"
         },
         {
           "type": "doc",
-          "id": "Integrations/kubernetes/kubernetes_monitoring_with_sfPod",
+          "id": "Quick_Start/kubernetes_monitoring_with_sfPod",
           "label": "Monitor a Kubernetes cluster"
         }
       ]
@@ -51,28 +55,28 @@
       "className": "sfpollerIcon",
       "link": {
         "type": "doc",
-        "id": "sfPoller/overview"
+        "id":"cloud_services/overview"
       },
       "collapsed": true,
       "items": [
         {
           "type": "doc",
-          "id": "sfPoller/overview",
+          "id": "cloud_services/overview",
           "label": "Overview"
         },
         {
           "type": "doc",
-          "id": "sfPoller/aws_setup",
+          "id": "cloud_services/aws_setup",
           "label": "Setup in AWS"
         },
         {
           "type": "doc",
-          "id": "sfPoller/vcenter_setup",
+          "id": "cloud_services/vcenter_setup",
           "label": "Setup in vCenter"
         },
         {
           "type": "doc",
-          "id": "sfPoller/azure_setup",
+          "id": "cloud_services/azure_setup",
           "label": "Setup in Azure"
         }
       ]
