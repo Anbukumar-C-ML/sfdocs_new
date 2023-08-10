@@ -912,19 +912,25 @@ padding: 11px 18px;
 font-family: 'AmazonEmber_Bd', sans-serif !important
 }
 .navbar__item.dropdown{
-  background: #003250;
-  border: 1px solid #034066;
+  background: rgb(0,50,83);
+  background: linear-gradient(4deg, rgba(0,50,83,1) 0%, rgba(7,86,135,1) 100%);
+  border: 1px solid #075687;
+  font-family: Amazon-Ember-Medium;
   border-radius: 3px;
-  width: 180px;
+  width: 186px;
   position: absolute;
   left: 0px;
   margin-left: 15%;
+  padding: 5px 10px;
 }
 .dropdown > .navbar__link:after{
   position: absolute !important;
   top: 50%;
   transform: translateY(-50%);
   right: 10px;
+  border-width: 0px;
+  padding: 6px;
+  background: url('../../static/img/arrow_down.svg') 1px 3px no-repeat;
 }
 .navbar__items svg path{
 fill: #fff; 
